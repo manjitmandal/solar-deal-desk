@@ -1,0 +1,2217 @@
+Snapshot_Date,Opportunity_ID,Stage,Probability_Pct,Forecast_Category,Amount_USD,Close_Date,Region
+2026-07-03,OPP-0001,Closed Won,100,Closed,19870000.0,2026-01-03,Australia
+2026-07-03,OPP-0002,Qualification,20,Pipeline,9597000.0,2026-09-02,Latin America
+2026-07-03,OPP-0005,Closed Won,100,Closed,18168000.0,2026-01-08,India
+2026-07-03,OPP-0007,Closed Lost,0,Omitted,12254000.0,2026-05-05,Europe
+2026-07-03,OPP-0008,Qualification,20,Pipeline,8883000.0,2026-12-15,Latin America
+2026-07-03,OPP-0009,Closed Lost,0,Omitted,19393000.0,2026-06-26,Latin America
+2026-07-03,OPP-0010,Closed Won,100,Closed,9051000.0,2025-11-13,India
+2026-07-03,OPP-0011,Qualification,20,Pipeline,15040000.0,2026-11-02,Latin America
+2026-07-03,OPP-0012,Prospecting,10,Pipeline,5320000.0,2027-01-03,India
+2026-07-03,OPP-0013,Prospecting,10,Pipeline,13646000.0,2026-12-19,India
+2026-07-03,OPP-0014,Closed Lost,0,Omitted,6831000.0,2026-06-05,India
+2026-07-03,OPP-0015,Closed Lost,0,Omitted,18040000.0,2025-11-16,India
+2026-07-03,OPP-0016,Prospecting,10,Pipeline,4585000.0,2026-12-23,Latin America
+2026-07-03,OPP-0017,Closed Lost,0,Omitted,30920000.0,2026-03-10,Middle East
+2026-07-03,OPP-0018,Closed Won,100,Closed,26519000.0,2026-06-09,Australia
+2026-07-03,OPP-0020,Qualification,20,Pipeline,19925000.0,2026-10-10,India
+2026-07-03,OPP-0021,Proposal/Quote,60,Best Case,9786000.0,2026-08-21,India
+2026-07-03,OPP-0022,Prospecting,10,Pipeline,15408000.0,2027-05-04,Middle East
+2026-07-03,OPP-0023,Closed Won,100,Closed,17738000.0,2026-04-02,India
+2026-07-03,OPP-0024,Qualification,20,Pipeline,33690000.0,2026-11-20,Middle East
+2026-07-03,OPP-0025,Prospecting,10,Pipeline,19176000.0,2026-11-20,India
+2026-07-03,OPP-0027,Closed Won,100,Closed,5035000.0,2026-03-26,Europe
+2026-07-03,OPP-0028,Proposal/Quote,60,Best Case,5142000.0,2026-08-02,India
+2026-07-03,OPP-0030,Closed Lost,0,Omitted,25492000.0,2025-10-31,Latin America
+2026-07-03,OPP-0031,Closed Lost,0,Omitted,11339000.0,2026-05-18,Latin America
+2026-07-03,OPP-0032,Qualification,20,Pipeline,17618000.0,2026-11-30,India
+2026-07-03,OPP-0035,Qualification,20,Pipeline,28899000.0,2026-11-22,Latin America
+2026-07-03,OPP-0036,Closed Lost,0,Omitted,20304000.0,2026-03-20,India
+2026-07-03,OPP-0037,Prospecting,10,Pipeline,28928000.0,2026-12-05,Middle East
+2026-07-03,OPP-0040,Qualification,20,Pipeline,20578000.0,2026-10-23,India
+2026-07-03,OPP-0041,Qualification,20,Pipeline,13770000.0,2026-11-08,Australia
+2026-07-03,OPP-0042,Closed Won,100,Closed,12854000.0,2025-10-23,India
+2026-07-03,OPP-0043,Closed Lost,0,Omitted,12532000.0,2026-05-02,Middle East
+2026-07-03,OPP-0045,Closed Lost,0,Omitted,29714000.0,2026-05-31,Middle East
+2026-07-03,OPP-0046,Technical Review,40,Pipeline,22949000.0,2026-09-16,India
+2026-07-03,OPP-0047,Closed Lost,0,Omitted,15266000.0,2026-02-25,India
+2026-07-03,OPP-0048,Technical Review,40,Pipeline,15488000.0,2026-10-05,Middle East
+2026-07-03,OPP-0050,Prospecting,10,Pipeline,26236000.0,2027-03-13,Latin America
+2026-07-03,OPP-0052,Qualification,20,Pipeline,9027000.0,2026-12-04,Europe
+2026-07-03,OPP-0053,Proposal/Quote,60,Best Case,38052000.0,2026-08-20,Middle East
+2026-07-03,OPP-0054,Closed Won,100,Closed,6628000.0,2026-06-21,Europe
+2026-07-03,OPP-0057,Negotiation,80,Commit,10088000.0,2026-08-02,India
+2026-07-03,OPP-0061,Closed Lost,0,Omitted,14742000.0,2026-06-03,Europe
+2026-07-03,OPP-0062,Closed Lost,0,Omitted,10035000.0,2026-02-26,Australia
+2026-07-03,OPP-0063,Closed Won,100,Closed,14324000.0,2026-04-07,Europe
+2026-07-03,OPP-0064,Proposal/Quote,60,Best Case,39850000.0,2026-08-24,Middle East
+2026-07-03,OPP-0065,Proposal/Quote,60,Best Case,10640000.0,2026-08-08,Europe
+2026-07-03,OPP-0066,Closed Won,100,Closed,23894000.0,2026-06-25,Middle East
+2026-07-03,OPP-0068,Proposal/Quote,60,Best Case,8673000.0,2026-08-10,India
+2026-07-03,OPP-0069,Closed Lost,0,Omitted,12180000.0,2025-12-20,India
+2026-07-03,OPP-0070,Negotiation,80,Commit,12896000.0,2026-07-21,India
+2026-07-03,OPP-0071,Closed Lost,0,Omitted,17118000.0,2026-01-02,Middle East
+2026-07-03,OPP-0072,Closed Lost,0,Omitted,14762000.0,2026-02-01,India
+2026-07-03,OPP-0074,Closed Lost,0,Omitted,24794000.0,2026-01-12,Australia
+2026-07-03,OPP-0076,Proposal/Quote,60,Best Case,33156000.0,2026-08-17,Middle East
+2026-07-03,OPP-0077,Closed Won,100,Closed,18584000.0,2026-02-07,India
+2026-07-03,OPP-0078,Closed Won,100,Closed,34086000.0,2026-03-02,Middle East
+2026-07-03,OPP-0079,Qualification,20,Pipeline,3420000.0,2026-07-16,Europe
+2026-07-03,OPP-0080,Closed Lost,0,Omitted,16031000.0,2026-02-01,India
+2026-07-03,OPP-0082,Closed Won,100,Closed,9288000.0,2026-05-08,Europe
+2026-07-03,OPP-0084,Closed Lost,0,Omitted,7512000.0,2025-12-16,Latin America
+2026-07-03,OPP-0085,Closed Lost,0,Omitted,17584000.0,2026-06-08,Australia
+2026-07-03,OPP-0086,Qualification,20,Pipeline,17132000.0,2026-11-20,India
+2026-07-03,OPP-0088,Technical Review,40,Pipeline,29435000.0,2026-10-01,Latin America
+2026-07-03,OPP-0090,Qualification,20,Pipeline,6792000.0,2026-09-19,India
+2026-07-03,OPP-0091,Proposal/Quote,60,Best Case,21504000.0,2026-08-15,Latin America
+2026-07-03,OPP-0092,Technical Review,40,Pipeline,6215000.0,2026-10-11,Australia
+2026-07-03,OPP-0093,Closed Won,100,Closed,4433000.0,2026-03-06,India
+2026-07-03,OPP-0094,Closed Lost,0,Omitted,23648000.0,2026-04-24,Australia
+2026-07-03,OPP-0095,Technical Review,40,Pipeline,15462000.0,2026-08-05,India
+2026-07-03,OPP-0096,Negotiation,80,Commit,5574000.0,2026-07-21,Latin America
+2026-07-03,OPP-0097,Qualification,20,Pipeline,18194000.0,2026-09-29,India
+2026-07-03,OPP-0098,Qualification,20,Pipeline,25599000.0,2026-11-08,Middle East
+2026-07-03,OPP-0100,Closed Lost,0,Omitted,7462000.0,2026-06-26,Europe
+2026-07-03,OPP-0101,Closed Won,100,Closed,15204000.0,2026-03-29,Europe
+2026-07-03,OPP-0102,Prospecting,10,Pipeline,14035000.0,2026-12-27,India
+2026-07-03,OPP-0104,Negotiation,80,Commit,24921000.0,2026-07-16,Middle East
+2026-07-03,OPP-0105,Closed Won,100,Closed,10892000.0,2026-06-12,India
+2026-07-03,OPP-0106,Technical Review,40,Pipeline,19200000.0,2026-09-19,Middle East
+2026-07-03,OPP-0107,Qualification,20,Pipeline,10051000.0,2026-12-15,Australia
+2026-07-03,OPP-0109,Closed Lost,0,Omitted,13880000.0,2025-12-18,Europe
+2026-07-03,OPP-0110,Closed Lost,0,Omitted,22686000.0,2026-05-19,India
+2026-07-03,OPP-0111,Negotiation,80,Commit,14958000.0,2026-07-27,India
+2026-07-03,OPP-0114,Closed Won,100,Closed,13738000.0,2026-02-07,India
+2026-07-03,OPP-0122,Closed Won,100,Closed,11904000.0,2026-01-24,India
+2026-07-03,OPP-0123,Technical Review,40,Pipeline,17205000.0,2026-11-12,Europe
+2026-07-03,OPP-0124,Technical Review,40,Pipeline,20825000.0,2026-08-20,India
+2026-07-03,OPP-0127,Qualification,20,Pipeline,17652000.0,2026-09-21,India
+2026-07-03,OPP-0128,Closed Lost,0,Omitted,5902000.0,2026-07-03,Europe
+2026-07-03,OPP-0130,Closed Lost,0,Omitted,13788000.0,2026-04-10,Europe
+2026-07-03,OPP-0132,Closed Won,100,Closed,21325000.0,2026-05-18,Middle East
+2026-07-03,OPP-0133,Proposal/Quote,60,Best Case,9108000.0,2026-08-27,India
+2026-07-03,OPP-0134,Closed Won,100,Closed,15808000.0,2026-04-07,India
+2026-07-03,OPP-0135,Closed Lost,0,Omitted,18920000.0,2026-06-21,Middle East
+2026-07-03,OPP-0136,Closed Lost,0,Omitted,12584000.0,2026-01-19,Latin America
+2026-07-03,OPP-0137,Technical Review,40,Pipeline,14556000.0,2026-11-29,Europe
+2026-07-03,OPP-0140,Closed Lost,0,Omitted,7632000.0,2026-04-02,India
+2026-07-03,OPP-0141,Closed Won,100,Closed,11596000.0,2026-04-24,India
+2026-07-03,OPP-0142,Closed Lost,0,Omitted,22032000.0,2026-05-04,India
+2026-07-03,OPP-0143,Closed Won,100,Closed,23925000.0,2026-05-19,India
+2026-07-03,OPP-0144,Closed Won,100,Closed,10846000.0,2026-06-17,India
+2026-07-03,OPP-0145,Prospecting,10,Pipeline,10030000.0,2026-11-30,Latin America
+2026-07-03,OPP-0146,Closed Lost,0,Omitted,13398000.0,2026-02-23,India
+2026-07-03,OPP-0148,Proposal/Quote,60,Best Case,16112000.0,2026-08-07,Australia
+2026-07-03,OPP-0149,Qualification,20,Pipeline,12661000.0,2026-11-18,Europe
+2026-07-03,OPP-0150,Technical Review,40,Pipeline,17904000.0,2026-09-30,Australia
+2026-07-10,OPP-0001,Closed Won,100,Closed,19870000.0,2026-01-03,Australia
+2026-07-10,OPP-0002,Qualification,20,Pipeline,9597000.0,2026-09-02,Latin America
+2026-07-10,OPP-0005,Closed Won,100,Closed,18168000.0,2026-01-08,India
+2026-07-10,OPP-0007,Closed Lost,0,Omitted,12254000.0,2026-05-05,Europe
+2026-07-10,OPP-0008,Qualification,20,Pipeline,8883000.0,2026-12-15,Latin America
+2026-07-10,OPP-0009,Closed Lost,0,Omitted,19393000.0,2026-06-26,Latin America
+2026-07-10,OPP-0010,Closed Won,100,Closed,9051000.0,2025-11-13,India
+2026-07-10,OPP-0011,Qualification,20,Pipeline,15040000.0,2026-11-02,Latin America
+2026-07-10,OPP-0012,Prospecting,10,Pipeline,5320000.0,2027-01-03,India
+2026-07-10,OPP-0013,Prospecting,10,Pipeline,13646000.0,2026-12-19,India
+2026-07-10,OPP-0014,Closed Lost,0,Omitted,6831000.0,2026-06-05,India
+2026-07-10,OPP-0015,Closed Lost,0,Omitted,18040000.0,2025-11-16,India
+2026-07-10,OPP-0016,Prospecting,10,Pipeline,4585000.0,2026-12-23,Latin America
+2026-07-10,OPP-0017,Closed Lost,0,Omitted,30920000.0,2026-03-10,Middle East
+2026-07-10,OPP-0018,Closed Won,100,Closed,26519000.0,2026-06-09,Australia
+2026-07-10,OPP-0020,Qualification,20,Pipeline,19925000.0,2026-10-10,India
+2026-07-10,OPP-0021,Proposal/Quote,60,Best Case,9786000.0,2026-08-21,India
+2026-07-10,OPP-0022,Prospecting,10,Pipeline,15408000.0,2027-05-04,Middle East
+2026-07-10,OPP-0023,Closed Won,100,Closed,17738000.0,2026-04-02,India
+2026-07-10,OPP-0024,Qualification,20,Pipeline,33690000.0,2026-11-20,Middle East
+2026-07-10,OPP-0025,Prospecting,10,Pipeline,19176000.0,2026-11-20,India
+2026-07-10,OPP-0027,Closed Won,100,Closed,5035000.0,2026-03-26,Europe
+2026-07-10,OPP-0028,Proposal/Quote,60,Best Case,5142000.0,2026-08-02,India
+2026-07-10,OPP-0030,Closed Lost,0,Omitted,25492000.0,2025-10-31,Latin America
+2026-07-10,OPP-0031,Closed Lost,0,Omitted,11339000.0,2026-05-18,Latin America
+2026-07-10,OPP-0032,Qualification,20,Pipeline,17618000.0,2026-11-30,India
+2026-07-10,OPP-0035,Qualification,20,Pipeline,28899000.0,2026-11-22,Latin America
+2026-07-10,OPP-0036,Closed Lost,0,Omitted,20304000.0,2026-03-20,India
+2026-07-10,OPP-0037,Prospecting,10,Pipeline,28928000.0,2026-12-05,Middle East
+2026-07-10,OPP-0040,Technical Review,40,Pipeline,20578000.0,2026-10-23,India
+2026-07-10,OPP-0041,Technical Review,40,Pipeline,13770000.0,2026-11-08,Australia
+2026-07-10,OPP-0042,Closed Won,100,Closed,12854000.0,2025-10-23,India
+2026-07-10,OPP-0043,Closed Lost,0,Omitted,12532000.0,2026-05-02,Middle East
+2026-07-10,OPP-0045,Closed Lost,0,Omitted,29714000.0,2026-05-31,Middle East
+2026-07-10,OPP-0046,Technical Review,40,Pipeline,22949000.0,2026-09-16,India
+2026-07-10,OPP-0047,Closed Lost,0,Omitted,15266000.0,2026-02-25,India
+2026-07-10,OPP-0048,Technical Review,40,Pipeline,15488000.0,2026-10-05,Middle East
+2026-07-10,OPP-0050,Prospecting,10,Pipeline,26236000.0,2027-03-13,Latin America
+2026-07-10,OPP-0052,Qualification,20,Pipeline,9027000.0,2026-12-04,Europe
+2026-07-10,OPP-0053,Negotiation,80,Commit,38052000.0,2026-08-20,Middle East
+2026-07-10,OPP-0054,Closed Won,100,Closed,6628000.0,2026-06-21,Europe
+2026-07-10,OPP-0056,Prospecting,10,Pipeline,9910000.0,2027-04-12,Latin America
+2026-07-10,OPP-0057,Negotiation,80,Commit,10088000.0,2026-08-02,India
+2026-07-10,OPP-0061,Closed Lost,0,Omitted,14742000.0,2026-06-03,Europe
+2026-07-10,OPP-0062,Closed Lost,0,Omitted,10035000.0,2026-02-26,Australia
+2026-07-10,OPP-0063,Closed Won,100,Closed,14324000.0,2026-04-07,Europe
+2026-07-10,OPP-0064,Proposal/Quote,60,Best Case,39850000.0,2026-08-24,Middle East
+2026-07-10,OPP-0065,Proposal/Quote,60,Best Case,10640000.0,2026-08-08,Europe
+2026-07-10,OPP-0066,Closed Won,100,Closed,23894000.0,2026-06-25,Middle East
+2026-07-10,OPP-0068,Proposal/Quote,60,Best Case,8673000.0,2026-08-10,India
+2026-07-10,OPP-0069,Closed Lost,0,Omitted,12180000.0,2025-12-20,India
+2026-07-10,OPP-0070,Negotiation,80,Commit,12896000.0,2026-07-21,India
+2026-07-10,OPP-0071,Closed Lost,0,Omitted,17118000.0,2026-01-02,Middle East
+2026-07-10,OPP-0072,Closed Lost,0,Omitted,14762000.0,2026-02-01,India
+2026-07-10,OPP-0073,Prospecting,10,Pipeline,19761000.0,2026-11-27,Latin America
+2026-07-10,OPP-0074,Closed Lost,0,Omitted,24794000.0,2026-01-12,Australia
+2026-07-10,OPP-0076,Proposal/Quote,60,Best Case,33156000.0,2026-08-17,Middle East
+2026-07-10,OPP-0077,Closed Won,100,Closed,18584000.0,2026-02-07,India
+2026-07-10,OPP-0078,Closed Won,100,Closed,34086000.0,2026-03-02,Middle East
+2026-07-10,OPP-0079,Qualification,20,Pipeline,3420000.0,2026-07-16,Europe
+2026-07-10,OPP-0080,Closed Lost,0,Omitted,16031000.0,2026-02-01,India
+2026-07-10,OPP-0082,Closed Won,100,Closed,9288000.0,2026-05-08,Europe
+2026-07-10,OPP-0084,Closed Lost,0,Omitted,7512000.0,2025-12-16,Latin America
+2026-07-10,OPP-0085,Closed Lost,0,Omitted,17584000.0,2026-06-08,Australia
+2026-07-10,OPP-0086,Qualification,20,Pipeline,17132000.0,2026-11-20,India
+2026-07-10,OPP-0088,Technical Review,40,Pipeline,29435000.0,2026-10-01,Latin America
+2026-07-10,OPP-0089,Prospecting,10,Pipeline,15500000.0,2027-03-04,India
+2026-07-10,OPP-0090,Qualification,20,Pipeline,6792000.0,2026-09-19,India
+2026-07-10,OPP-0091,Proposal/Quote,60,Best Case,21504000.0,2026-08-15,Latin America
+2026-07-10,OPP-0092,Technical Review,40,Pipeline,6215000.0,2026-10-11,Australia
+2026-07-10,OPP-0093,Closed Won,100,Closed,4433000.0,2026-03-06,India
+2026-07-10,OPP-0094,Closed Lost,0,Omitted,23648000.0,2026-04-24,Australia
+2026-07-10,OPP-0095,Technical Review,40,Pipeline,15462000.0,2026-08-05,India
+2026-07-10,OPP-0096,Negotiation,80,Commit,5574000.0,2026-07-21,Latin America
+2026-07-10,OPP-0097,Qualification,20,Pipeline,18194000.0,2026-09-29,India
+2026-07-10,OPP-0098,Qualification,20,Pipeline,25599000.0,2026-11-08,Middle East
+2026-07-10,OPP-0100,Closed Lost,0,Omitted,7462000.0,2026-06-26,Europe
+2026-07-10,OPP-0101,Closed Won,100,Closed,15204000.0,2026-03-29,Europe
+2026-07-10,OPP-0102,Prospecting,10,Pipeline,14035000.0,2026-12-27,India
+2026-07-10,OPP-0103,Prospecting,10,Pipeline,15827000.0,2026-10-14,Latin America
+2026-07-10,OPP-0104,Negotiation,80,Commit,24921000.0,2026-07-16,Middle East
+2026-07-10,OPP-0105,Closed Won,100,Closed,10892000.0,2026-06-12,India
+2026-07-10,OPP-0106,Technical Review,40,Pipeline,19200000.0,2026-09-19,Middle East
+2026-07-10,OPP-0107,Qualification,20,Pipeline,10051000.0,2026-12-15,Australia
+2026-07-10,OPP-0109,Closed Lost,0,Omitted,13880000.0,2025-12-18,Europe
+2026-07-10,OPP-0110,Closed Lost,0,Omitted,22686000.0,2026-05-19,India
+2026-07-10,OPP-0111,Negotiation,80,Commit,14958000.0,2026-07-27,India
+2026-07-10,OPP-0114,Closed Won,100,Closed,13738000.0,2026-02-07,India
+2026-07-10,OPP-0115,Prospecting,10,Pipeline,7515000.0,2026-10-22,Europe
+2026-07-10,OPP-0117,Prospecting,10,Pipeline,25842000.0,2026-12-30,India
+2026-07-10,OPP-0122,Closed Won,100,Closed,11904000.0,2026-01-24,India
+2026-07-10,OPP-0123,Technical Review,40,Pipeline,17205000.0,2026-11-12,Europe
+2026-07-10,OPP-0124,Technical Review,40,Pipeline,20825000.0,2026-08-20,India
+2026-07-10,OPP-0127,Qualification,20,Pipeline,17652000.0,2026-09-21,India
+2026-07-10,OPP-0128,Closed Lost,0,Omitted,5902000.0,2026-07-03,Europe
+2026-07-10,OPP-0130,Closed Lost,0,Omitted,13788000.0,2026-04-10,Europe
+2026-07-10,OPP-0132,Closed Won,100,Closed,21325000.0,2026-05-18,Middle East
+2026-07-10,OPP-0133,Proposal/Quote,60,Best Case,9108000.0,2026-08-27,India
+2026-07-10,OPP-0134,Closed Won,100,Closed,15808000.0,2026-04-07,India
+2026-07-10,OPP-0135,Closed Lost,0,Omitted,18920000.0,2026-06-21,Middle East
+2026-07-10,OPP-0136,Closed Lost,0,Omitted,12584000.0,2026-01-19,Latin America
+2026-07-10,OPP-0137,Technical Review,40,Pipeline,14556000.0,2026-11-29,Europe
+2026-07-10,OPP-0140,Closed Lost,0,Omitted,7632000.0,2026-04-02,India
+2026-07-10,OPP-0141,Closed Won,100,Closed,11596000.0,2026-04-24,India
+2026-07-10,OPP-0142,Closed Lost,0,Omitted,22032000.0,2026-05-04,India
+2026-07-10,OPP-0143,Closed Won,100,Closed,23925000.0,2026-05-19,India
+2026-07-10,OPP-0144,Closed Won,100,Closed,10846000.0,2026-06-17,India
+2026-07-10,OPP-0145,Prospecting,10,Pipeline,10030000.0,2026-11-30,Latin America
+2026-07-10,OPP-0146,Closed Lost,0,Omitted,13398000.0,2026-02-23,India
+2026-07-10,OPP-0148,Proposal/Quote,60,Best Case,16112000.0,2026-08-07,Australia
+2026-07-10,OPP-0149,Qualification,20,Pipeline,12661000.0,2026-11-18,Europe
+2026-07-10,OPP-0150,Technical Review,40,Pipeline,17904000.0,2026-09-30,Australia
+2026-07-17,OPP-0001,Closed Won,100,Closed,19870000.0,2026-01-03,Australia
+2026-07-17,OPP-0002,Qualification,20,Pipeline,9597000.0,2026-09-02,Latin America
+2026-07-17,OPP-0005,Closed Won,100,Closed,18168000.0,2026-01-08,India
+2026-07-17,OPP-0007,Closed Lost,0,Omitted,12254000.0,2026-05-05,Europe
+2026-07-17,OPP-0008,Qualification,20,Pipeline,8883000.0,2026-12-15,Latin America
+2026-07-17,OPP-0009,Closed Lost,0,Omitted,19393000.0,2026-06-26,Latin America
+2026-07-17,OPP-0010,Closed Won,100,Closed,9051000.0,2025-11-13,India
+2026-07-17,OPP-0011,Qualification,20,Pipeline,15040000.0,2026-11-02,Latin America
+2026-07-17,OPP-0012,Qualification,20,Pipeline,5320000.0,2027-01-03,India
+2026-07-17,OPP-0013,Qualification,20,Pipeline,13646000.0,2026-12-19,India
+2026-07-17,OPP-0014,Closed Lost,0,Omitted,6831000.0,2026-06-05,India
+2026-07-17,OPP-0015,Closed Lost,0,Omitted,18040000.0,2025-11-16,India
+2026-07-17,OPP-0016,Qualification,20,Pipeline,4585000.0,2026-12-23,Latin America
+2026-07-17,OPP-0017,Closed Lost,0,Omitted,30920000.0,2026-03-10,Middle East
+2026-07-17,OPP-0018,Closed Won,100,Closed,26519000.0,2026-06-09,Australia
+2026-07-17,OPP-0019,Prospecting,10,Pipeline,13122000.0,2027-02-16,Europe
+2026-07-17,OPP-0020,Qualification,20,Pipeline,19925000.0,2026-10-10,India
+2026-07-17,OPP-0021,Negotiation,80,Commit,9786000.0,2026-08-21,India
+2026-07-17,OPP-0022,Prospecting,10,Pipeline,15408000.0,2027-05-04,Middle East
+2026-07-17,OPP-0023,Closed Won,100,Closed,17738000.0,2026-04-02,India
+2026-07-17,OPP-0024,Qualification,20,Pipeline,33690000.0,2026-11-20,Middle East
+2026-07-17,OPP-0025,Prospecting,10,Pipeline,19176000.0,2026-11-20,India
+2026-07-17,OPP-0027,Closed Won,100,Closed,5035000.0,2026-03-26,Europe
+2026-07-17,OPP-0028,Proposal/Quote,60,Best Case,5142000.0,2026-08-02,India
+2026-07-17,OPP-0030,Closed Lost,0,Omitted,25492000.0,2025-10-31,Latin America
+2026-07-17,OPP-0031,Closed Lost,0,Omitted,11339000.0,2026-05-18,Latin America
+2026-07-17,OPP-0032,Qualification,20,Pipeline,17618000.0,2026-11-30,India
+2026-07-17,OPP-0034,Prospecting,10,Pipeline,24786000.0,2027-01-03,Latin America
+2026-07-17,OPP-0035,Qualification,20,Pipeline,28899000.0,2026-11-22,Latin America
+2026-07-17,OPP-0036,Closed Lost,0,Omitted,20304000.0,2026-03-20,India
+2026-07-17,OPP-0037,Prospecting,10,Pipeline,28928000.0,2026-12-05,Middle East
+2026-07-17,OPP-0040,Technical Review,40,Pipeline,20578000.0,2026-10-23,India
+2026-07-17,OPP-0041,Technical Review,40,Pipeline,13770000.0,2026-11-08,Australia
+2026-07-17,OPP-0042,Closed Won,100,Closed,12854000.0,2025-10-23,India
+2026-07-17,OPP-0043,Closed Lost,0,Omitted,12532000.0,2026-05-02,Middle East
+2026-07-17,OPP-0045,Closed Lost,0,Omitted,29714000.0,2026-05-31,Middle East
+2026-07-17,OPP-0046,Proposal/Quote,60,Best Case,22949000.0,2026-09-16,India
+2026-07-17,OPP-0047,Closed Lost,0,Omitted,15266000.0,2026-02-25,India
+2026-07-17,OPP-0048,Proposal/Quote,60,Best Case,15488000.0,2026-10-05,Middle East
+2026-07-17,OPP-0050,Prospecting,10,Pipeline,26236000.0,2027-03-13,Latin America
+2026-07-17,OPP-0052,Qualification,20,Pipeline,9027000.0,2026-12-04,Europe
+2026-07-17,OPP-0053,Negotiation,80,Commit,38052000.0,2026-08-20,Middle East
+2026-07-17,OPP-0054,Closed Won,100,Closed,6628000.0,2026-06-21,Europe
+2026-07-17,OPP-0056,Prospecting,10,Pipeline,9910000.0,2027-04-12,Latin America
+2026-07-17,OPP-0057,Negotiation,80,Commit,10088000.0,2026-08-02,India
+2026-07-17,OPP-0061,Closed Lost,0,Omitted,14742000.0,2026-06-03,Europe
+2026-07-17,OPP-0062,Closed Lost,0,Omitted,10035000.0,2026-02-26,Australia
+2026-07-17,OPP-0063,Closed Won,100,Closed,14324000.0,2026-04-07,Europe
+2026-07-17,OPP-0064,Proposal/Quote,60,Best Case,39850000.0,2026-08-24,Middle East
+2026-07-17,OPP-0065,Negotiation,80,Commit,10640000.0,2026-08-08,Europe
+2026-07-17,OPP-0066,Closed Won,100,Closed,23894000.0,2026-06-25,Middle East
+2026-07-17,OPP-0068,Negotiation,80,Commit,8673000.0,2026-08-10,India
+2026-07-17,OPP-0069,Closed Lost,0,Omitted,12180000.0,2025-12-20,India
+2026-07-17,OPP-0070,Negotiation,80,Commit,12896000.0,2026-07-21,India
+2026-07-17,OPP-0071,Closed Lost,0,Omitted,17118000.0,2026-01-02,Middle East
+2026-07-17,OPP-0072,Closed Lost,0,Omitted,14762000.0,2026-02-01,India
+2026-07-17,OPP-0073,Prospecting,10,Pipeline,19761000.0,2026-11-27,Latin America
+2026-07-17,OPP-0074,Closed Lost,0,Omitted,24794000.0,2026-01-12,Australia
+2026-07-17,OPP-0076,Negotiation,80,Commit,33156000.0,2026-08-17,Middle East
+2026-07-17,OPP-0077,Closed Won,100,Closed,18584000.0,2026-02-07,India
+2026-07-17,OPP-0078,Closed Won,100,Closed,34086000.0,2026-03-02,Middle East
+2026-07-17,OPP-0079,Closed Lost,0,Omitted,3420000.0,2026-07-16,Europe
+2026-07-17,OPP-0080,Closed Lost,0,Omitted,16031000.0,2026-02-01,India
+2026-07-17,OPP-0082,Closed Won,100,Closed,9288000.0,2026-05-08,Europe
+2026-07-17,OPP-0084,Closed Lost,0,Omitted,7512000.0,2025-12-16,Latin America
+2026-07-17,OPP-0085,Closed Lost,0,Omitted,17584000.0,2026-06-08,Australia
+2026-07-17,OPP-0086,Technical Review,40,Pipeline,17132000.0,2026-11-20,India
+2026-07-17,OPP-0088,Proposal/Quote,60,Best Case,29435000.0,2026-10-01,Latin America
+2026-07-17,OPP-0089,Prospecting,10,Pipeline,15500000.0,2027-03-04,India
+2026-07-17,OPP-0090,Qualification,20,Pipeline,6792000.0,2026-09-19,India
+2026-07-17,OPP-0091,Negotiation,80,Commit,21504000.0,2026-08-15,Latin America
+2026-07-17,OPP-0092,Technical Review,40,Pipeline,6215000.0,2026-10-11,Australia
+2026-07-17,OPP-0093,Closed Won,100,Closed,4433000.0,2026-03-06,India
+2026-07-17,OPP-0094,Closed Lost,0,Omitted,23648000.0,2026-04-24,Australia
+2026-07-17,OPP-0095,Technical Review,40,Pipeline,15462000.0,2026-08-05,India
+2026-07-17,OPP-0096,Negotiation,80,Commit,5574000.0,2026-07-21,Latin America
+2026-07-17,OPP-0097,Qualification,20,Pipeline,18194000.0,2026-09-29,India
+2026-07-17,OPP-0098,Technical Review,40,Pipeline,25599000.0,2026-11-08,Middle East
+2026-07-17,OPP-0100,Closed Lost,0,Omitted,7462000.0,2026-06-26,Europe
+2026-07-17,OPP-0101,Closed Won,100,Closed,15204000.0,2026-03-29,Europe
+2026-07-17,OPP-0102,Prospecting,10,Pipeline,14035000.0,2026-12-27,India
+2026-07-17,OPP-0103,Prospecting,10,Pipeline,15827000.0,2026-10-14,Latin America
+2026-07-17,OPP-0104,Closed Won,100,Closed,24921000.0,2026-07-16,Middle East
+2026-07-17,OPP-0105,Closed Won,100,Closed,10892000.0,2026-06-12,India
+2026-07-17,OPP-0106,Technical Review,40,Pipeline,19200000.0,2026-09-19,Middle East
+2026-07-17,OPP-0107,Qualification,20,Pipeline,10051000.0,2026-12-15,Australia
+2026-07-17,OPP-0109,Closed Lost,0,Omitted,13880000.0,2025-12-18,Europe
+2026-07-17,OPP-0110,Closed Lost,0,Omitted,22686000.0,2026-05-19,India
+2026-07-17,OPP-0111,Negotiation,80,Commit,14958000.0,2026-07-27,India
+2026-07-17,OPP-0114,Closed Won,100,Closed,13738000.0,2026-02-07,India
+2026-07-17,OPP-0115,Prospecting,10,Pipeline,7515000.0,2026-10-22,Europe
+2026-07-17,OPP-0117,Prospecting,10,Pipeline,25842000.0,2026-12-30,India
+2026-07-17,OPP-0122,Closed Won,100,Closed,11904000.0,2026-01-24,India
+2026-07-17,OPP-0123,Proposal/Quote,60,Best Case,17205000.0,2026-11-12,Europe
+2026-07-17,OPP-0124,Technical Review,40,Pipeline,20825000.0,2026-08-20,India
+2026-07-17,OPP-0127,Qualification,20,Pipeline,17652000.0,2026-09-21,India
+2026-07-17,OPP-0128,Closed Lost,0,Omitted,5902000.0,2026-07-03,Europe
+2026-07-17,OPP-0130,Closed Lost,0,Omitted,13788000.0,2026-04-10,Europe
+2026-07-17,OPP-0132,Closed Won,100,Closed,21325000.0,2026-05-18,Middle East
+2026-07-17,OPP-0133,Proposal/Quote,60,Best Case,9108000.0,2026-08-27,India
+2026-07-17,OPP-0134,Closed Won,100,Closed,15808000.0,2026-04-07,India
+2026-07-17,OPP-0135,Closed Lost,0,Omitted,18920000.0,2026-06-21,Middle East
+2026-07-17,OPP-0136,Closed Lost,0,Omitted,12584000.0,2026-01-19,Latin America
+2026-07-17,OPP-0137,Technical Review,40,Pipeline,14556000.0,2026-11-29,Europe
+2026-07-17,OPP-0140,Closed Lost,0,Omitted,7632000.0,2026-04-02,India
+2026-07-17,OPP-0141,Closed Won,100,Closed,11596000.0,2026-04-24,India
+2026-07-17,OPP-0142,Closed Lost,0,Omitted,22032000.0,2026-05-04,India
+2026-07-17,OPP-0143,Closed Won,100,Closed,23925000.0,2026-05-19,India
+2026-07-17,OPP-0144,Closed Won,100,Closed,10846000.0,2026-06-17,India
+2026-07-17,OPP-0145,Prospecting,10,Pipeline,10030000.0,2026-11-30,Latin America
+2026-07-17,OPP-0146,Closed Lost,0,Omitted,13398000.0,2026-02-23,India
+2026-07-17,OPP-0148,Negotiation,80,Commit,16112000.0,2026-08-07,Australia
+2026-07-17,OPP-0149,Technical Review,40,Pipeline,12661000.0,2026-11-18,Europe
+2026-07-17,OPP-0150,Technical Review,40,Pipeline,17904000.0,2026-09-30,Australia
+2026-07-24,OPP-0001,Closed Won,100,Closed,19870000.0,2026-01-03,Australia
+2026-07-24,OPP-0002,Qualification,20,Pipeline,9597000.0,2026-09-02,Latin America
+2026-07-24,OPP-0005,Closed Won,100,Closed,18168000.0,2026-01-08,India
+2026-07-24,OPP-0007,Closed Lost,0,Omitted,12254000.0,2026-05-05,Europe
+2026-07-24,OPP-0008,Qualification,20,Pipeline,8883000.0,2026-12-15,Latin America
+2026-07-24,OPP-0009,Closed Lost,0,Omitted,19393000.0,2026-06-26,Latin America
+2026-07-24,OPP-0010,Closed Won,100,Closed,9051000.0,2025-11-13,India
+2026-07-24,OPP-0011,Qualification,20,Pipeline,15040000.0,2026-11-02,Latin America
+2026-07-24,OPP-0012,Qualification,20,Pipeline,5320000.0,2027-01-03,India
+2026-07-24,OPP-0013,Qualification,20,Pipeline,13646000.0,2026-12-19,India
+2026-07-24,OPP-0014,Closed Lost,0,Omitted,6831000.0,2026-06-05,India
+2026-07-24,OPP-0015,Closed Lost,0,Omitted,18040000.0,2025-11-16,India
+2026-07-24,OPP-0016,Qualification,20,Pipeline,4585000.0,2026-12-23,Latin America
+2026-07-24,OPP-0017,Closed Lost,0,Omitted,30920000.0,2026-03-10,Middle East
+2026-07-24,OPP-0018,Closed Won,100,Closed,26519000.0,2026-06-09,Australia
+2026-07-24,OPP-0019,Prospecting,10,Pipeline,13122000.0,2027-02-16,Europe
+2026-07-24,OPP-0020,Qualification,20,Pipeline,19925000.0,2026-10-10,India
+2026-07-24,OPP-0021,Negotiation,80,Commit,9786000.0,2026-08-21,India
+2026-07-24,OPP-0022,Prospecting,10,Pipeline,15408000.0,2027-05-04,Middle East
+2026-07-24,OPP-0023,Closed Won,100,Closed,17738000.0,2026-04-02,India
+2026-07-24,OPP-0024,Qualification,20,Pipeline,33690000.0,2026-11-20,Middle East
+2026-07-24,OPP-0025,Qualification,20,Pipeline,19176000.0,2026-11-20,India
+2026-07-24,OPP-0027,Closed Won,100,Closed,5035000.0,2026-03-26,Europe
+2026-07-24,OPP-0028,Proposal/Quote,60,Best Case,5142000.0,2026-08-02,India
+2026-07-24,OPP-0030,Closed Lost,0,Omitted,25492000.0,2025-10-31,Latin America
+2026-07-24,OPP-0031,Closed Lost,0,Omitted,11339000.0,2026-05-18,Latin America
+2026-07-24,OPP-0032,Qualification,20,Pipeline,17618000.0,2026-11-30,India
+2026-07-24,OPP-0034,Prospecting,10,Pipeline,24786000.0,2027-01-03,Latin America
+2026-07-24,OPP-0035,Qualification,20,Pipeline,28899000.0,2026-11-22,Latin America
+2026-07-24,OPP-0036,Closed Lost,0,Omitted,20304000.0,2026-03-20,India
+2026-07-24,OPP-0037,Prospecting,10,Pipeline,28928000.0,2026-12-05,Middle East
+2026-07-24,OPP-0039,Prospecting,10,Pipeline,22980000.0,2026-12-30,India
+2026-07-24,OPP-0040,Technical Review,40,Pipeline,20578000.0,2026-10-23,India
+2026-07-24,OPP-0041,Technical Review,40,Pipeline,13770000.0,2026-11-08,Australia
+2026-07-24,OPP-0042,Closed Won,100,Closed,12854000.0,2025-10-23,India
+2026-07-24,OPP-0043,Closed Lost,0,Omitted,12532000.0,2026-05-02,Middle East
+2026-07-24,OPP-0045,Closed Lost,0,Omitted,29714000.0,2026-05-31,Middle East
+2026-07-24,OPP-0046,Proposal/Quote,60,Best Case,22949000.0,2026-09-16,India
+2026-07-24,OPP-0047,Closed Lost,0,Omitted,15266000.0,2026-02-25,India
+2026-07-24,OPP-0048,Proposal/Quote,60,Best Case,15488000.0,2026-10-05,Middle East
+2026-07-24,OPP-0050,Prospecting,10,Pipeline,26236000.0,2027-03-13,Latin America
+2026-07-24,OPP-0052,Qualification,20,Pipeline,9027000.0,2026-12-04,Europe
+2026-07-24,OPP-0053,Negotiation,80,Commit,38052000.0,2026-08-20,Middle East
+2026-07-24,OPP-0054,Closed Won,100,Closed,6628000.0,2026-06-21,Europe
+2026-07-24,OPP-0056,Prospecting,10,Pipeline,9910000.0,2027-04-12,Latin America
+2026-07-24,OPP-0057,Negotiation,80,Commit,10088000.0,2026-08-02,India
+2026-07-24,OPP-0061,Closed Lost,0,Omitted,14742000.0,2026-06-03,Europe
+2026-07-24,OPP-0062,Closed Lost,0,Omitted,10035000.0,2026-02-26,Australia
+2026-07-24,OPP-0063,Closed Won,100,Closed,14324000.0,2026-04-07,Europe
+2026-07-24,OPP-0064,Proposal/Quote,60,Best Case,39850000.0,2026-08-24,Middle East
+2026-07-24,OPP-0065,Negotiation,80,Commit,10640000.0,2026-08-08,Europe
+2026-07-24,OPP-0066,Closed Won,100,Closed,23894000.0,2026-06-25,Middle East
+2026-07-24,OPP-0068,Negotiation,80,Commit,8673000.0,2026-08-10,India
+2026-07-24,OPP-0069,Closed Lost,0,Omitted,12180000.0,2025-12-20,India
+2026-07-24,OPP-0070,Closed Won,100,Closed,12896000.0,2026-07-21,India
+2026-07-24,OPP-0071,Closed Lost,0,Omitted,17118000.0,2026-01-02,Middle East
+2026-07-24,OPP-0072,Closed Lost,0,Omitted,14762000.0,2026-02-01,India
+2026-07-24,OPP-0073,Prospecting,10,Pipeline,19761000.0,2026-11-27,Latin America
+2026-07-24,OPP-0074,Closed Lost,0,Omitted,24794000.0,2026-01-12,Australia
+2026-07-24,OPP-0076,Negotiation,80,Commit,33156000.0,2026-08-17,Middle East
+2026-07-24,OPP-0077,Closed Won,100,Closed,18584000.0,2026-02-07,India
+2026-07-24,OPP-0078,Closed Won,100,Closed,34086000.0,2026-03-02,Middle East
+2026-07-24,OPP-0079,Closed Lost,0,Omitted,3420000.0,2026-07-16,Europe
+2026-07-24,OPP-0080,Closed Lost,0,Omitted,16031000.0,2026-02-01,India
+2026-07-24,OPP-0082,Closed Won,100,Closed,9288000.0,2026-05-08,Europe
+2026-07-24,OPP-0083,Prospecting,10,Pipeline,4684000.0,2027-02-21,Europe
+2026-07-24,OPP-0084,Closed Lost,0,Omitted,7512000.0,2025-12-16,Latin America
+2026-07-24,OPP-0085,Closed Lost,0,Omitted,17584000.0,2026-06-08,Australia
+2026-07-24,OPP-0086,Technical Review,40,Pipeline,17132000.0,2026-11-20,India
+2026-07-24,OPP-0088,Proposal/Quote,60,Best Case,29435000.0,2026-10-01,Latin America
+2026-07-24,OPP-0089,Prospecting,10,Pipeline,15500000.0,2027-03-04,India
+2026-07-24,OPP-0090,Qualification,20,Pipeline,6792000.0,2026-09-19,India
+2026-07-24,OPP-0091,Negotiation,80,Commit,21504000.0,2026-08-15,Latin America
+2026-07-24,OPP-0092,Technical Review,40,Pipeline,6215000.0,2026-10-11,Australia
+2026-07-24,OPP-0093,Closed Won,100,Closed,4433000.0,2026-03-06,India
+2026-07-24,OPP-0094,Closed Lost,0,Omitted,23648000.0,2026-04-24,Australia
+2026-07-24,OPP-0095,Technical Review,40,Pipeline,15462000.0,2026-08-05,India
+2026-07-24,OPP-0096,Closed Lost,0,Omitted,5574000.0,2026-07-21,Latin America
+2026-07-24,OPP-0097,Qualification,20,Pipeline,18194000.0,2026-09-29,India
+2026-07-24,OPP-0098,Technical Review,40,Pipeline,25599000.0,2026-11-08,Middle East
+2026-07-24,OPP-0100,Closed Lost,0,Omitted,7462000.0,2026-06-26,Europe
+2026-07-24,OPP-0101,Closed Won,100,Closed,15204000.0,2026-03-29,Europe
+2026-07-24,OPP-0102,Prospecting,10,Pipeline,14035000.0,2026-12-27,India
+2026-07-24,OPP-0103,Prospecting,10,Pipeline,15827000.0,2026-10-14,Latin America
+2026-07-24,OPP-0104,Closed Won,100,Closed,24921000.0,2026-07-16,Middle East
+2026-07-24,OPP-0105,Closed Won,100,Closed,10892000.0,2026-06-12,India
+2026-07-24,OPP-0106,Technical Review,40,Pipeline,19200000.0,2026-09-19,Middle East
+2026-07-24,OPP-0107,Qualification,20,Pipeline,10051000.0,2026-12-15,Australia
+2026-07-24,OPP-0109,Closed Lost,0,Omitted,13880000.0,2025-12-18,Europe
+2026-07-24,OPP-0110,Closed Lost,0,Omitted,22686000.0,2026-05-19,India
+2026-07-24,OPP-0111,Negotiation,80,Commit,14958000.0,2026-07-27,India
+2026-07-24,OPP-0114,Closed Won,100,Closed,13738000.0,2026-02-07,India
+2026-07-24,OPP-0115,Prospecting,10,Pipeline,7515000.0,2026-10-22,Europe
+2026-07-24,OPP-0117,Prospecting,10,Pipeline,25842000.0,2026-12-30,India
+2026-07-24,OPP-0122,Closed Won,100,Closed,11904000.0,2026-01-24,India
+2026-07-24,OPP-0123,Proposal/Quote,60,Best Case,17205000.0,2026-11-12,Europe
+2026-07-24,OPP-0124,Technical Review,40,Pipeline,20825000.0,2026-08-20,India
+2026-07-24,OPP-0127,Qualification,20,Pipeline,17652000.0,2026-09-21,India
+2026-07-24,OPP-0128,Closed Lost,0,Omitted,5902000.0,2026-07-03,Europe
+2026-07-24,OPP-0130,Closed Lost,0,Omitted,13788000.0,2026-04-10,Europe
+2026-07-24,OPP-0132,Closed Won,100,Closed,21325000.0,2026-05-18,Middle East
+2026-07-24,OPP-0133,Proposal/Quote,60,Best Case,9108000.0,2026-08-27,India
+2026-07-24,OPP-0134,Closed Won,100,Closed,15808000.0,2026-04-07,India
+2026-07-24,OPP-0135,Closed Lost,0,Omitted,18920000.0,2026-06-21,Middle East
+2026-07-24,OPP-0136,Closed Lost,0,Omitted,12584000.0,2026-01-19,Latin America
+2026-07-24,OPP-0137,Technical Review,40,Pipeline,14556000.0,2026-11-29,Europe
+2026-07-24,OPP-0140,Closed Lost,0,Omitted,7632000.0,2026-04-02,India
+2026-07-24,OPP-0141,Closed Won,100,Closed,11596000.0,2026-04-24,India
+2026-07-24,OPP-0142,Closed Lost,0,Omitted,22032000.0,2026-05-04,India
+2026-07-24,OPP-0143,Closed Won,100,Closed,23925000.0,2026-05-19,India
+2026-07-24,OPP-0144,Closed Won,100,Closed,10846000.0,2026-06-17,India
+2026-07-24,OPP-0145,Qualification,20,Pipeline,10030000.0,2026-11-30,Latin America
+2026-07-24,OPP-0146,Closed Lost,0,Omitted,13398000.0,2026-02-23,India
+2026-07-24,OPP-0148,Negotiation,80,Commit,16112000.0,2026-08-07,Australia
+2026-07-24,OPP-0149,Technical Review,40,Pipeline,12661000.0,2026-11-18,Europe
+2026-07-24,OPP-0150,Technical Review,40,Pipeline,17904000.0,2026-09-30,Australia
+2026-07-31,OPP-0001,Closed Won,100,Closed,19870000.0,2026-01-03,Australia
+2026-07-31,OPP-0002,Qualification,20,Pipeline,9597000.0,2026-09-02,Latin America
+2026-07-31,OPP-0004,Prospecting,10,Pipeline,14231000.0,2027-02-24,India
+2026-07-31,OPP-0005,Closed Won,100,Closed,18168000.0,2026-01-08,India
+2026-07-31,OPP-0007,Closed Lost,0,Omitted,12254000.0,2026-05-05,Europe
+2026-07-31,OPP-0008,Qualification,20,Pipeline,8883000.0,2026-12-15,Latin America
+2026-07-31,OPP-0009,Closed Lost,0,Omitted,19393000.0,2026-06-26,Latin America
+2026-07-31,OPP-0010,Closed Won,100,Closed,9051000.0,2025-11-13,India
+2026-07-31,OPP-0011,Qualification,20,Pipeline,15040000.0,2026-11-02,Latin America
+2026-07-31,OPP-0012,Qualification,20,Pipeline,5320000.0,2027-01-03,India
+2026-07-31,OPP-0013,Qualification,20,Pipeline,13646000.0,2026-12-19,India
+2026-07-31,OPP-0014,Closed Lost,0,Omitted,6831000.0,2026-06-05,India
+2026-07-31,OPP-0015,Closed Lost,0,Omitted,18040000.0,2025-11-16,India
+2026-07-31,OPP-0016,Qualification,20,Pipeline,4585000.0,2026-12-23,Latin America
+2026-07-31,OPP-0017,Closed Lost,0,Omitted,30920000.0,2026-03-10,Middle East
+2026-07-31,OPP-0018,Closed Won,100,Closed,26519000.0,2026-06-09,Australia
+2026-07-31,OPP-0019,Prospecting,10,Pipeline,13122000.0,2027-02-16,Europe
+2026-07-31,OPP-0020,Technical Review,40,Pipeline,19925000.0,2026-10-10,India
+2026-07-31,OPP-0021,Negotiation,80,Commit,9786000.0,2026-08-21,India
+2026-07-31,OPP-0022,Prospecting,10,Pipeline,15408000.0,2027-05-04,Middle East
+2026-07-31,OPP-0023,Closed Won,100,Closed,17738000.0,2026-04-02,India
+2026-07-31,OPP-0024,Qualification,20,Pipeline,33690000.0,2026-11-20,Middle East
+2026-07-31,OPP-0025,Qualification,20,Pipeline,19176000.0,2026-11-20,India
+2026-07-31,OPP-0027,Closed Won,100,Closed,5035000.0,2026-03-26,Europe
+2026-07-31,OPP-0028,Proposal/Quote,60,Best Case,5142000.0,2026-08-02,India
+2026-07-31,OPP-0030,Closed Lost,0,Omitted,25492000.0,2025-10-31,Latin America
+2026-07-31,OPP-0031,Closed Lost,0,Omitted,11339000.0,2026-05-18,Latin America
+2026-07-31,OPP-0032,Technical Review,40,Pipeline,17618000.0,2026-11-30,India
+2026-07-31,OPP-0034,Prospecting,10,Pipeline,24786000.0,2027-01-03,Latin America
+2026-07-31,OPP-0035,Technical Review,40,Pipeline,28899000.0,2026-11-22,Latin America
+2026-07-31,OPP-0036,Closed Lost,0,Omitted,20304000.0,2026-03-20,India
+2026-07-31,OPP-0037,Qualification,20,Pipeline,28928000.0,2026-12-05,Middle East
+2026-07-31,OPP-0038,Prospecting,10,Pipeline,23406000.0,2027-01-14,Latin America
+2026-07-31,OPP-0039,Prospecting,10,Pipeline,22980000.0,2026-12-30,India
+2026-07-31,OPP-0040,Technical Review,40,Pipeline,20578000.0,2026-10-23,India
+2026-07-31,OPP-0041,Technical Review,40,Pipeline,13770000.0,2026-11-08,Australia
+2026-07-31,OPP-0042,Closed Won,100,Closed,12854000.0,2025-10-23,India
+2026-07-31,OPP-0043,Closed Lost,0,Omitted,12532000.0,2026-05-02,Middle East
+2026-07-31,OPP-0045,Closed Lost,0,Omitted,29714000.0,2026-05-31,Middle East
+2026-07-31,OPP-0046,Proposal/Quote,60,Best Case,22949000.0,2026-09-16,India
+2026-07-31,OPP-0047,Closed Lost,0,Omitted,15266000.0,2026-02-25,India
+2026-07-31,OPP-0048,Proposal/Quote,60,Best Case,15488000.0,2026-10-05,Middle East
+2026-07-31,OPP-0049,Prospecting,10,Pipeline,14076000.0,2027-01-20,India
+2026-07-31,OPP-0050,Prospecting,10,Pipeline,26236000.0,2027-03-13,Latin America
+2026-07-31,OPP-0052,Qualification,20,Pipeline,9027000.0,2026-12-04,Europe
+2026-07-31,OPP-0053,Negotiation,80,Commit,38052000.0,2026-08-20,Middle East
+2026-07-31,OPP-0054,Closed Won,100,Closed,6628000.0,2026-06-21,Europe
+2026-07-31,OPP-0056,Prospecting,10,Pipeline,9910000.0,2027-04-12,Latin America
+2026-07-31,OPP-0057,Negotiation,80,Commit,10088000.0,2026-08-02,India
+2026-07-31,OPP-0061,Closed Lost,0,Omitted,14742000.0,2026-06-03,Europe
+2026-07-31,OPP-0062,Closed Lost,0,Omitted,10035000.0,2026-02-26,Australia
+2026-07-31,OPP-0063,Closed Won,100,Closed,14324000.0,2026-04-07,Europe
+2026-07-31,OPP-0064,Proposal/Quote,60,Best Case,39850000.0,2026-08-24,Middle East
+2026-07-31,OPP-0065,Negotiation,80,Commit,10640000.0,2026-08-08,Europe
+2026-07-31,OPP-0066,Closed Won,100,Closed,23894000.0,2026-06-25,Middle East
+2026-07-31,OPP-0068,Negotiation,80,Commit,8673000.0,2026-08-10,India
+2026-07-31,OPP-0069,Closed Lost,0,Omitted,12180000.0,2025-12-20,India
+2026-07-31,OPP-0070,Closed Won,100,Closed,12896000.0,2026-07-21,India
+2026-07-31,OPP-0071,Closed Lost,0,Omitted,17118000.0,2026-01-02,Middle East
+2026-07-31,OPP-0072,Closed Lost,0,Omitted,14762000.0,2026-02-01,India
+2026-07-31,OPP-0073,Prospecting,10,Pipeline,19761000.0,2026-11-27,Latin America
+2026-07-31,OPP-0074,Closed Lost,0,Omitted,24794000.0,2026-01-12,Australia
+2026-07-31,OPP-0076,Negotiation,80,Commit,33156000.0,2026-08-17,Middle East
+2026-07-31,OPP-0077,Closed Won,100,Closed,18584000.0,2026-02-07,India
+2026-07-31,OPP-0078,Closed Won,100,Closed,34086000.0,2026-03-02,Middle East
+2026-07-31,OPP-0079,Closed Lost,0,Omitted,3420000.0,2026-07-16,Europe
+2026-07-31,OPP-0080,Closed Lost,0,Omitted,16031000.0,2026-02-01,India
+2026-07-31,OPP-0082,Closed Won,100,Closed,9288000.0,2026-05-08,Europe
+2026-07-31,OPP-0083,Prospecting,10,Pipeline,4684000.0,2027-02-21,Europe
+2026-07-31,OPP-0084,Closed Lost,0,Omitted,7512000.0,2025-12-16,Latin America
+2026-07-31,OPP-0085,Closed Lost,0,Omitted,17584000.0,2026-06-08,Australia
+2026-07-31,OPP-0086,Technical Review,40,Pipeline,17132000.0,2026-11-20,India
+2026-07-31,OPP-0088,Proposal/Quote,60,Best Case,29435000.0,2026-10-01,Latin America
+2026-07-31,OPP-0089,Prospecting,10,Pipeline,15500000.0,2027-03-04,India
+2026-07-31,OPP-0090,Qualification,20,Pipeline,6792000.0,2026-09-19,India
+2026-07-31,OPP-0091,Negotiation,80,Commit,21504000.0,2026-08-15,Latin America
+2026-07-31,OPP-0092,Technical Review,40,Pipeline,6215000.0,2026-10-11,Australia
+2026-07-31,OPP-0093,Closed Won,100,Closed,4433000.0,2026-03-06,India
+2026-07-31,OPP-0094,Closed Lost,0,Omitted,23648000.0,2026-04-24,Australia
+2026-07-31,OPP-0095,Technical Review,40,Pipeline,15462000.0,2026-08-05,India
+2026-07-31,OPP-0096,Closed Lost,0,Omitted,5574000.0,2026-07-21,Latin America
+2026-07-31,OPP-0097,Qualification,20,Pipeline,18194000.0,2026-09-29,India
+2026-07-31,OPP-0098,Technical Review,40,Pipeline,25599000.0,2026-11-08,Middle East
+2026-07-31,OPP-0100,Closed Lost,0,Omitted,7462000.0,2026-06-26,Europe
+2026-07-31,OPP-0101,Closed Won,100,Closed,15204000.0,2026-03-29,Europe
+2026-07-31,OPP-0102,Prospecting,10,Pipeline,14035000.0,2026-12-27,India
+2026-07-31,OPP-0103,Qualification,20,Pipeline,15827000.0,2026-10-14,Latin America
+2026-07-31,OPP-0104,Closed Won,100,Closed,24921000.0,2026-07-16,Middle East
+2026-07-31,OPP-0105,Closed Won,100,Closed,10892000.0,2026-06-12,India
+2026-07-31,OPP-0106,Technical Review,40,Pipeline,19200000.0,2026-09-19,Middle East
+2026-07-31,OPP-0107,Technical Review,40,Pipeline,10051000.0,2026-12-15,Australia
+2026-07-31,OPP-0109,Closed Lost,0,Omitted,13880000.0,2025-12-18,Europe
+2026-07-31,OPP-0110,Closed Lost,0,Omitted,22686000.0,2026-05-19,India
+2026-07-31,OPP-0111,Closed Lost,0,Omitted,14958000.0,2026-07-27,India
+2026-07-31,OPP-0113,Prospecting,10,Pipeline,12386000.0,2026-10-25,Europe
+2026-07-31,OPP-0114,Closed Won,100,Closed,13738000.0,2026-02-07,India
+2026-07-31,OPP-0115,Qualification,20,Pipeline,7515000.0,2026-10-22,Europe
+2026-07-31,OPP-0117,Prospecting,10,Pipeline,25842000.0,2026-12-30,India
+2026-07-31,OPP-0122,Closed Won,100,Closed,11904000.0,2026-01-24,India
+2026-07-31,OPP-0123,Proposal/Quote,60,Best Case,17205000.0,2026-11-12,Europe
+2026-07-31,OPP-0124,Technical Review,40,Pipeline,20825000.0,2026-08-20,India
+2026-07-31,OPP-0127,Qualification,20,Pipeline,17652000.0,2026-09-21,India
+2026-07-31,OPP-0128,Closed Lost,0,Omitted,5902000.0,2026-07-03,Europe
+2026-07-31,OPP-0130,Closed Lost,0,Omitted,13788000.0,2026-04-10,Europe
+2026-07-31,OPP-0132,Closed Won,100,Closed,21325000.0,2026-05-18,Middle East
+2026-07-31,OPP-0133,Negotiation,80,Commit,9108000.0,2026-08-27,India
+2026-07-31,OPP-0134,Closed Won,100,Closed,15808000.0,2026-04-07,India
+2026-07-31,OPP-0135,Closed Lost,0,Omitted,18920000.0,2026-06-21,Middle East
+2026-07-31,OPP-0136,Closed Lost,0,Omitted,12584000.0,2026-01-19,Latin America
+2026-07-31,OPP-0137,Technical Review,40,Pipeline,14556000.0,2026-11-29,Europe
+2026-07-31,OPP-0140,Closed Lost,0,Omitted,7632000.0,2026-04-02,India
+2026-07-31,OPP-0141,Closed Won,100,Closed,11596000.0,2026-04-24,India
+2026-07-31,OPP-0142,Closed Lost,0,Omitted,22032000.0,2026-05-04,India
+2026-07-31,OPP-0143,Closed Won,100,Closed,23925000.0,2026-05-19,India
+2026-07-31,OPP-0144,Closed Won,100,Closed,10846000.0,2026-06-17,India
+2026-07-31,OPP-0145,Qualification,20,Pipeline,10030000.0,2026-11-30,Latin America
+2026-07-31,OPP-0146,Closed Lost,0,Omitted,13398000.0,2026-02-23,India
+2026-07-31,OPP-0148,Negotiation,80,Commit,16112000.0,2026-08-07,Australia
+2026-07-31,OPP-0149,Technical Review,40,Pipeline,12661000.0,2026-11-18,Europe
+2026-07-31,OPP-0150,Technical Review,40,Pipeline,17904000.0,2026-09-30,Australia
+2026-08-07,OPP-0001,Closed Won,100,Closed,19870000.0,2026-01-03,Australia
+2026-08-07,OPP-0002,Qualification,20,Pipeline,9597000.0,2026-09-02,Latin America
+2026-08-07,OPP-0004,Prospecting,10,Pipeline,14231000.0,2027-02-24,India
+2026-08-07,OPP-0005,Closed Won,100,Closed,18168000.0,2026-01-08,India
+2026-08-07,OPP-0007,Closed Lost,0,Omitted,12254000.0,2026-05-05,Europe
+2026-08-07,OPP-0008,Technical Review,40,Pipeline,8883000.0,2026-12-15,Latin America
+2026-08-07,OPP-0009,Closed Lost,0,Omitted,19393000.0,2026-06-26,Latin America
+2026-08-07,OPP-0010,Closed Won,100,Closed,9051000.0,2025-11-13,India
+2026-08-07,OPP-0011,Technical Review,40,Pipeline,15040000.0,2026-11-02,Latin America
+2026-08-07,OPP-0012,Qualification,20,Pipeline,5320000.0,2027-01-03,India
+2026-08-07,OPP-0013,Qualification,20,Pipeline,13646000.0,2026-12-19,India
+2026-08-07,OPP-0014,Closed Lost,0,Omitted,6831000.0,2026-06-05,India
+2026-08-07,OPP-0015,Closed Lost,0,Omitted,18040000.0,2025-11-16,India
+2026-08-07,OPP-0016,Qualification,20,Pipeline,4585000.0,2026-12-23,Latin America
+2026-08-07,OPP-0017,Closed Lost,0,Omitted,30920000.0,2026-03-10,Middle East
+2026-08-07,OPP-0018,Closed Won,100,Closed,26519000.0,2026-06-09,Australia
+2026-08-07,OPP-0019,Prospecting,10,Pipeline,13122000.0,2027-02-16,Europe
+2026-08-07,OPP-0020,Technical Review,40,Pipeline,19925000.0,2026-10-10,India
+2026-08-07,OPP-0021,Negotiation,80,Commit,9786000.0,2026-08-21,India
+2026-08-07,OPP-0022,Prospecting,10,Pipeline,15408000.0,2027-05-04,Middle East
+2026-08-07,OPP-0023,Closed Won,100,Closed,17738000.0,2026-04-02,India
+2026-08-07,OPP-0024,Technical Review,40,Pipeline,33690000.0,2026-11-20,Middle East
+2026-08-07,OPP-0025,Qualification,20,Pipeline,19176000.0,2026-11-20,India
+2026-08-07,OPP-0027,Closed Won,100,Closed,5035000.0,2026-03-26,Europe
+2026-08-07,OPP-0028,Closed Lost,0,Omitted,5142000.0,2026-08-02,India
+2026-08-07,OPP-0030,Closed Lost,0,Omitted,25492000.0,2025-10-31,Latin America
+2026-08-07,OPP-0031,Closed Lost,0,Omitted,11339000.0,2026-05-18,Latin America
+2026-08-07,OPP-0032,Technical Review,40,Pipeline,17618000.0,2026-11-30,India
+2026-08-07,OPP-0034,Prospecting,10,Pipeline,24786000.0,2027-01-03,Latin America
+2026-08-07,OPP-0035,Technical Review,40,Pipeline,28899000.0,2026-11-22,Latin America
+2026-08-07,OPP-0036,Closed Lost,0,Omitted,20304000.0,2026-03-20,India
+2026-08-07,OPP-0037,Qualification,20,Pipeline,28928000.0,2026-12-05,Middle East
+2026-08-07,OPP-0038,Prospecting,10,Pipeline,23406000.0,2027-01-14,Latin America
+2026-08-07,OPP-0039,Prospecting,10,Pipeline,22980000.0,2026-12-30,India
+2026-08-07,OPP-0040,Technical Review,40,Pipeline,20578000.0,2026-10-23,India
+2026-08-07,OPP-0041,Technical Review,40,Pipeline,13770000.0,2026-11-08,Australia
+2026-08-07,OPP-0042,Closed Won,100,Closed,12854000.0,2025-10-23,India
+2026-08-07,OPP-0043,Closed Lost,0,Omitted,12532000.0,2026-05-02,Middle East
+2026-08-07,OPP-0045,Closed Lost,0,Omitted,29714000.0,2026-05-31,Middle East
+2026-08-07,OPP-0046,Proposal/Quote,60,Best Case,22949000.0,2026-09-16,India
+2026-08-07,OPP-0047,Closed Lost,0,Omitted,15266000.0,2026-02-25,India
+2026-08-07,OPP-0048,Proposal/Quote,60,Best Case,15488000.0,2026-10-05,Middle East
+2026-08-07,OPP-0049,Prospecting,10,Pipeline,14076000.0,2027-01-20,India
+2026-08-07,OPP-0050,Qualification,20,Pipeline,26236000.0,2027-03-13,Latin America
+2026-08-07,OPP-0051,Prospecting,10,Pipeline,22816000.0,2027-04-22,Latin America
+2026-08-07,OPP-0052,Qualification,20,Pipeline,9027000.0,2026-12-04,Europe
+2026-08-07,OPP-0053,Negotiation,80,Commit,38052000.0,2026-08-20,Middle East
+2026-08-07,OPP-0054,Closed Won,100,Closed,6628000.0,2026-06-21,Europe
+2026-08-07,OPP-0056,Prospecting,10,Pipeline,9910000.0,2027-04-12,Latin America
+2026-08-07,OPP-0057,Closed Lost,0,Omitted,10088000.0,2026-08-02,India
+2026-08-07,OPP-0061,Closed Lost,0,Omitted,14742000.0,2026-06-03,Europe
+2026-08-07,OPP-0062,Closed Lost,0,Omitted,10035000.0,2026-02-26,Australia
+2026-08-07,OPP-0063,Closed Won,100,Closed,14324000.0,2026-04-07,Europe
+2026-08-07,OPP-0064,Proposal/Quote,60,Best Case,39850000.0,2026-08-24,Middle East
+2026-08-07,OPP-0065,Negotiation,80,Commit,10640000.0,2026-08-08,Europe
+2026-08-07,OPP-0066,Closed Won,100,Closed,23894000.0,2026-06-25,Middle East
+2026-08-07,OPP-0068,Negotiation,80,Commit,8673000.0,2026-08-10,India
+2026-08-07,OPP-0069,Closed Lost,0,Omitted,12180000.0,2025-12-20,India
+2026-08-07,OPP-0070,Closed Won,100,Closed,12896000.0,2026-07-21,India
+2026-08-07,OPP-0071,Closed Lost,0,Omitted,17118000.0,2026-01-02,Middle East
+2026-08-07,OPP-0072,Closed Lost,0,Omitted,14762000.0,2026-02-01,India
+2026-08-07,OPP-0073,Qualification,20,Pipeline,19761000.0,2026-11-27,Latin America
+2026-08-07,OPP-0074,Closed Lost,0,Omitted,24794000.0,2026-01-12,Australia
+2026-08-07,OPP-0076,Negotiation,80,Commit,33156000.0,2026-08-17,Middle East
+2026-08-07,OPP-0077,Closed Won,100,Closed,18584000.0,2026-02-07,India
+2026-08-07,OPP-0078,Closed Won,100,Closed,34086000.0,2026-03-02,Middle East
+2026-08-07,OPP-0079,Closed Lost,0,Omitted,3420000.0,2026-07-16,Europe
+2026-08-07,OPP-0080,Closed Lost,0,Omitted,16031000.0,2026-02-01,India
+2026-08-07,OPP-0082,Closed Won,100,Closed,9288000.0,2026-05-08,Europe
+2026-08-07,OPP-0083,Prospecting,10,Pipeline,4684000.0,2027-02-21,Europe
+2026-08-07,OPP-0084,Closed Lost,0,Omitted,7512000.0,2025-12-16,Latin America
+2026-08-07,OPP-0085,Closed Lost,0,Omitted,17584000.0,2026-06-08,Australia
+2026-08-07,OPP-0086,Technical Review,40,Pipeline,17132000.0,2026-11-20,India
+2026-08-07,OPP-0088,Proposal/Quote,60,Best Case,29435000.0,2026-10-01,Latin America
+2026-08-07,OPP-0089,Prospecting,10,Pipeline,15500000.0,2027-03-04,India
+2026-08-07,OPP-0090,Qualification,20,Pipeline,6792000.0,2026-09-19,India
+2026-08-07,OPP-0091,Negotiation,80,Commit,21504000.0,2026-08-15,Latin America
+2026-08-07,OPP-0092,Technical Review,40,Pipeline,6215000.0,2026-10-11,Australia
+2026-08-07,OPP-0093,Closed Won,100,Closed,4433000.0,2026-03-06,India
+2026-08-07,OPP-0094,Closed Lost,0,Omitted,23648000.0,2026-04-24,Australia
+2026-08-07,OPP-0095,Closed Lost,0,Omitted,15462000.0,2026-08-05,India
+2026-08-07,OPP-0096,Closed Lost,0,Omitted,5574000.0,2026-07-21,Latin America
+2026-08-07,OPP-0097,Qualification,20,Pipeline,18194000.0,2026-09-29,India
+2026-08-07,OPP-0098,Technical Review,40,Pipeline,25599000.0,2026-11-08,Middle East
+2026-08-07,OPP-0100,Closed Lost,0,Omitted,7462000.0,2026-06-26,Europe
+2026-08-07,OPP-0101,Closed Won,100,Closed,15204000.0,2026-03-29,Europe
+2026-08-07,OPP-0102,Qualification,20,Pipeline,14035000.0,2026-12-27,India
+2026-08-07,OPP-0103,Qualification,20,Pipeline,15827000.0,2026-10-14,Latin America
+2026-08-07,OPP-0104,Closed Won,100,Closed,24921000.0,2026-07-16,Middle East
+2026-08-07,OPP-0105,Closed Won,100,Closed,10892000.0,2026-06-12,India
+2026-08-07,OPP-0106,Technical Review,40,Pipeline,19200000.0,2026-09-19,Middle East
+2026-08-07,OPP-0107,Technical Review,40,Pipeline,10051000.0,2026-12-15,Australia
+2026-08-07,OPP-0109,Closed Lost,0,Omitted,13880000.0,2025-12-18,Europe
+2026-08-07,OPP-0110,Closed Lost,0,Omitted,22686000.0,2026-05-19,India
+2026-08-07,OPP-0111,Closed Lost,0,Omitted,14958000.0,2026-07-27,India
+2026-08-07,OPP-0113,Prospecting,10,Pipeline,12386000.0,2026-10-25,Europe
+2026-08-07,OPP-0114,Closed Won,100,Closed,13738000.0,2026-02-07,India
+2026-08-07,OPP-0115,Qualification,20,Pipeline,7515000.0,2026-10-22,Europe
+2026-08-07,OPP-0117,Prospecting,10,Pipeline,25842000.0,2026-12-30,India
+2026-08-07,OPP-0122,Closed Won,100,Closed,11904000.0,2026-01-24,India
+2026-08-07,OPP-0123,Proposal/Quote,60,Best Case,17205000.0,2026-11-12,Europe
+2026-08-07,OPP-0124,Technical Review,40,Pipeline,20825000.0,2026-08-20,India
+2026-08-07,OPP-0127,Qualification,20,Pipeline,17652000.0,2026-09-21,India
+2026-08-07,OPP-0128,Closed Lost,0,Omitted,5902000.0,2026-07-03,Europe
+2026-08-07,OPP-0130,Closed Lost,0,Omitted,13788000.0,2026-04-10,Europe
+2026-08-07,OPP-0131,Prospecting,10,Pipeline,40194000.0,2026-12-06,Middle East
+2026-08-07,OPP-0132,Closed Won,100,Closed,21325000.0,2026-05-18,Middle East
+2026-08-07,OPP-0133,Negotiation,80,Commit,9108000.0,2026-08-27,India
+2026-08-07,OPP-0134,Closed Won,100,Closed,15808000.0,2026-04-07,India
+2026-08-07,OPP-0135,Closed Lost,0,Omitted,18920000.0,2026-06-21,Middle East
+2026-08-07,OPP-0136,Closed Lost,0,Omitted,12584000.0,2026-01-19,Latin America
+2026-08-07,OPP-0137,Proposal/Quote,60,Best Case,14556000.0,2026-11-29,Europe
+2026-08-07,OPP-0140,Closed Lost,0,Omitted,7632000.0,2026-04-02,India
+2026-08-07,OPP-0141,Closed Won,100,Closed,11596000.0,2026-04-24,India
+2026-08-07,OPP-0142,Closed Lost,0,Omitted,22032000.0,2026-05-04,India
+2026-08-07,OPP-0143,Closed Won,100,Closed,23925000.0,2026-05-19,India
+2026-08-07,OPP-0144,Closed Won,100,Closed,10846000.0,2026-06-17,India
+2026-08-07,OPP-0145,Qualification,20,Pipeline,10030000.0,2026-11-30,Latin America
+2026-08-07,OPP-0146,Closed Lost,0,Omitted,13398000.0,2026-02-23,India
+2026-08-07,OPP-0148,Closed Lost,0,Omitted,16112000.0,2026-08-07,Australia
+2026-08-07,OPP-0149,Technical Review,40,Pipeline,12661000.0,2026-11-18,Europe
+2026-08-07,OPP-0150,Technical Review,40,Pipeline,17904000.0,2026-09-30,Australia
+2026-08-07,OPP-0151,Technical Review,40,Pipeline,8275000.0,2026-12-15,India
+2026-08-14,OPP-0001,Closed Won,100,Closed,19870000.0,2026-01-03,Australia
+2026-08-14,OPP-0002,Qualification,20,Pipeline,9597000.0,2026-09-02,Latin America
+2026-08-14,OPP-0004,Prospecting,10,Pipeline,14231000.0,2027-02-24,India
+2026-08-14,OPP-0005,Closed Won,100,Closed,18168000.0,2026-01-08,India
+2026-08-14,OPP-0006,Prospecting,10,Pipeline,14872000.0,2027-03-20,Europe
+2026-08-14,OPP-0007,Closed Lost,0,Omitted,12254000.0,2026-05-05,Europe
+2026-08-14,OPP-0008,Technical Review,40,Pipeline,8883000.0,2026-12-15,Latin America
+2026-08-14,OPP-0009,Closed Lost,0,Omitted,19393000.0,2026-06-26,Latin America
+2026-08-14,OPP-0010,Closed Won,100,Closed,9051000.0,2025-11-13,India
+2026-08-14,OPP-0011,Technical Review,40,Pipeline,15040000.0,2026-11-02,Latin America
+2026-08-14,OPP-0012,Qualification,20,Pipeline,5320000.0,2027-01-03,India
+2026-08-14,OPP-0013,Qualification,20,Pipeline,13646000.0,2026-12-19,India
+2026-08-14,OPP-0014,Closed Lost,0,Omitted,6831000.0,2026-06-05,India
+2026-08-14,OPP-0015,Closed Lost,0,Omitted,18040000.0,2025-11-16,India
+2026-08-14,OPP-0016,Qualification,20,Pipeline,4585000.0,2026-12-23,Latin America
+2026-08-14,OPP-0017,Closed Lost,0,Omitted,30920000.0,2026-03-10,Middle East
+2026-08-14,OPP-0018,Closed Won,100,Closed,26519000.0,2026-06-09,Australia
+2026-08-14,OPP-0019,Prospecting,10,Pipeline,13122000.0,2027-02-16,Europe
+2026-08-14,OPP-0020,Technical Review,40,Pipeline,19925000.0,2026-10-10,India
+2026-08-14,OPP-0021,Negotiation,80,Commit,9786000.0,2026-08-21,India
+2026-08-14,OPP-0022,Qualification,20,Pipeline,15408000.0,2027-05-04,Middle East
+2026-08-14,OPP-0023,Closed Won,100,Closed,17738000.0,2026-04-02,India
+2026-08-14,OPP-0024,Technical Review,40,Pipeline,33690000.0,2026-11-20,Middle East
+2026-08-14,OPP-0025,Qualification,20,Pipeline,19176000.0,2026-11-20,India
+2026-08-14,OPP-0027,Closed Won,100,Closed,5035000.0,2026-03-26,Europe
+2026-08-14,OPP-0028,Closed Lost,0,Omitted,5142000.0,2026-08-02,India
+2026-08-14,OPP-0030,Closed Lost,0,Omitted,25492000.0,2025-10-31,Latin America
+2026-08-14,OPP-0031,Closed Lost,0,Omitted,11339000.0,2026-05-18,Latin America
+2026-08-14,OPP-0032,Technical Review,40,Pipeline,17618000.0,2026-11-30,India
+2026-08-14,OPP-0034,Prospecting,10,Pipeline,24786000.0,2027-01-03,Latin America
+2026-08-14,OPP-0035,Technical Review,40,Pipeline,28899000.0,2026-11-22,Latin America
+2026-08-14,OPP-0036,Closed Lost,0,Omitted,20304000.0,2026-03-20,India
+2026-08-14,OPP-0037,Qualification,20,Pipeline,28928000.0,2026-12-05,Middle East
+2026-08-14,OPP-0038,Prospecting,10,Pipeline,23406000.0,2027-01-14,Latin America
+2026-08-14,OPP-0039,Prospecting,10,Pipeline,22980000.0,2026-12-30,India
+2026-08-14,OPP-0040,Proposal/Quote,60,Best Case,20578000.0,2026-10-23,India
+2026-08-14,OPP-0041,Technical Review,40,Pipeline,13770000.0,2026-11-08,Australia
+2026-08-14,OPP-0042,Closed Won,100,Closed,12854000.0,2025-10-23,India
+2026-08-14,OPP-0043,Closed Lost,0,Omitted,12532000.0,2026-05-02,Middle East
+2026-08-14,OPP-0045,Closed Lost,0,Omitted,29714000.0,2026-05-31,Middle East
+2026-08-14,OPP-0046,Negotiation,80,Commit,22949000.0,2026-09-16,India
+2026-08-14,OPP-0047,Closed Lost,0,Omitted,15266000.0,2026-02-25,India
+2026-08-14,OPP-0048,Proposal/Quote,60,Best Case,15488000.0,2026-10-05,Middle East
+2026-08-14,OPP-0049,Prospecting,10,Pipeline,14076000.0,2027-01-20,India
+2026-08-14,OPP-0050,Qualification,20,Pipeline,26236000.0,2027-03-13,Latin America
+2026-08-14,OPP-0051,Prospecting,10,Pipeline,22816000.0,2027-04-22,Latin America
+2026-08-14,OPP-0052,Technical Review,40,Pipeline,9027000.0,2026-12-04,Europe
+2026-08-14,OPP-0053,Negotiation,80,Commit,38052000.0,2026-08-20,Middle East
+2026-08-14,OPP-0054,Closed Won,100,Closed,6628000.0,2026-06-21,Europe
+2026-08-14,OPP-0056,Prospecting,10,Pipeline,9910000.0,2027-04-12,Latin America
+2026-08-14,OPP-0057,Closed Lost,0,Omitted,10088000.0,2026-08-02,India
+2026-08-14,OPP-0061,Closed Lost,0,Omitted,14742000.0,2026-06-03,Europe
+2026-08-14,OPP-0062,Closed Lost,0,Omitted,10035000.0,2026-02-26,Australia
+2026-08-14,OPP-0063,Closed Won,100,Closed,14324000.0,2026-04-07,Europe
+2026-08-14,OPP-0064,Proposal/Quote,60,Best Case,39850000.0,2026-08-24,Middle East
+2026-08-14,OPP-0065,Closed Won,100,Closed,10640000.0,2026-08-08,Europe
+2026-08-14,OPP-0066,Closed Won,100,Closed,23894000.0,2026-06-25,Middle East
+2026-08-14,OPP-0068,Closed Lost,0,Omitted,8673000.0,2026-08-10,India
+2026-08-14,OPP-0069,Closed Lost,0,Omitted,12180000.0,2025-12-20,India
+2026-08-14,OPP-0070,Closed Won,100,Closed,12896000.0,2026-07-21,India
+2026-08-14,OPP-0071,Closed Lost,0,Omitted,17118000.0,2026-01-02,Middle East
+2026-08-14,OPP-0072,Closed Lost,0,Omitted,14762000.0,2026-02-01,India
+2026-08-14,OPP-0073,Qualification,20,Pipeline,19761000.0,2026-11-27,Latin America
+2026-08-14,OPP-0074,Closed Lost,0,Omitted,24794000.0,2026-01-12,Australia
+2026-08-14,OPP-0075,Prospecting,10,Pipeline,20962000.0,2027-06-07,India
+2026-08-14,OPP-0076,Negotiation,80,Commit,33156000.0,2026-08-17,Middle East
+2026-08-14,OPP-0077,Closed Won,100,Closed,18584000.0,2026-02-07,India
+2026-08-14,OPP-0078,Closed Won,100,Closed,34086000.0,2026-03-02,Middle East
+2026-08-14,OPP-0079,Closed Lost,0,Omitted,3420000.0,2026-07-16,Europe
+2026-08-14,OPP-0080,Closed Lost,0,Omitted,16031000.0,2026-02-01,India
+2026-08-14,OPP-0082,Closed Won,100,Closed,9288000.0,2026-05-08,Europe
+2026-08-14,OPP-0083,Prospecting,10,Pipeline,4684000.0,2027-02-21,Europe
+2026-08-14,OPP-0084,Closed Lost,0,Omitted,7512000.0,2025-12-16,Latin America
+2026-08-14,OPP-0085,Closed Lost,0,Omitted,17584000.0,2026-06-08,Australia
+2026-08-14,OPP-0086,Technical Review,40,Pipeline,17132000.0,2026-11-20,India
+2026-08-14,OPP-0088,Proposal/Quote,60,Best Case,29435000.0,2026-10-01,Latin America
+2026-08-14,OPP-0089,Prospecting,10,Pipeline,15500000.0,2027-03-04,India
+2026-08-14,OPP-0090,Qualification,20,Pipeline,6792000.0,2026-09-19,India
+2026-08-14,OPP-0091,Negotiation,80,Commit,21504000.0,2026-08-15,Latin America
+2026-08-14,OPP-0092,Technical Review,40,Pipeline,6215000.0,2026-10-11,Australia
+2026-08-14,OPP-0093,Closed Won,100,Closed,4433000.0,2026-03-06,India
+2026-08-14,OPP-0094,Closed Lost,0,Omitted,23648000.0,2026-04-24,Australia
+2026-08-14,OPP-0095,Closed Lost,0,Omitted,15462000.0,2026-08-05,India
+2026-08-14,OPP-0096,Closed Lost,0,Omitted,5574000.0,2026-07-21,Latin America
+2026-08-14,OPP-0097,Qualification,20,Pipeline,18194000.0,2026-09-29,India
+2026-08-14,OPP-0098,Technical Review,40,Pipeline,25599000.0,2026-11-08,Middle East
+2026-08-14,OPP-0100,Closed Lost,0,Omitted,7462000.0,2026-06-26,Europe
+2026-08-14,OPP-0101,Closed Won,100,Closed,15204000.0,2026-03-29,Europe
+2026-08-14,OPP-0102,Qualification,20,Pipeline,14035000.0,2026-12-27,India
+2026-08-14,OPP-0103,Qualification,20,Pipeline,15827000.0,2026-10-14,Latin America
+2026-08-14,OPP-0104,Closed Won,100,Closed,24921000.0,2026-07-16,Middle East
+2026-08-14,OPP-0105,Closed Won,100,Closed,10892000.0,2026-06-12,India
+2026-08-14,OPP-0106,Technical Review,40,Pipeline,19200000.0,2026-09-19,Middle East
+2026-08-14,OPP-0107,Technical Review,40,Pipeline,10051000.0,2026-12-15,Australia
+2026-08-14,OPP-0109,Closed Lost,0,Omitted,13880000.0,2025-12-18,Europe
+2026-08-14,OPP-0110,Closed Lost,0,Omitted,22686000.0,2026-05-19,India
+2026-08-14,OPP-0111,Closed Lost,0,Omitted,14958000.0,2026-07-27,India
+2026-08-14,OPP-0113,Qualification,20,Pipeline,12386000.0,2026-10-25,Europe
+2026-08-14,OPP-0114,Closed Won,100,Closed,13738000.0,2026-02-07,India
+2026-08-14,OPP-0115,Qualification,20,Pipeline,7515000.0,2026-10-22,Europe
+2026-08-14,OPP-0117,Qualification,20,Pipeline,25842000.0,2026-12-30,India
+2026-08-14,OPP-0122,Closed Won,100,Closed,11904000.0,2026-01-24,India
+2026-08-14,OPP-0123,Proposal/Quote,60,Best Case,17205000.0,2026-11-12,Europe
+2026-08-14,OPP-0124,Technical Review,40,Pipeline,20825000.0,2026-08-20,India
+2026-08-14,OPP-0127,Qualification,20,Pipeline,17652000.0,2026-09-21,India
+2026-08-14,OPP-0128,Closed Lost,0,Omitted,5902000.0,2026-07-03,Europe
+2026-08-14,OPP-0130,Closed Lost,0,Omitted,13788000.0,2026-04-10,Europe
+2026-08-14,OPP-0131,Prospecting,10,Pipeline,40194000.0,2026-12-06,Middle East
+2026-08-14,OPP-0132,Closed Won,100,Closed,21325000.0,2026-05-18,Middle East
+2026-08-14,OPP-0133,Negotiation,80,Commit,9108000.0,2026-08-27,India
+2026-08-14,OPP-0134,Closed Won,100,Closed,15808000.0,2026-04-07,India
+2026-08-14,OPP-0135,Closed Lost,0,Omitted,18920000.0,2026-06-21,Middle East
+2026-08-14,OPP-0136,Closed Lost,0,Omitted,12584000.0,2026-01-19,Latin America
+2026-08-14,OPP-0137,Proposal/Quote,60,Best Case,14556000.0,2026-11-29,Europe
+2026-08-14,OPP-0139,Prospecting,10,Pipeline,5514000.0,2027-01-21,Latin America
+2026-08-14,OPP-0140,Closed Lost,0,Omitted,7632000.0,2026-04-02,India
+2026-08-14,OPP-0141,Closed Won,100,Closed,11596000.0,2026-04-24,India
+2026-08-14,OPP-0142,Closed Lost,0,Omitted,22032000.0,2026-05-04,India
+2026-08-14,OPP-0143,Closed Won,100,Closed,23925000.0,2026-05-19,India
+2026-08-14,OPP-0144,Closed Won,100,Closed,10846000.0,2026-06-17,India
+2026-08-14,OPP-0145,Qualification,20,Pipeline,10030000.0,2026-11-30,Latin America
+2026-08-14,OPP-0146,Closed Lost,0,Omitted,13398000.0,2026-02-23,India
+2026-08-14,OPP-0148,Closed Lost,0,Omitted,16112000.0,2026-08-07,Australia
+2026-08-14,OPP-0149,Technical Review,40,Pipeline,12661000.0,2026-11-18,Europe
+2026-08-14,OPP-0150,Technical Review,40,Pipeline,17904000.0,2026-09-30,Australia
+2026-08-14,OPP-0151,Technical Review,40,Pipeline,8275000.0,2026-12-15,India
+2026-08-21,OPP-0001,Closed Won,100,Closed,19870000.0,2026-01-03,Australia
+2026-08-21,OPP-0002,Qualification,20,Pipeline,9597000.0,2026-09-02,Latin America
+2026-08-21,OPP-0004,Prospecting,10,Pipeline,14231000.0,2027-02-24,India
+2026-08-21,OPP-0005,Closed Won,100,Closed,18168000.0,2026-01-08,India
+2026-08-21,OPP-0006,Prospecting,10,Pipeline,14872000.0,2027-03-20,Europe
+2026-08-21,OPP-0007,Closed Lost,0,Omitted,12254000.0,2026-05-05,Europe
+2026-08-21,OPP-0008,Technical Review,40,Pipeline,8883000.0,2026-12-15,Latin America
+2026-08-21,OPP-0009,Closed Lost,0,Omitted,19393000.0,2026-06-26,Latin America
+2026-08-21,OPP-0010,Closed Won,100,Closed,9051000.0,2025-11-13,India
+2026-08-21,OPP-0011,Technical Review,40,Pipeline,15040000.0,2026-11-02,Latin America
+2026-08-21,OPP-0012,Qualification,20,Pipeline,5320000.0,2027-01-03,India
+2026-08-21,OPP-0013,Qualification,20,Pipeline,13646000.0,2026-12-19,India
+2026-08-21,OPP-0014,Closed Lost,0,Omitted,6831000.0,2026-06-05,India
+2026-08-21,OPP-0015,Closed Lost,0,Omitted,18040000.0,2025-11-16,India
+2026-08-21,OPP-0016,Qualification,20,Pipeline,4585000.0,2026-12-23,Latin America
+2026-08-21,OPP-0017,Closed Lost,0,Omitted,30920000.0,2026-03-10,Middle East
+2026-08-21,OPP-0018,Closed Won,100,Closed,26519000.0,2026-06-09,Australia
+2026-08-21,OPP-0019,Prospecting,10,Pipeline,13122000.0,2027-02-16,Europe
+2026-08-21,OPP-0020,Technical Review,40,Pipeline,19925000.0,2026-10-10,India
+2026-08-21,OPP-0021,Closed Won,100,Closed,9786000.0,2026-08-21,India
+2026-08-21,OPP-0022,Qualification,20,Pipeline,15408000.0,2027-05-04,Middle East
+2026-08-21,OPP-0023,Closed Won,100,Closed,17738000.0,2026-04-02,India
+2026-08-21,OPP-0024,Technical Review,40,Pipeline,33690000.0,2026-11-20,Middle East
+2026-08-21,OPP-0025,Qualification,20,Pipeline,19176000.0,2026-11-20,India
+2026-08-21,OPP-0026,Prospecting,10,Pipeline,15903000.0,2027-01-24,India
+2026-08-21,OPP-0027,Closed Won,100,Closed,5035000.0,2026-03-26,Europe
+2026-08-21,OPP-0028,Closed Lost,0,Omitted,5142000.0,2026-08-02,India
+2026-08-21,OPP-0030,Closed Lost,0,Omitted,25492000.0,2025-10-31,Latin America
+2026-08-21,OPP-0031,Closed Lost,0,Omitted,11339000.0,2026-05-18,Latin America
+2026-08-21,OPP-0032,Technical Review,40,Pipeline,17618000.0,2026-11-30,India
+2026-08-21,OPP-0033,Prospecting,10,Pipeline,17650000.0,2027-03-25,India
+2026-08-21,OPP-0034,Qualification,20,Pipeline,24786000.0,2027-01-03,Latin America
+2026-08-21,OPP-0035,Technical Review,40,Pipeline,28899000.0,2026-11-22,Latin America
+2026-08-21,OPP-0036,Closed Lost,0,Omitted,20304000.0,2026-03-20,India
+2026-08-21,OPP-0037,Qualification,20,Pipeline,28928000.0,2026-12-05,Middle East
+2026-08-21,OPP-0038,Prospecting,10,Pipeline,23406000.0,2027-01-14,Latin America
+2026-08-21,OPP-0039,Prospecting,10,Pipeline,22980000.0,2026-12-30,India
+2026-08-21,OPP-0040,Proposal/Quote,60,Best Case,20578000.0,2026-10-23,India
+2026-08-21,OPP-0041,Proposal/Quote,60,Best Case,13770000.0,2026-11-08,Australia
+2026-08-21,OPP-0042,Closed Won,100,Closed,12854000.0,2025-10-23,India
+2026-08-21,OPP-0043,Closed Lost,0,Omitted,12532000.0,2026-05-02,Middle East
+2026-08-21,OPP-0045,Closed Lost,0,Omitted,29714000.0,2026-05-31,Middle East
+2026-08-21,OPP-0046,Negotiation,80,Commit,22949000.0,2026-09-16,India
+2026-08-21,OPP-0047,Closed Lost,0,Omitted,15266000.0,2026-02-25,India
+2026-08-21,OPP-0048,Proposal/Quote,60,Best Case,15488000.0,2026-10-05,Middle East
+2026-08-21,OPP-0049,Prospecting,10,Pipeline,14076000.0,2027-01-20,India
+2026-08-21,OPP-0050,Qualification,20,Pipeline,26236000.0,2027-03-13,Latin America
+2026-08-21,OPP-0051,Prospecting,10,Pipeline,22816000.0,2027-04-22,Latin America
+2026-08-21,OPP-0052,Technical Review,40,Pipeline,9027000.0,2026-12-04,Europe
+2026-08-21,OPP-0053,Closed Won,100,Closed,38052000.0,2026-08-20,Middle East
+2026-08-21,OPP-0054,Closed Won,100,Closed,6628000.0,2026-06-21,Europe
+2026-08-21,OPP-0056,Prospecting,10,Pipeline,9910000.0,2027-04-12,Latin America
+2026-08-21,OPP-0057,Closed Lost,0,Omitted,10088000.0,2026-08-02,India
+2026-08-21,OPP-0061,Closed Lost,0,Omitted,14742000.0,2026-06-03,Europe
+2026-08-21,OPP-0062,Closed Lost,0,Omitted,10035000.0,2026-02-26,Australia
+2026-08-21,OPP-0063,Closed Won,100,Closed,14324000.0,2026-04-07,Europe
+2026-08-21,OPP-0064,Proposal/Quote,60,Best Case,39850000.0,2026-08-24,Middle East
+2026-08-21,OPP-0065,Closed Won,100,Closed,10640000.0,2026-08-08,Europe
+2026-08-21,OPP-0066,Closed Won,100,Closed,23894000.0,2026-06-25,Middle East
+2026-08-21,OPP-0068,Closed Lost,0,Omitted,8673000.0,2026-08-10,India
+2026-08-21,OPP-0069,Closed Lost,0,Omitted,12180000.0,2025-12-20,India
+2026-08-21,OPP-0070,Closed Won,100,Closed,12896000.0,2026-07-21,India
+2026-08-21,OPP-0071,Closed Lost,0,Omitted,17118000.0,2026-01-02,Middle East
+2026-08-21,OPP-0072,Closed Lost,0,Omitted,14762000.0,2026-02-01,India
+2026-08-21,OPP-0073,Qualification,20,Pipeline,19761000.0,2026-11-27,Latin America
+2026-08-21,OPP-0074,Closed Lost,0,Omitted,24794000.0,2026-01-12,Australia
+2026-08-21,OPP-0075,Prospecting,10,Pipeline,20962000.0,2027-06-07,India
+2026-08-21,OPP-0076,Closed Lost,0,Omitted,33156000.0,2026-08-17,Middle East
+2026-08-21,OPP-0077,Closed Won,100,Closed,18584000.0,2026-02-07,India
+2026-08-21,OPP-0078,Closed Won,100,Closed,34086000.0,2026-03-02,Middle East
+2026-08-21,OPP-0079,Closed Lost,0,Omitted,3420000.0,2026-07-16,Europe
+2026-08-21,OPP-0080,Closed Lost,0,Omitted,16031000.0,2026-02-01,India
+2026-08-21,OPP-0082,Closed Won,100,Closed,9288000.0,2026-05-08,Europe
+2026-08-21,OPP-0083,Prospecting,10,Pipeline,4684000.0,2027-02-21,Europe
+2026-08-21,OPP-0084,Closed Lost,0,Omitted,7512000.0,2025-12-16,Latin America
+2026-08-21,OPP-0085,Closed Lost,0,Omitted,17584000.0,2026-06-08,Australia
+2026-08-21,OPP-0086,Technical Review,40,Pipeline,17132000.0,2026-11-20,India
+2026-08-21,OPP-0088,Proposal/Quote,60,Best Case,29435000.0,2026-10-01,Latin America
+2026-08-21,OPP-0089,Prospecting,10,Pipeline,15500000.0,2027-03-04,India
+2026-08-21,OPP-0090,Qualification,20,Pipeline,6792000.0,2026-09-19,India
+2026-08-21,OPP-0091,Closed Won,100,Closed,21504000.0,2026-08-15,Latin America
+2026-08-21,OPP-0092,Technical Review,40,Pipeline,6215000.0,2026-10-11,Australia
+2026-08-21,OPP-0093,Closed Won,100,Closed,4433000.0,2026-03-06,India
+2026-08-21,OPP-0094,Closed Lost,0,Omitted,23648000.0,2026-04-24,Australia
+2026-08-21,OPP-0095,Closed Lost,0,Omitted,15462000.0,2026-08-05,India
+2026-08-21,OPP-0096,Closed Lost,0,Omitted,5574000.0,2026-07-21,Latin America
+2026-08-21,OPP-0097,Qualification,20,Pipeline,18194000.0,2026-09-29,India
+2026-08-21,OPP-0098,Proposal/Quote,60,Best Case,25599000.0,2026-11-08,Middle East
+2026-08-21,OPP-0100,Closed Lost,0,Omitted,7462000.0,2026-06-26,Europe
+2026-08-21,OPP-0101,Closed Won,100,Closed,15204000.0,2026-03-29,Europe
+2026-08-21,OPP-0102,Qualification,20,Pipeline,14035000.0,2026-12-27,India
+2026-08-21,OPP-0103,Technical Review,40,Pipeline,15827000.0,2026-10-14,Latin America
+2026-08-21,OPP-0104,Closed Won,100,Closed,24921000.0,2026-07-16,Middle East
+2026-08-21,OPP-0105,Closed Won,100,Closed,10892000.0,2026-06-12,India
+2026-08-21,OPP-0106,Technical Review,40,Pipeline,19200000.0,2026-09-19,Middle East
+2026-08-21,OPP-0107,Technical Review,40,Pipeline,10051000.0,2026-12-15,Australia
+2026-08-21,OPP-0109,Closed Lost,0,Omitted,13880000.0,2025-12-18,Europe
+2026-08-21,OPP-0110,Closed Lost,0,Omitted,22686000.0,2026-05-19,India
+2026-08-21,OPP-0111,Closed Lost,0,Omitted,14958000.0,2026-07-27,India
+2026-08-21,OPP-0113,Qualification,20,Pipeline,12386000.0,2026-10-25,Europe
+2026-08-21,OPP-0114,Closed Won,100,Closed,13738000.0,2026-02-07,India
+2026-08-21,OPP-0115,Technical Review,40,Pipeline,7515000.0,2026-10-22,Europe
+2026-08-21,OPP-0117,Qualification,20,Pipeline,25842000.0,2026-12-30,India
+2026-08-21,OPP-0122,Closed Won,100,Closed,11904000.0,2026-01-24,India
+2026-08-21,OPP-0123,Proposal/Quote,60,Best Case,17205000.0,2026-11-12,Europe
+2026-08-21,OPP-0124,Closed Lost,0,Omitted,20825000.0,2026-08-20,India
+2026-08-21,OPP-0127,Qualification,20,Pipeline,17652000.0,2026-09-21,India
+2026-08-21,OPP-0128,Closed Lost,0,Omitted,5902000.0,2026-07-03,Europe
+2026-08-21,OPP-0130,Closed Lost,0,Omitted,13788000.0,2026-04-10,Europe
+2026-08-21,OPP-0131,Prospecting,10,Pipeline,40194000.0,2026-12-06,Middle East
+2026-08-21,OPP-0132,Closed Won,100,Closed,21325000.0,2026-05-18,Middle East
+2026-08-21,OPP-0133,Negotiation,80,Commit,9108000.0,2026-08-27,India
+2026-08-21,OPP-0134,Closed Won,100,Closed,15808000.0,2026-04-07,India
+2026-08-21,OPP-0135,Closed Lost,0,Omitted,18920000.0,2026-06-21,Middle East
+2026-08-21,OPP-0136,Closed Lost,0,Omitted,12584000.0,2026-01-19,Latin America
+2026-08-21,OPP-0137,Proposal/Quote,60,Best Case,14556000.0,2026-11-29,Europe
+2026-08-21,OPP-0139,Prospecting,10,Pipeline,5514000.0,2027-01-21,Latin America
+2026-08-21,OPP-0140,Closed Lost,0,Omitted,7632000.0,2026-04-02,India
+2026-08-21,OPP-0141,Closed Won,100,Closed,11596000.0,2026-04-24,India
+2026-08-21,OPP-0142,Closed Lost,0,Omitted,22032000.0,2026-05-04,India
+2026-08-21,OPP-0143,Closed Won,100,Closed,23925000.0,2026-05-19,India
+2026-08-21,OPP-0144,Closed Won,100,Closed,10846000.0,2026-06-17,India
+2026-08-21,OPP-0145,Qualification,20,Pipeline,10030000.0,2026-11-30,Latin America
+2026-08-21,OPP-0146,Closed Lost,0,Omitted,13398000.0,2026-02-23,India
+2026-08-21,OPP-0148,Closed Lost,0,Omitted,16112000.0,2026-08-07,Australia
+2026-08-21,OPP-0149,Technical Review,40,Pipeline,12661000.0,2026-11-18,Europe
+2026-08-21,OPP-0150,Technical Review,40,Pipeline,17904000.0,2026-09-30,Australia
+2026-08-21,OPP-0151,Technical Review,40,Pipeline,8275000.0,2026-12-15,India
+2026-08-28,OPP-0001,Closed Won,100,Closed,19870000.0,2026-01-03,Australia
+2026-08-28,OPP-0002,Qualification,20,Pipeline,9597000.0,2026-09-02,Latin America
+2026-08-28,OPP-0004,Prospecting,10,Pipeline,14231000.0,2027-02-24,India
+2026-08-28,OPP-0005,Closed Won,100,Closed,18168000.0,2026-01-08,India
+2026-08-28,OPP-0006,Prospecting,10,Pipeline,14872000.0,2027-03-20,Europe
+2026-08-28,OPP-0007,Closed Lost,0,Omitted,12254000.0,2026-05-05,Europe
+2026-08-28,OPP-0008,Technical Review,40,Pipeline,8883000.0,2026-12-15,Latin America
+2026-08-28,OPP-0009,Closed Lost,0,Omitted,19393000.0,2026-06-26,Latin America
+2026-08-28,OPP-0010,Closed Won,100,Closed,9051000.0,2025-11-13,India
+2026-08-28,OPP-0011,Technical Review,40,Pipeline,15040000.0,2026-11-02,Latin America
+2026-08-28,OPP-0012,Technical Review,40,Pipeline,5320000.0,2027-01-03,India
+2026-08-28,OPP-0013,Technical Review,40,Pipeline,13646000.0,2026-12-19,India
+2026-08-28,OPP-0014,Closed Lost,0,Omitted,6831000.0,2026-06-05,India
+2026-08-28,OPP-0015,Closed Lost,0,Omitted,18040000.0,2025-11-16,India
+2026-08-28,OPP-0016,Technical Review,40,Pipeline,4585000.0,2026-12-23,Latin America
+2026-08-28,OPP-0017,Closed Lost,0,Omitted,30920000.0,2026-03-10,Middle East
+2026-08-28,OPP-0018,Closed Won,100,Closed,26519000.0,2026-06-09,Australia
+2026-08-28,OPP-0019,Qualification,20,Pipeline,13122000.0,2027-02-16,Europe
+2026-08-28,OPP-0020,Technical Review,40,Pipeline,19925000.0,2026-10-10,India
+2026-08-28,OPP-0021,Closed Won,100,Closed,9786000.0,2026-08-21,India
+2026-08-28,OPP-0022,Qualification,20,Pipeline,15408000.0,2027-05-04,Middle East
+2026-08-28,OPP-0023,Closed Won,100,Closed,17738000.0,2026-04-02,India
+2026-08-28,OPP-0024,Technical Review,40,Pipeline,33690000.0,2026-11-20,Middle East
+2026-08-28,OPP-0025,Technical Review,40,Pipeline,19176000.0,2026-11-20,India
+2026-08-28,OPP-0026,Prospecting,10,Pipeline,15903000.0,2027-01-24,India
+2026-08-28,OPP-0027,Closed Won,100,Closed,5035000.0,2026-03-26,Europe
+2026-08-28,OPP-0028,Closed Lost,0,Omitted,5142000.0,2026-08-02,India
+2026-08-28,OPP-0030,Closed Lost,0,Omitted,25492000.0,2025-10-31,Latin America
+2026-08-28,OPP-0031,Closed Lost,0,Omitted,11339000.0,2026-05-18,Latin America
+2026-08-28,OPP-0032,Technical Review,40,Pipeline,17618000.0,2026-11-30,India
+2026-08-28,OPP-0033,Prospecting,10,Pipeline,17650000.0,2027-03-25,India
+2026-08-28,OPP-0034,Qualification,20,Pipeline,24786000.0,2027-01-03,Latin America
+2026-08-28,OPP-0035,Technical Review,40,Pipeline,28899000.0,2026-11-22,Latin America
+2026-08-28,OPP-0036,Closed Lost,0,Omitted,20304000.0,2026-03-20,India
+2026-08-28,OPP-0037,Qualification,20,Pipeline,28928000.0,2026-12-05,Middle East
+2026-08-28,OPP-0038,Prospecting,10,Pipeline,23406000.0,2027-01-14,Latin America
+2026-08-28,OPP-0039,Qualification,20,Pipeline,22980000.0,2026-12-30,India
+2026-08-28,OPP-0040,Proposal/Quote,60,Best Case,20578000.0,2026-10-23,India
+2026-08-28,OPP-0041,Proposal/Quote,60,Best Case,13770000.0,2026-11-08,Australia
+2026-08-28,OPP-0042,Closed Won,100,Closed,12854000.0,2025-10-23,India
+2026-08-28,OPP-0043,Closed Lost,0,Omitted,12532000.0,2026-05-02,Middle East
+2026-08-28,OPP-0045,Closed Lost,0,Omitted,29714000.0,2026-05-31,Middle East
+2026-08-28,OPP-0046,Negotiation,80,Commit,22949000.0,2026-09-16,India
+2026-08-28,OPP-0047,Closed Lost,0,Omitted,15266000.0,2026-02-25,India
+2026-08-28,OPP-0048,Negotiation,80,Commit,15488000.0,2026-10-05,Middle East
+2026-08-28,OPP-0049,Prospecting,10,Pipeline,14076000.0,2027-01-20,India
+2026-08-28,OPP-0050,Qualification,20,Pipeline,26236000.0,2027-03-13,Latin America
+2026-08-28,OPP-0051,Prospecting,10,Pipeline,22816000.0,2027-04-22,Latin America
+2026-08-28,OPP-0052,Technical Review,40,Pipeline,9027000.0,2026-12-04,Europe
+2026-08-28,OPP-0053,Closed Won,100,Closed,38052000.0,2026-08-20,Middle East
+2026-08-28,OPP-0054,Closed Won,100,Closed,6628000.0,2026-06-21,Europe
+2026-08-28,OPP-0056,Prospecting,10,Pipeline,9910000.0,2027-04-12,Latin America
+2026-08-28,OPP-0057,Closed Lost,0,Omitted,10088000.0,2026-08-02,India
+2026-08-28,OPP-0061,Closed Lost,0,Omitted,14742000.0,2026-06-03,Europe
+2026-08-28,OPP-0062,Closed Lost,0,Omitted,10035000.0,2026-02-26,Australia
+2026-08-28,OPP-0063,Closed Won,100,Closed,14324000.0,2026-04-07,Europe
+2026-08-28,OPP-0064,Closed Lost,0,Omitted,39850000.0,2026-08-24,Middle East
+2026-08-28,OPP-0065,Closed Won,100,Closed,10640000.0,2026-08-08,Europe
+2026-08-28,OPP-0066,Closed Won,100,Closed,23894000.0,2026-06-25,Middle East
+2026-08-28,OPP-0068,Closed Lost,0,Omitted,8673000.0,2026-08-10,India
+2026-08-28,OPP-0069,Closed Lost,0,Omitted,12180000.0,2025-12-20,India
+2026-08-28,OPP-0070,Closed Won,100,Closed,12896000.0,2026-07-21,India
+2026-08-28,OPP-0071,Closed Lost,0,Omitted,17118000.0,2026-01-02,Middle East
+2026-08-28,OPP-0072,Closed Lost,0,Omitted,14762000.0,2026-02-01,India
+2026-08-28,OPP-0073,Qualification,20,Pipeline,19761000.0,2026-11-27,Latin America
+2026-08-28,OPP-0074,Closed Lost,0,Omitted,24794000.0,2026-01-12,Australia
+2026-08-28,OPP-0075,Prospecting,10,Pipeline,20962000.0,2027-06-07,India
+2026-08-28,OPP-0076,Closed Lost,0,Omitted,33156000.0,2026-08-17,Middle East
+2026-08-28,OPP-0077,Closed Won,100,Closed,18584000.0,2026-02-07,India
+2026-08-28,OPP-0078,Closed Won,100,Closed,34086000.0,2026-03-02,Middle East
+2026-08-28,OPP-0079,Closed Lost,0,Omitted,3420000.0,2026-07-16,Europe
+2026-08-28,OPP-0080,Closed Lost,0,Omitted,16031000.0,2026-02-01,India
+2026-08-28,OPP-0082,Closed Won,100,Closed,9288000.0,2026-05-08,Europe
+2026-08-28,OPP-0083,Prospecting,10,Pipeline,4684000.0,2027-02-21,Europe
+2026-08-28,OPP-0084,Closed Lost,0,Omitted,7512000.0,2025-12-16,Latin America
+2026-08-28,OPP-0085,Closed Lost,0,Omitted,17584000.0,2026-06-08,Australia
+2026-08-28,OPP-0086,Proposal/Quote,60,Best Case,17132000.0,2026-11-20,India
+2026-08-28,OPP-0088,Proposal/Quote,60,Best Case,29435000.0,2026-10-01,Latin America
+2026-08-28,OPP-0089,Qualification,20,Pipeline,15500000.0,2027-03-04,India
+2026-08-28,OPP-0090,Qualification,20,Pipeline,6792000.0,2026-09-19,India
+2026-08-28,OPP-0091,Closed Won,100,Closed,21504000.0,2026-08-15,Latin America
+2026-08-28,OPP-0092,Technical Review,40,Pipeline,6215000.0,2026-10-11,Australia
+2026-08-28,OPP-0093,Closed Won,100,Closed,4433000.0,2026-03-06,India
+2026-08-28,OPP-0094,Closed Lost,0,Omitted,23648000.0,2026-04-24,Australia
+2026-08-28,OPP-0095,Closed Lost,0,Omitted,15462000.0,2026-08-05,India
+2026-08-28,OPP-0096,Closed Lost,0,Omitted,5574000.0,2026-07-21,Latin America
+2026-08-28,OPP-0097,Qualification,20,Pipeline,18194000.0,2026-09-29,India
+2026-08-28,OPP-0098,Proposal/Quote,60,Best Case,25599000.0,2026-11-08,Middle East
+2026-08-28,OPP-0100,Closed Lost,0,Omitted,7462000.0,2026-06-26,Europe
+2026-08-28,OPP-0101,Closed Won,100,Closed,15204000.0,2026-03-29,Europe
+2026-08-28,OPP-0102,Qualification,20,Pipeline,14035000.0,2026-12-27,India
+2026-08-28,OPP-0103,Technical Review,40,Pipeline,15827000.0,2026-10-14,Latin America
+2026-08-28,OPP-0104,Closed Won,100,Closed,24921000.0,2026-07-16,Middle East
+2026-08-28,OPP-0105,Closed Won,100,Closed,10892000.0,2026-06-12,India
+2026-08-28,OPP-0106,Technical Review,40,Pipeline,19200000.0,2026-09-19,Middle East
+2026-08-28,OPP-0107,Technical Review,40,Pipeline,10051000.0,2026-12-15,Australia
+2026-08-28,OPP-0109,Closed Lost,0,Omitted,13880000.0,2025-12-18,Europe
+2026-08-28,OPP-0110,Closed Lost,0,Omitted,22686000.0,2026-05-19,India
+2026-08-28,OPP-0111,Closed Lost,0,Omitted,14958000.0,2026-07-27,India
+2026-08-28,OPP-0113,Qualification,20,Pipeline,12386000.0,2026-10-25,Europe
+2026-08-28,OPP-0114,Closed Won,100,Closed,13738000.0,2026-02-07,India
+2026-08-28,OPP-0115,Technical Review,40,Pipeline,7515000.0,2026-10-22,Europe
+2026-08-28,OPP-0117,Qualification,20,Pipeline,25842000.0,2026-12-30,India
+2026-08-28,OPP-0122,Closed Won,100,Closed,11904000.0,2026-01-24,India
+2026-08-28,OPP-0123,Proposal/Quote,60,Best Case,17205000.0,2026-11-12,Europe
+2026-08-28,OPP-0124,Closed Lost,0,Omitted,20825000.0,2026-08-20,India
+2026-08-28,OPP-0125,Prospecting,10,Pipeline,8954000.0,2027-02-06,India
+2026-08-28,OPP-0127,Qualification,20,Pipeline,17652000.0,2026-09-21,India
+2026-08-28,OPP-0128,Closed Lost,0,Omitted,5902000.0,2026-07-03,Europe
+2026-08-28,OPP-0130,Closed Lost,0,Omitted,13788000.0,2026-04-10,Europe
+2026-08-28,OPP-0131,Qualification,20,Pipeline,40194000.0,2026-12-06,Middle East
+2026-08-28,OPP-0132,Closed Won,100,Closed,21325000.0,2026-05-18,Middle East
+2026-08-28,OPP-0133,Closed Won,100,Closed,9108000.0,2026-08-27,India
+2026-08-28,OPP-0134,Closed Won,100,Closed,15808000.0,2026-04-07,India
+2026-08-28,OPP-0135,Closed Lost,0,Omitted,18920000.0,2026-06-21,Middle East
+2026-08-28,OPP-0136,Closed Lost,0,Omitted,12584000.0,2026-01-19,Latin America
+2026-08-28,OPP-0137,Proposal/Quote,60,Best Case,14556000.0,2026-11-29,Europe
+2026-08-28,OPP-0139,Prospecting,10,Pipeline,5514000.0,2027-01-21,Latin America
+2026-08-28,OPP-0140,Closed Lost,0,Omitted,7632000.0,2026-04-02,India
+2026-08-28,OPP-0141,Closed Won,100,Closed,11596000.0,2026-04-24,India
+2026-08-28,OPP-0142,Closed Lost,0,Omitted,22032000.0,2026-05-04,India
+2026-08-28,OPP-0143,Closed Won,100,Closed,23925000.0,2026-05-19,India
+2026-08-28,OPP-0144,Closed Won,100,Closed,10846000.0,2026-06-17,India
+2026-08-28,OPP-0145,Technical Review,40,Pipeline,10030000.0,2026-11-30,Latin America
+2026-08-28,OPP-0146,Closed Lost,0,Omitted,13398000.0,2026-02-23,India
+2026-08-28,OPP-0148,Closed Lost,0,Omitted,16112000.0,2026-08-07,Australia
+2026-08-28,OPP-0149,Proposal/Quote,60,Best Case,12661000.0,2026-11-18,Europe
+2026-08-28,OPP-0150,Technical Review,40,Pipeline,17904000.0,2026-09-30,Australia
+2026-08-28,OPP-0151,Technical Review,40,Pipeline,8275000.0,2026-12-15,India
+2026-09-04,OPP-0001,Closed Won,100,Closed,19870000.0,2026-01-03,Australia
+2026-09-04,OPP-0002,Closed Lost,0,Omitted,9597000.0,2026-09-02,Latin America
+2026-09-04,OPP-0003,Prospecting,10,Pipeline,6127000.0,2027-01-28,Australia
+2026-09-04,OPP-0004,Prospecting,10,Pipeline,14231000.0,2027-02-24,India
+2026-09-04,OPP-0005,Closed Won,100,Closed,18168000.0,2026-01-08,India
+2026-09-04,OPP-0006,Prospecting,10,Pipeline,14872000.0,2027-03-20,Europe
+2026-09-04,OPP-0007,Closed Lost,0,Omitted,12254000.0,2026-05-05,Europe
+2026-09-04,OPP-0008,Technical Review,40,Pipeline,8883000.0,2026-12-15,Latin America
+2026-09-04,OPP-0009,Closed Lost,0,Omitted,19393000.0,2026-06-26,Latin America
+2026-09-04,OPP-0010,Closed Won,100,Closed,9051000.0,2025-11-13,India
+2026-09-04,OPP-0011,Proposal/Quote,60,Best Case,15040000.0,2026-11-02,Latin America
+2026-09-04,OPP-0012,Technical Review,40,Pipeline,5320000.0,2027-01-03,India
+2026-09-04,OPP-0013,Technical Review,40,Pipeline,13646000.0,2026-12-19,India
+2026-09-04,OPP-0014,Closed Lost,0,Omitted,6831000.0,2026-06-05,India
+2026-09-04,OPP-0015,Closed Lost,0,Omitted,18040000.0,2025-11-16,India
+2026-09-04,OPP-0016,Technical Review,40,Pipeline,4585000.0,2026-12-23,Latin America
+2026-09-04,OPP-0017,Closed Lost,0,Omitted,30920000.0,2026-03-10,Middle East
+2026-09-04,OPP-0018,Closed Won,100,Closed,26519000.0,2026-06-09,Australia
+2026-09-04,OPP-0019,Qualification,20,Pipeline,13122000.0,2027-02-16,Europe
+2026-09-04,OPP-0020,Technical Review,40,Pipeline,19925000.0,2026-10-10,India
+2026-09-04,OPP-0021,Closed Won,100,Closed,9786000.0,2026-08-21,India
+2026-09-04,OPP-0022,Qualification,20,Pipeline,15408000.0,2027-05-04,Middle East
+2026-09-04,OPP-0023,Closed Won,100,Closed,17738000.0,2026-04-02,India
+2026-09-04,OPP-0024,Technical Review,40,Pipeline,33690000.0,2026-11-20,Middle East
+2026-09-04,OPP-0025,Technical Review,40,Pipeline,19176000.0,2026-11-20,India
+2026-09-04,OPP-0026,Prospecting,10,Pipeline,15903000.0,2027-01-24,India
+2026-09-04,OPP-0027,Closed Won,100,Closed,5035000.0,2026-03-26,Europe
+2026-09-04,OPP-0028,Closed Lost,0,Omitted,5142000.0,2026-08-02,India
+2026-09-04,OPP-0030,Closed Lost,0,Omitted,25492000.0,2025-10-31,Latin America
+2026-09-04,OPP-0031,Closed Lost,0,Omitted,11339000.0,2026-05-18,Latin America
+2026-09-04,OPP-0032,Technical Review,40,Pipeline,17618000.0,2026-11-30,India
+2026-09-04,OPP-0033,Prospecting,10,Pipeline,17650000.0,2027-03-25,India
+2026-09-04,OPP-0034,Qualification,20,Pipeline,24786000.0,2027-01-03,Latin America
+2026-09-04,OPP-0035,Technical Review,40,Pipeline,28899000.0,2026-11-22,Latin America
+2026-09-04,OPP-0036,Closed Lost,0,Omitted,20304000.0,2026-03-20,India
+2026-09-04,OPP-0037,Technical Review,40,Pipeline,28928000.0,2026-12-05,Middle East
+2026-09-04,OPP-0038,Qualification,20,Pipeline,23406000.0,2027-01-14,Latin America
+2026-09-04,OPP-0039,Qualification,20,Pipeline,22980000.0,2026-12-30,India
+2026-09-04,OPP-0040,Proposal/Quote,60,Best Case,20578000.0,2026-10-23,India
+2026-09-04,OPP-0041,Proposal/Quote,60,Best Case,13770000.0,2026-11-08,Australia
+2026-09-04,OPP-0042,Closed Won,100,Closed,12854000.0,2025-10-23,India
+2026-09-04,OPP-0043,Closed Lost,0,Omitted,12532000.0,2026-05-02,Middle East
+2026-09-04,OPP-0044,Prospecting,10,Pipeline,5067000.0,2027-06-16,Australia
+2026-09-04,OPP-0045,Closed Lost,0,Omitted,29714000.0,2026-05-31,Middle East
+2026-09-04,OPP-0046,Negotiation,80,Commit,22949000.0,2026-09-16,India
+2026-09-04,OPP-0047,Closed Lost,0,Omitted,15266000.0,2026-02-25,India
+2026-09-04,OPP-0048,Negotiation,80,Commit,15488000.0,2026-10-05,Middle East
+2026-09-04,OPP-0049,Qualification,20,Pipeline,14076000.0,2027-01-20,India
+2026-09-04,OPP-0050,Qualification,20,Pipeline,26236000.0,2027-03-13,Latin America
+2026-09-04,OPP-0051,Prospecting,10,Pipeline,22816000.0,2027-04-22,Latin America
+2026-09-04,OPP-0052,Technical Review,40,Pipeline,9027000.0,2026-12-04,Europe
+2026-09-04,OPP-0053,Closed Won,100,Closed,38052000.0,2026-08-20,Middle East
+2026-09-04,OPP-0054,Closed Won,100,Closed,6628000.0,2026-06-21,Europe
+2026-09-04,OPP-0055,Prospecting,10,Pipeline,23460000.0,2027-03-10,Middle East
+2026-09-04,OPP-0056,Qualification,20,Pipeline,9910000.0,2027-04-12,Latin America
+2026-09-04,OPP-0057,Closed Lost,0,Omitted,10088000.0,2026-08-02,India
+2026-09-04,OPP-0061,Closed Lost,0,Omitted,14742000.0,2026-06-03,Europe
+2026-09-04,OPP-0062,Closed Lost,0,Omitted,10035000.0,2026-02-26,Australia
+2026-09-04,OPP-0063,Closed Won,100,Closed,14324000.0,2026-04-07,Europe
+2026-09-04,OPP-0064,Closed Lost,0,Omitted,39850000.0,2026-08-24,Middle East
+2026-09-04,OPP-0065,Closed Won,100,Closed,10640000.0,2026-08-08,Europe
+2026-09-04,OPP-0066,Closed Won,100,Closed,23894000.0,2026-06-25,Middle East
+2026-09-04,OPP-0068,Closed Lost,0,Omitted,8673000.0,2026-08-10,India
+2026-09-04,OPP-0069,Closed Lost,0,Omitted,12180000.0,2025-12-20,India
+2026-09-04,OPP-0070,Closed Won,100,Closed,12896000.0,2026-07-21,India
+2026-09-04,OPP-0071,Closed Lost,0,Omitted,17118000.0,2026-01-02,Middle East
+2026-09-04,OPP-0072,Closed Lost,0,Omitted,14762000.0,2026-02-01,India
+2026-09-04,OPP-0073,Technical Review,40,Pipeline,19761000.0,2026-11-27,Latin America
+2026-09-04,OPP-0074,Closed Lost,0,Omitted,24794000.0,2026-01-12,Australia
+2026-09-04,OPP-0075,Prospecting,10,Pipeline,20962000.0,2027-06-07,India
+2026-09-04,OPP-0076,Closed Lost,0,Omitted,33156000.0,2026-08-17,Middle East
+2026-09-04,OPP-0077,Closed Won,100,Closed,18584000.0,2026-02-07,India
+2026-09-04,OPP-0078,Closed Won,100,Closed,34086000.0,2026-03-02,Middle East
+2026-09-04,OPP-0079,Closed Lost,0,Omitted,3420000.0,2026-07-16,Europe
+2026-09-04,OPP-0080,Closed Lost,0,Omitted,16031000.0,2026-02-01,India
+2026-09-04,OPP-0082,Closed Won,100,Closed,9288000.0,2026-05-08,Europe
+2026-09-04,OPP-0083,Prospecting,10,Pipeline,4684000.0,2027-02-21,Europe
+2026-09-04,OPP-0084,Closed Lost,0,Omitted,7512000.0,2025-12-16,Latin America
+2026-09-04,OPP-0085,Closed Lost,0,Omitted,17584000.0,2026-06-08,Australia
+2026-09-04,OPP-0086,Proposal/Quote,60,Best Case,17132000.0,2026-11-20,India
+2026-09-04,OPP-0088,Proposal/Quote,60,Best Case,29435000.0,2026-10-01,Latin America
+2026-09-04,OPP-0089,Qualification,20,Pipeline,15500000.0,2027-03-04,India
+2026-09-04,OPP-0090,Qualification,20,Pipeline,6792000.0,2026-09-19,India
+2026-09-04,OPP-0091,Closed Won,100,Closed,21504000.0,2026-08-15,Latin America
+2026-09-04,OPP-0092,Technical Review,40,Pipeline,6215000.0,2026-10-11,Australia
+2026-09-04,OPP-0093,Closed Won,100,Closed,4433000.0,2026-03-06,India
+2026-09-04,OPP-0094,Closed Lost,0,Omitted,23648000.0,2026-04-24,Australia
+2026-09-04,OPP-0095,Closed Lost,0,Omitted,15462000.0,2026-08-05,India
+2026-09-04,OPP-0096,Closed Lost,0,Omitted,5574000.0,2026-07-21,Latin America
+2026-09-04,OPP-0097,Qualification,20,Pipeline,18194000.0,2026-09-29,India
+2026-09-04,OPP-0098,Proposal/Quote,60,Best Case,25599000.0,2026-11-08,Middle East
+2026-09-04,OPP-0100,Closed Lost,0,Omitted,7462000.0,2026-06-26,Europe
+2026-09-04,OPP-0101,Closed Won,100,Closed,15204000.0,2026-03-29,Europe
+2026-09-04,OPP-0102,Qualification,20,Pipeline,14035000.0,2026-12-27,India
+2026-09-04,OPP-0103,Proposal/Quote,60,Best Case,15827000.0,2026-10-14,Latin America
+2026-09-04,OPP-0104,Closed Won,100,Closed,24921000.0,2026-07-16,Middle East
+2026-09-04,OPP-0105,Closed Won,100,Closed,10892000.0,2026-06-12,India
+2026-09-04,OPP-0106,Technical Review,40,Pipeline,19200000.0,2026-09-19,Middle East
+2026-09-04,OPP-0107,Technical Review,40,Pipeline,10051000.0,2026-12-15,Australia
+2026-09-04,OPP-0109,Closed Lost,0,Omitted,13880000.0,2025-12-18,Europe
+2026-09-04,OPP-0110,Closed Lost,0,Omitted,22686000.0,2026-05-19,India
+2026-09-04,OPP-0111,Closed Lost,0,Omitted,14958000.0,2026-07-27,India
+2026-09-04,OPP-0113,Technical Review,40,Pipeline,12386000.0,2026-10-25,Europe
+2026-09-04,OPP-0114,Closed Won,100,Closed,13738000.0,2026-02-07,India
+2026-09-04,OPP-0115,Technical Review,40,Pipeline,7515000.0,2026-10-22,Europe
+2026-09-04,OPP-0117,Qualification,20,Pipeline,25842000.0,2026-12-30,India
+2026-09-04,OPP-0122,Closed Won,100,Closed,11904000.0,2026-01-24,India
+2026-09-04,OPP-0123,Proposal/Quote,60,Best Case,17205000.0,2026-11-12,Europe
+2026-09-04,OPP-0124,Closed Lost,0,Omitted,20825000.0,2026-08-20,India
+2026-09-04,OPP-0125,Prospecting,10,Pipeline,8954000.0,2027-02-06,India
+2026-09-04,OPP-0126,Prospecting,10,Pipeline,25560000.0,2027-05-21,India
+2026-09-04,OPP-0127,Qualification,20,Pipeline,17652000.0,2026-09-21,India
+2026-09-04,OPP-0128,Closed Lost,0,Omitted,5902000.0,2026-07-03,Europe
+2026-09-04,OPP-0130,Closed Lost,0,Omitted,13788000.0,2026-04-10,Europe
+2026-09-04,OPP-0131,Qualification,20,Pipeline,40194000.0,2026-12-06,Middle East
+2026-09-04,OPP-0132,Closed Won,100,Closed,21325000.0,2026-05-18,Middle East
+2026-09-04,OPP-0133,Closed Won,100,Closed,9108000.0,2026-08-27,India
+2026-09-04,OPP-0134,Closed Won,100,Closed,15808000.0,2026-04-07,India
+2026-09-04,OPP-0135,Closed Lost,0,Omitted,18920000.0,2026-06-21,Middle East
+2026-09-04,OPP-0136,Closed Lost,0,Omitted,12584000.0,2026-01-19,Latin America
+2026-09-04,OPP-0137,Proposal/Quote,60,Best Case,14556000.0,2026-11-29,Europe
+2026-09-04,OPP-0139,Prospecting,10,Pipeline,5514000.0,2027-01-21,Latin America
+2026-09-04,OPP-0140,Closed Lost,0,Omitted,7632000.0,2026-04-02,India
+2026-09-04,OPP-0141,Closed Won,100,Closed,11596000.0,2026-04-24,India
+2026-09-04,OPP-0142,Closed Lost,0,Omitted,22032000.0,2026-05-04,India
+2026-09-04,OPP-0143,Closed Won,100,Closed,23925000.0,2026-05-19,India
+2026-09-04,OPP-0144,Closed Won,100,Closed,10846000.0,2026-06-17,India
+2026-09-04,OPP-0145,Technical Review,40,Pipeline,10030000.0,2026-11-30,Latin America
+2026-09-04,OPP-0146,Closed Lost,0,Omitted,13398000.0,2026-02-23,India
+2026-09-04,OPP-0148,Closed Lost,0,Omitted,16112000.0,2026-08-07,Australia
+2026-09-04,OPP-0149,Proposal/Quote,60,Best Case,12661000.0,2026-11-18,Europe
+2026-09-04,OPP-0150,Technical Review,40,Pipeline,17904000.0,2026-09-30,Australia
+2026-09-04,OPP-0151,Technical Review,40,Pipeline,8275000.0,2026-12-15,India
+2026-09-11,OPP-0001,Closed Won,100,Closed,19870000.0,2026-01-03,Australia
+2026-09-11,OPP-0002,Closed Lost,0,Omitted,9597000.0,2026-09-02,Latin America
+2026-09-11,OPP-0003,Prospecting,10,Pipeline,6127000.0,2027-01-28,Australia
+2026-09-11,OPP-0004,Qualification,20,Pipeline,14231000.0,2027-02-24,India
+2026-09-11,OPP-0005,Closed Won,100,Closed,18168000.0,2026-01-08,India
+2026-09-11,OPP-0006,Prospecting,10,Pipeline,14872000.0,2027-03-20,Europe
+2026-09-11,OPP-0007,Closed Lost,0,Omitted,12254000.0,2026-05-05,Europe
+2026-09-11,OPP-0008,Technical Review,40,Pipeline,8883000.0,2026-12-15,Latin America
+2026-09-11,OPP-0009,Closed Lost,0,Omitted,19393000.0,2026-06-26,Latin America
+2026-09-11,OPP-0010,Closed Won,100,Closed,9051000.0,2025-11-13,India
+2026-09-11,OPP-0011,Proposal/Quote,60,Best Case,15040000.0,2026-11-02,Latin America
+2026-09-11,OPP-0012,Technical Review,40,Pipeline,5320000.0,2027-01-03,India
+2026-09-11,OPP-0013,Technical Review,40,Pipeline,13646000.0,2026-12-19,India
+2026-09-11,OPP-0014,Closed Lost,0,Omitted,6831000.0,2026-06-05,India
+2026-09-11,OPP-0015,Closed Lost,0,Omitted,18040000.0,2025-11-16,India
+2026-09-11,OPP-0016,Technical Review,40,Pipeline,4585000.0,2026-12-23,Latin America
+2026-09-11,OPP-0017,Closed Lost,0,Omitted,30920000.0,2026-03-10,Middle East
+2026-09-11,OPP-0018,Closed Won,100,Closed,26519000.0,2026-06-09,Australia
+2026-09-11,OPP-0019,Qualification,20,Pipeline,13122000.0,2027-02-16,Europe
+2026-09-11,OPP-0020,Technical Review,40,Pipeline,19925000.0,2026-10-10,India
+2026-09-11,OPP-0021,Closed Won,100,Closed,9786000.0,2026-08-21,India
+2026-09-11,OPP-0022,Qualification,20,Pipeline,15408000.0,2027-05-04,Middle East
+2026-09-11,OPP-0023,Closed Won,100,Closed,17738000.0,2026-04-02,India
+2026-09-11,OPP-0024,Proposal/Quote,60,Best Case,33690000.0,2026-11-20,Middle East
+2026-09-11,OPP-0025,Technical Review,40,Pipeline,19176000.0,2026-11-20,India
+2026-09-11,OPP-0026,Prospecting,10,Pipeline,15903000.0,2027-01-24,India
+2026-09-11,OPP-0027,Closed Won,100,Closed,5035000.0,2026-03-26,Europe
+2026-09-11,OPP-0028,Closed Lost,0,Omitted,5142000.0,2026-08-02,India
+2026-09-11,OPP-0030,Closed Lost,0,Omitted,25492000.0,2025-10-31,Latin America
+2026-09-11,OPP-0031,Closed Lost,0,Omitted,11339000.0,2026-05-18,Latin America
+2026-09-11,OPP-0032,Proposal/Quote,60,Best Case,17618000.0,2026-11-30,India
+2026-09-11,OPP-0033,Prospecting,10,Pipeline,17650000.0,2027-03-25,India
+2026-09-11,OPP-0034,Qualification,20,Pipeline,24786000.0,2027-01-03,Latin America
+2026-09-11,OPP-0035,Proposal/Quote,60,Best Case,28899000.0,2026-11-22,Latin America
+2026-09-11,OPP-0036,Closed Lost,0,Omitted,20304000.0,2026-03-20,India
+2026-09-11,OPP-0037,Technical Review,40,Pipeline,28928000.0,2026-12-05,Middle East
+2026-09-11,OPP-0038,Qualification,20,Pipeline,23406000.0,2027-01-14,Latin America
+2026-09-11,OPP-0039,Qualification,20,Pipeline,22980000.0,2026-12-30,India
+2026-09-11,OPP-0040,Proposal/Quote,60,Best Case,20578000.0,2026-10-23,India
+2026-09-11,OPP-0041,Proposal/Quote,60,Best Case,13770000.0,2026-11-08,Australia
+2026-09-11,OPP-0042,Closed Won,100,Closed,12854000.0,2025-10-23,India
+2026-09-11,OPP-0043,Closed Lost,0,Omitted,12532000.0,2026-05-02,Middle East
+2026-09-11,OPP-0044,Prospecting,10,Pipeline,5067000.0,2027-06-16,Australia
+2026-09-11,OPP-0045,Closed Lost,0,Omitted,29714000.0,2026-05-31,Middle East
+2026-09-11,OPP-0046,Negotiation,80,Commit,22949000.0,2026-09-16,India
+2026-09-11,OPP-0047,Closed Lost,0,Omitted,15266000.0,2026-02-25,India
+2026-09-11,OPP-0048,Negotiation,80,Commit,15488000.0,2026-10-05,Middle East
+2026-09-11,OPP-0049,Qualification,20,Pipeline,14076000.0,2027-01-20,India
+2026-09-11,OPP-0050,Qualification,20,Pipeline,26236000.0,2027-03-13,Latin America
+2026-09-11,OPP-0051,Prospecting,10,Pipeline,22816000.0,2027-04-22,Latin America
+2026-09-11,OPP-0052,Technical Review,40,Pipeline,9027000.0,2026-12-04,Europe
+2026-09-11,OPP-0053,Closed Won,100,Closed,38052000.0,2026-08-20,Middle East
+2026-09-11,OPP-0054,Closed Won,100,Closed,6628000.0,2026-06-21,Europe
+2026-09-11,OPP-0055,Prospecting,10,Pipeline,23460000.0,2027-03-10,Middle East
+2026-09-11,OPP-0056,Qualification,20,Pipeline,9910000.0,2027-04-12,Latin America
+2026-09-11,OPP-0057,Closed Lost,0,Omitted,10088000.0,2026-08-02,India
+2026-09-11,OPP-0058,Prospecting,10,Pipeline,33448000.0,2027-04-21,Middle East
+2026-09-11,OPP-0061,Closed Lost,0,Omitted,14742000.0,2026-06-03,Europe
+2026-09-11,OPP-0062,Closed Lost,0,Omitted,10035000.0,2026-02-26,Australia
+2026-09-11,OPP-0063,Closed Won,100,Closed,14324000.0,2026-04-07,Europe
+2026-09-11,OPP-0064,Closed Lost,0,Omitted,39850000.0,2026-08-24,Middle East
+2026-09-11,OPP-0065,Closed Won,100,Closed,10640000.0,2026-08-08,Europe
+2026-09-11,OPP-0066,Closed Won,100,Closed,23894000.0,2026-06-25,Middle East
+2026-09-11,OPP-0068,Closed Lost,0,Omitted,8673000.0,2026-08-10,India
+2026-09-11,OPP-0069,Closed Lost,0,Omitted,12180000.0,2025-12-20,India
+2026-09-11,OPP-0070,Closed Won,100,Closed,12896000.0,2026-07-21,India
+2026-09-11,OPP-0071,Closed Lost,0,Omitted,17118000.0,2026-01-02,Middle East
+2026-09-11,OPP-0072,Closed Lost,0,Omitted,14762000.0,2026-02-01,India
+2026-09-11,OPP-0073,Technical Review,40,Pipeline,19761000.0,2026-11-27,Latin America
+2026-09-11,OPP-0074,Closed Lost,0,Omitted,24794000.0,2026-01-12,Australia
+2026-09-11,OPP-0075,Prospecting,10,Pipeline,20962000.0,2027-06-07,India
+2026-09-11,OPP-0076,Closed Lost,0,Omitted,33156000.0,2026-08-17,Middle East
+2026-09-11,OPP-0077,Closed Won,100,Closed,18584000.0,2026-02-07,India
+2026-09-11,OPP-0078,Closed Won,100,Closed,34086000.0,2026-03-02,Middle East
+2026-09-11,OPP-0079,Closed Lost,0,Omitted,3420000.0,2026-07-16,Europe
+2026-09-11,OPP-0080,Closed Lost,0,Omitted,16031000.0,2026-02-01,India
+2026-09-11,OPP-0082,Closed Won,100,Closed,9288000.0,2026-05-08,Europe
+2026-09-11,OPP-0083,Qualification,20,Pipeline,4684000.0,2027-02-21,Europe
+2026-09-11,OPP-0084,Closed Lost,0,Omitted,7512000.0,2025-12-16,Latin America
+2026-09-11,OPP-0085,Closed Lost,0,Omitted,17584000.0,2026-06-08,Australia
+2026-09-11,OPP-0086,Proposal/Quote,60,Best Case,17132000.0,2026-11-20,India
+2026-09-11,OPP-0088,Proposal/Quote,60,Best Case,29435000.0,2026-10-01,Latin America
+2026-09-11,OPP-0089,Qualification,20,Pipeline,15500000.0,2027-03-04,India
+2026-09-11,OPP-0090,Qualification,20,Pipeline,6792000.0,2026-09-19,India
+2026-09-11,OPP-0091,Closed Won,100,Closed,21504000.0,2026-08-15,Latin America
+2026-09-11,OPP-0092,Technical Review,40,Pipeline,6215000.0,2026-10-11,Australia
+2026-09-11,OPP-0093,Closed Won,100,Closed,4433000.0,2026-03-06,India
+2026-09-11,OPP-0094,Closed Lost,0,Omitted,23648000.0,2026-04-24,Australia
+2026-09-11,OPP-0095,Closed Lost,0,Omitted,15462000.0,2026-08-05,India
+2026-09-11,OPP-0096,Closed Lost,0,Omitted,5574000.0,2026-07-21,Latin America
+2026-09-11,OPP-0097,Qualification,20,Pipeline,18194000.0,2026-09-29,India
+2026-09-11,OPP-0098,Proposal/Quote,60,Best Case,25599000.0,2026-11-08,Middle East
+2026-09-11,OPP-0100,Closed Lost,0,Omitted,7462000.0,2026-06-26,Europe
+2026-09-11,OPP-0101,Closed Won,100,Closed,15204000.0,2026-03-29,Europe
+2026-09-11,OPP-0102,Technical Review,40,Pipeline,14035000.0,2026-12-27,India
+2026-09-11,OPP-0103,Proposal/Quote,60,Best Case,15827000.0,2026-10-14,Latin America
+2026-09-11,OPP-0104,Closed Won,100,Closed,24921000.0,2026-07-16,Middle East
+2026-09-11,OPP-0105,Closed Won,100,Closed,10892000.0,2026-06-12,India
+2026-09-11,OPP-0106,Technical Review,40,Pipeline,19200000.0,2026-09-19,Middle East
+2026-09-11,OPP-0107,Technical Review,40,Pipeline,10051000.0,2026-12-15,Australia
+2026-09-11,OPP-0109,Closed Lost,0,Omitted,13880000.0,2025-12-18,Europe
+2026-09-11,OPP-0110,Closed Lost,0,Omitted,22686000.0,2026-05-19,India
+2026-09-11,OPP-0111,Closed Lost,0,Omitted,14958000.0,2026-07-27,India
+2026-09-11,OPP-0113,Technical Review,40,Pipeline,12386000.0,2026-10-25,Europe
+2026-09-11,OPP-0114,Closed Won,100,Closed,13738000.0,2026-02-07,India
+2026-09-11,OPP-0115,Proposal/Quote,60,Best Case,7515000.0,2026-10-22,Europe
+2026-09-11,OPP-0117,Qualification,20,Pipeline,25842000.0,2026-12-30,India
+2026-09-11,OPP-0122,Closed Won,100,Closed,11904000.0,2026-01-24,India
+2026-09-11,OPP-0123,Proposal/Quote,60,Best Case,17205000.0,2026-11-12,Europe
+2026-09-11,OPP-0124,Closed Lost,0,Omitted,20825000.0,2026-08-20,India
+2026-09-11,OPP-0125,Prospecting,10,Pipeline,8954000.0,2027-02-06,India
+2026-09-11,OPP-0126,Prospecting,10,Pipeline,25560000.0,2027-05-21,India
+2026-09-11,OPP-0127,Qualification,20,Pipeline,17652000.0,2026-09-21,India
+2026-09-11,OPP-0128,Closed Lost,0,Omitted,5902000.0,2026-07-03,Europe
+2026-09-11,OPP-0130,Closed Lost,0,Omitted,13788000.0,2026-04-10,Europe
+2026-09-11,OPP-0131,Qualification,20,Pipeline,40194000.0,2026-12-06,Middle East
+2026-09-11,OPP-0132,Closed Won,100,Closed,21325000.0,2026-05-18,Middle East
+2026-09-11,OPP-0133,Closed Won,100,Closed,9108000.0,2026-08-27,India
+2026-09-11,OPP-0134,Closed Won,100,Closed,15808000.0,2026-04-07,India
+2026-09-11,OPP-0135,Closed Lost,0,Omitted,18920000.0,2026-06-21,Middle East
+2026-09-11,OPP-0136,Closed Lost,0,Omitted,12584000.0,2026-01-19,Latin America
+2026-09-11,OPP-0137,Proposal/Quote,60,Best Case,14556000.0,2026-11-29,Europe
+2026-09-11,OPP-0139,Prospecting,10,Pipeline,5514000.0,2027-01-21,Latin America
+2026-09-11,OPP-0140,Closed Lost,0,Omitted,7632000.0,2026-04-02,India
+2026-09-11,OPP-0141,Closed Won,100,Closed,11596000.0,2026-04-24,India
+2026-09-11,OPP-0142,Closed Lost,0,Omitted,22032000.0,2026-05-04,India
+2026-09-11,OPP-0143,Closed Won,100,Closed,23925000.0,2026-05-19,India
+2026-09-11,OPP-0144,Closed Won,100,Closed,10846000.0,2026-06-17,India
+2026-09-11,OPP-0145,Technical Review,40,Pipeline,10030000.0,2026-11-30,Latin America
+2026-09-11,OPP-0146,Closed Lost,0,Omitted,13398000.0,2026-02-23,India
+2026-09-11,OPP-0148,Closed Lost,0,Omitted,16112000.0,2026-08-07,Australia
+2026-09-11,OPP-0149,Proposal/Quote,60,Best Case,12661000.0,2026-11-18,Europe
+2026-09-11,OPP-0150,Technical Review,40,Pipeline,17904000.0,2026-09-30,Australia
+2026-09-11,OPP-0151,Technical Review,40,Pipeline,8275000.0,2026-12-15,India
+2026-09-18,OPP-0001,Closed Won,100,Closed,19870000.0,2026-01-03,Australia
+2026-09-18,OPP-0002,Closed Lost,0,Omitted,9597000.0,2026-09-02,Latin America
+2026-09-18,OPP-0003,Prospecting,10,Pipeline,6127000.0,2027-01-28,Australia
+2026-09-18,OPP-0004,Qualification,20,Pipeline,14231000.0,2027-02-24,India
+2026-09-18,OPP-0005,Closed Won,100,Closed,18168000.0,2026-01-08,India
+2026-09-18,OPP-0006,Prospecting,10,Pipeline,14872000.0,2027-03-20,Europe
+2026-09-18,OPP-0007,Closed Lost,0,Omitted,12254000.0,2026-05-05,Europe
+2026-09-18,OPP-0008,Proposal/Quote,60,Best Case,8883000.0,2026-12-15,Latin America
+2026-09-18,OPP-0009,Closed Lost,0,Omitted,19393000.0,2026-06-26,Latin America
+2026-09-18,OPP-0010,Closed Won,100,Closed,9051000.0,2025-11-13,India
+2026-09-18,OPP-0011,Proposal/Quote,60,Best Case,15040000.0,2026-11-02,Latin America
+2026-09-18,OPP-0012,Technical Review,40,Pipeline,5320000.0,2027-01-03,India
+2026-09-18,OPP-0013,Technical Review,40,Pipeline,13646000.0,2026-12-19,India
+2026-09-18,OPP-0014,Closed Lost,0,Omitted,6831000.0,2026-06-05,India
+2026-09-18,OPP-0015,Closed Lost,0,Omitted,18040000.0,2025-11-16,India
+2026-09-18,OPP-0016,Technical Review,40,Pipeline,4585000.0,2026-12-23,Latin America
+2026-09-18,OPP-0017,Closed Lost,0,Omitted,30920000.0,2026-03-10,Middle East
+2026-09-18,OPP-0018,Closed Won,100,Closed,26519000.0,2026-06-09,Australia
+2026-09-18,OPP-0019,Qualification,20,Pipeline,13122000.0,2027-02-16,Europe
+2026-09-18,OPP-0020,Technical Review,40,Pipeline,19925000.0,2026-10-10,India
+2026-09-18,OPP-0021,Closed Won,100,Closed,9786000.0,2026-08-21,India
+2026-09-18,OPP-0022,Qualification,20,Pipeline,15408000.0,2027-05-04,Middle East
+2026-09-18,OPP-0023,Closed Won,100,Closed,17738000.0,2026-04-02,India
+2026-09-18,OPP-0024,Proposal/Quote,60,Best Case,33690000.0,2026-11-20,Middle East
+2026-09-18,OPP-0025,Technical Review,40,Pipeline,19176000.0,2026-11-20,India
+2026-09-18,OPP-0026,Qualification,20,Pipeline,15903000.0,2027-01-24,India
+2026-09-18,OPP-0027,Closed Won,100,Closed,5035000.0,2026-03-26,Europe
+2026-09-18,OPP-0028,Closed Lost,0,Omitted,5142000.0,2026-08-02,India
+2026-09-18,OPP-0030,Closed Lost,0,Omitted,25492000.0,2025-10-31,Latin America
+2026-09-18,OPP-0031,Closed Lost,0,Omitted,11339000.0,2026-05-18,Latin America
+2026-09-18,OPP-0032,Proposal/Quote,60,Best Case,17618000.0,2026-11-30,India
+2026-09-18,OPP-0033,Prospecting,10,Pipeline,17650000.0,2027-03-25,India
+2026-09-18,OPP-0034,Qualification,20,Pipeline,24786000.0,2027-01-03,Latin America
+2026-09-18,OPP-0035,Proposal/Quote,60,Best Case,28899000.0,2026-11-22,Latin America
+2026-09-18,OPP-0036,Closed Lost,0,Omitted,20304000.0,2026-03-20,India
+2026-09-18,OPP-0037,Technical Review,40,Pipeline,28928000.0,2026-12-05,Middle East
+2026-09-18,OPP-0038,Qualification,20,Pipeline,23406000.0,2027-01-14,Latin America
+2026-09-18,OPP-0039,Qualification,20,Pipeline,22980000.0,2026-12-30,India
+2026-09-18,OPP-0040,Negotiation,80,Commit,20578000.0,2026-10-23,India
+2026-09-18,OPP-0041,Proposal/Quote,60,Best Case,13770000.0,2026-11-08,Australia
+2026-09-18,OPP-0042,Closed Won,100,Closed,12854000.0,2025-10-23,India
+2026-09-18,OPP-0043,Closed Lost,0,Omitted,12532000.0,2026-05-02,Middle East
+2026-09-18,OPP-0044,Prospecting,10,Pipeline,5067000.0,2027-06-16,Australia
+2026-09-18,OPP-0045,Closed Lost,0,Omitted,29714000.0,2026-05-31,Middle East
+2026-09-18,OPP-0046,Closed Won,100,Closed,22949000.0,2026-09-16,India
+2026-09-18,OPP-0047,Closed Lost,0,Omitted,15266000.0,2026-02-25,India
+2026-09-18,OPP-0048,Negotiation,80,Commit,15488000.0,2026-10-05,Middle East
+2026-09-18,OPP-0049,Qualification,20,Pipeline,14076000.0,2027-01-20,India
+2026-09-18,OPP-0050,Qualification,20,Pipeline,26236000.0,2027-03-13,Latin America
+2026-09-18,OPP-0051,Prospecting,10,Pipeline,22816000.0,2027-04-22,Latin America
+2026-09-18,OPP-0052,Proposal/Quote,60,Best Case,9027000.0,2026-12-04,Europe
+2026-09-18,OPP-0053,Closed Won,100,Closed,38052000.0,2026-08-20,Middle East
+2026-09-18,OPP-0054,Closed Won,100,Closed,6628000.0,2026-06-21,Europe
+2026-09-18,OPP-0055,Prospecting,10,Pipeline,23460000.0,2027-03-10,Middle East
+2026-09-18,OPP-0056,Qualification,20,Pipeline,9910000.0,2027-04-12,Latin America
+2026-09-18,OPP-0057,Closed Lost,0,Omitted,10088000.0,2026-08-02,India
+2026-09-18,OPP-0058,Prospecting,10,Pipeline,33448000.0,2027-04-21,Middle East
+2026-09-18,OPP-0061,Closed Lost,0,Omitted,14742000.0,2026-06-03,Europe
+2026-09-18,OPP-0062,Closed Lost,0,Omitted,10035000.0,2026-02-26,Australia
+2026-09-18,OPP-0063,Closed Won,100,Closed,14324000.0,2026-04-07,Europe
+2026-09-18,OPP-0064,Closed Lost,0,Omitted,39850000.0,2026-08-24,Middle East
+2026-09-18,OPP-0065,Closed Won,100,Closed,10640000.0,2026-08-08,Europe
+2026-09-18,OPP-0066,Closed Won,100,Closed,23894000.0,2026-06-25,Middle East
+2026-09-18,OPP-0068,Closed Lost,0,Omitted,8673000.0,2026-08-10,India
+2026-09-18,OPP-0069,Closed Lost,0,Omitted,12180000.0,2025-12-20,India
+2026-09-18,OPP-0070,Closed Won,100,Closed,12896000.0,2026-07-21,India
+2026-09-18,OPP-0071,Closed Lost,0,Omitted,17118000.0,2026-01-02,Middle East
+2026-09-18,OPP-0072,Closed Lost,0,Omitted,14762000.0,2026-02-01,India
+2026-09-18,OPP-0073,Technical Review,40,Pipeline,19761000.0,2026-11-27,Latin America
+2026-09-18,OPP-0074,Closed Lost,0,Omitted,24794000.0,2026-01-12,Australia
+2026-09-18,OPP-0075,Prospecting,10,Pipeline,20962000.0,2027-06-07,India
+2026-09-18,OPP-0076,Closed Lost,0,Omitted,33156000.0,2026-08-17,Middle East
+2026-09-18,OPP-0077,Closed Won,100,Closed,18584000.0,2026-02-07,India
+2026-09-18,OPP-0078,Closed Won,100,Closed,34086000.0,2026-03-02,Middle East
+2026-09-18,OPP-0079,Closed Lost,0,Omitted,3420000.0,2026-07-16,Europe
+2026-09-18,OPP-0080,Closed Lost,0,Omitted,16031000.0,2026-02-01,India
+2026-09-18,OPP-0082,Closed Won,100,Closed,9288000.0,2026-05-08,Europe
+2026-09-18,OPP-0083,Qualification,20,Pipeline,4684000.0,2027-02-21,Europe
+2026-09-18,OPP-0084,Closed Lost,0,Omitted,7512000.0,2025-12-16,Latin America
+2026-09-18,OPP-0085,Closed Lost,0,Omitted,17584000.0,2026-06-08,Australia
+2026-09-18,OPP-0086,Proposal/Quote,60,Best Case,17132000.0,2026-11-20,India
+2026-09-18,OPP-0088,Proposal/Quote,60,Best Case,29435000.0,2026-10-01,Latin America
+2026-09-18,OPP-0089,Qualification,20,Pipeline,15500000.0,2027-03-04,India
+2026-09-18,OPP-0090,Qualification,20,Pipeline,6792000.0,2026-09-19,India
+2026-09-18,OPP-0091,Closed Won,100,Closed,21504000.0,2026-08-15,Latin America
+2026-09-18,OPP-0092,Technical Review,40,Pipeline,6215000.0,2026-10-11,Australia
+2026-09-18,OPP-0093,Closed Won,100,Closed,4433000.0,2026-03-06,India
+2026-09-18,OPP-0094,Closed Lost,0,Omitted,23648000.0,2026-04-24,Australia
+2026-09-18,OPP-0095,Closed Lost,0,Omitted,15462000.0,2026-08-05,India
+2026-09-18,OPP-0096,Closed Lost,0,Omitted,5574000.0,2026-07-21,Latin America
+2026-09-18,OPP-0097,Qualification,20,Pipeline,18194000.0,2026-09-29,India
+2026-09-18,OPP-0098,Proposal/Quote,60,Best Case,25599000.0,2026-11-08,Middle East
+2026-09-18,OPP-0100,Closed Lost,0,Omitted,7462000.0,2026-06-26,Europe
+2026-09-18,OPP-0101,Closed Won,100,Closed,15204000.0,2026-03-29,Europe
+2026-09-18,OPP-0102,Technical Review,40,Pipeline,14035000.0,2026-12-27,India
+2026-09-18,OPP-0103,Proposal/Quote,60,Best Case,15827000.0,2026-10-14,Latin America
+2026-09-18,OPP-0104,Closed Won,100,Closed,24921000.0,2026-07-16,Middle East
+2026-09-18,OPP-0105,Closed Won,100,Closed,10892000.0,2026-06-12,India
+2026-09-18,OPP-0106,Technical Review,40,Pipeline,19200000.0,2026-09-19,Middle East
+2026-09-18,OPP-0107,Proposal/Quote,60,Best Case,10051000.0,2026-12-15,Australia
+2026-09-18,OPP-0109,Closed Lost,0,Omitted,13880000.0,2025-12-18,Europe
+2026-09-18,OPP-0110,Closed Lost,0,Omitted,22686000.0,2026-05-19,India
+2026-09-18,OPP-0111,Closed Lost,0,Omitted,14958000.0,2026-07-27,India
+2026-09-18,OPP-0113,Technical Review,40,Pipeline,12386000.0,2026-10-25,Europe
+2026-09-18,OPP-0114,Closed Won,100,Closed,13738000.0,2026-02-07,India
+2026-09-18,OPP-0115,Proposal/Quote,60,Best Case,7515000.0,2026-10-22,Europe
+2026-09-18,OPP-0117,Technical Review,40,Pipeline,25842000.0,2026-12-30,India
+2026-09-18,OPP-0122,Closed Won,100,Closed,11904000.0,2026-01-24,India
+2026-09-18,OPP-0123,Negotiation,80,Commit,17205000.0,2026-11-12,Europe
+2026-09-18,OPP-0124,Closed Lost,0,Omitted,20825000.0,2026-08-20,India
+2026-09-18,OPP-0125,Prospecting,10,Pipeline,8954000.0,2027-02-06,India
+2026-09-18,OPP-0126,Prospecting,10,Pipeline,25560000.0,2027-05-21,India
+2026-09-18,OPP-0127,Qualification,20,Pipeline,17652000.0,2026-09-21,India
+2026-09-18,OPP-0128,Closed Lost,0,Omitted,5902000.0,2026-07-03,Europe
+2026-09-18,OPP-0129,Prospecting,10,Pipeline,7989000.0,2027-05-06,India
+2026-09-18,OPP-0130,Closed Lost,0,Omitted,13788000.0,2026-04-10,Europe
+2026-09-18,OPP-0131,Qualification,20,Pipeline,40194000.0,2026-12-06,Middle East
+2026-09-18,OPP-0132,Closed Won,100,Closed,21325000.0,2026-05-18,Middle East
+2026-09-18,OPP-0133,Closed Won,100,Closed,9108000.0,2026-08-27,India
+2026-09-18,OPP-0134,Closed Won,100,Closed,15808000.0,2026-04-07,India
+2026-09-18,OPP-0135,Closed Lost,0,Omitted,18920000.0,2026-06-21,Middle East
+2026-09-18,OPP-0136,Closed Lost,0,Omitted,12584000.0,2026-01-19,Latin America
+2026-09-18,OPP-0137,Proposal/Quote,60,Best Case,14556000.0,2026-11-29,Europe
+2026-09-18,OPP-0139,Qualification,20,Pipeline,5514000.0,2027-01-21,Latin America
+2026-09-18,OPP-0140,Closed Lost,0,Omitted,7632000.0,2026-04-02,India
+2026-09-18,OPP-0141,Closed Won,100,Closed,11596000.0,2026-04-24,India
+2026-09-18,OPP-0142,Closed Lost,0,Omitted,22032000.0,2026-05-04,India
+2026-09-18,OPP-0143,Closed Won,100,Closed,23925000.0,2026-05-19,India
+2026-09-18,OPP-0144,Closed Won,100,Closed,10846000.0,2026-06-17,India
+2026-09-18,OPP-0145,Technical Review,40,Pipeline,10030000.0,2026-11-30,Latin America
+2026-09-18,OPP-0146,Closed Lost,0,Omitted,13398000.0,2026-02-23,India
+2026-09-18,OPP-0147,Prospecting,10,Pipeline,23550000.0,2026-11-29,India
+2026-09-18,OPP-0148,Closed Lost,0,Omitted,16112000.0,2026-08-07,Australia
+2026-09-18,OPP-0149,Proposal/Quote,60,Best Case,12661000.0,2026-11-18,Europe
+2026-09-18,OPP-0150,Technical Review,40,Pipeline,17904000.0,2026-09-30,Australia
+2026-09-18,OPP-0151,Proposal/Quote,60,Best Case,8275000.0,2026-12-15,India
+2026-09-25,OPP-0001,Closed Won,100,Closed,19870000.0,2026-01-03,Australia
+2026-09-25,OPP-0002,Closed Lost,0,Omitted,9597000.0,2026-09-02,Latin America
+2026-09-25,OPP-0003,Prospecting,10,Pipeline,6127000.0,2027-01-28,Australia
+2026-09-25,OPP-0004,Qualification,20,Pipeline,14231000.0,2027-02-24,India
+2026-09-25,OPP-0005,Closed Won,100,Closed,18168000.0,2026-01-08,India
+2026-09-25,OPP-0006,Qualification,20,Pipeline,14872000.0,2027-03-20,Europe
+2026-09-25,OPP-0007,Closed Lost,0,Omitted,12254000.0,2026-05-05,Europe
+2026-09-25,OPP-0008,Proposal/Quote,60,Best Case,8883000.0,2026-12-15,Latin America
+2026-09-25,OPP-0009,Closed Lost,0,Omitted,19393000.0,2026-06-26,Latin America
+2026-09-25,OPP-0010,Closed Won,100,Closed,9051000.0,2025-11-13,India
+2026-09-25,OPP-0011,Proposal/Quote,60,Best Case,15040000.0,2026-11-02,Latin America
+2026-09-25,OPP-0012,Technical Review,40,Pipeline,5320000.0,2027-01-03,India
+2026-09-25,OPP-0013,Technical Review,40,Pipeline,13646000.0,2026-12-19,India
+2026-09-25,OPP-0014,Closed Lost,0,Omitted,6831000.0,2026-06-05,India
+2026-09-25,OPP-0015,Closed Lost,0,Omitted,18040000.0,2025-11-16,India
+2026-09-25,OPP-0016,Technical Review,40,Pipeline,4585000.0,2026-12-23,Latin America
+2026-09-25,OPP-0017,Closed Lost,0,Omitted,30920000.0,2026-03-10,Middle East
+2026-09-25,OPP-0018,Closed Won,100,Closed,26519000.0,2026-06-09,Australia
+2026-09-25,OPP-0019,Qualification,20,Pipeline,13122000.0,2027-02-16,Europe
+2026-09-25,OPP-0020,Technical Review,40,Pipeline,19925000.0,2026-10-10,India
+2026-09-25,OPP-0021,Closed Won,100,Closed,9786000.0,2026-08-21,India
+2026-09-25,OPP-0022,Qualification,20,Pipeline,15408000.0,2027-05-04,Middle East
+2026-09-25,OPP-0023,Closed Won,100,Closed,17738000.0,2026-04-02,India
+2026-09-25,OPP-0024,Proposal/Quote,60,Best Case,33690000.0,2026-11-20,Middle East
+2026-09-25,OPP-0025,Proposal/Quote,60,Best Case,19176000.0,2026-11-20,India
+2026-09-25,OPP-0026,Qualification,20,Pipeline,15903000.0,2027-01-24,India
+2026-09-25,OPP-0027,Closed Won,100,Closed,5035000.0,2026-03-26,Europe
+2026-09-25,OPP-0028,Closed Lost,0,Omitted,5142000.0,2026-08-02,India
+2026-09-25,OPP-0030,Closed Lost,0,Omitted,25492000.0,2025-10-31,Latin America
+2026-09-25,OPP-0031,Closed Lost,0,Omitted,11339000.0,2026-05-18,Latin America
+2026-09-25,OPP-0032,Proposal/Quote,60,Best Case,17618000.0,2026-11-30,India
+2026-09-25,OPP-0033,Prospecting,10,Pipeline,17650000.0,2027-03-25,India
+2026-09-25,OPP-0034,Technical Review,40,Pipeline,24786000.0,2027-01-03,Latin America
+2026-09-25,OPP-0035,Proposal/Quote,60,Best Case,28899000.0,2026-11-22,Latin America
+2026-09-25,OPP-0036,Closed Lost,0,Omitted,20304000.0,2026-03-20,India
+2026-09-25,OPP-0037,Technical Review,40,Pipeline,28928000.0,2026-12-05,Middle East
+2026-09-25,OPP-0038,Qualification,20,Pipeline,23406000.0,2027-01-14,Latin America
+2026-09-25,OPP-0039,Technical Review,40,Pipeline,22980000.0,2026-12-30,India
+2026-09-25,OPP-0040,Negotiation,80,Commit,20578000.0,2026-10-23,India
+2026-09-25,OPP-0041,Proposal/Quote,60,Best Case,13770000.0,2026-11-08,Australia
+2026-09-25,OPP-0042,Closed Won,100,Closed,12854000.0,2025-10-23,India
+2026-09-25,OPP-0043,Closed Lost,0,Omitted,12532000.0,2026-05-02,Middle East
+2026-09-25,OPP-0044,Prospecting,10,Pipeline,5067000.0,2027-06-16,Australia
+2026-09-25,OPP-0045,Closed Lost,0,Omitted,29714000.0,2026-05-31,Middle East
+2026-09-25,OPP-0046,Closed Won,100,Closed,22949000.0,2026-09-16,India
+2026-09-25,OPP-0047,Closed Lost,0,Omitted,15266000.0,2026-02-25,India
+2026-09-25,OPP-0048,Negotiation,80,Commit,15488000.0,2026-10-05,Middle East
+2026-09-25,OPP-0049,Qualification,20,Pipeline,14076000.0,2027-01-20,India
+2026-09-25,OPP-0050,Qualification,20,Pipeline,26236000.0,2027-03-13,Latin America
+2026-09-25,OPP-0051,Prospecting,10,Pipeline,22816000.0,2027-04-22,Latin America
+2026-09-25,OPP-0052,Proposal/Quote,60,Best Case,9027000.0,2026-12-04,Europe
+2026-09-25,OPP-0053,Closed Won,100,Closed,38052000.0,2026-08-20,Middle East
+2026-09-25,OPP-0054,Closed Won,100,Closed,6628000.0,2026-06-21,Europe
+2026-09-25,OPP-0055,Prospecting,10,Pipeline,23460000.0,2027-03-10,Middle East
+2026-09-25,OPP-0056,Qualification,20,Pipeline,9910000.0,2027-04-12,Latin America
+2026-09-25,OPP-0057,Closed Lost,0,Omitted,10088000.0,2026-08-02,India
+2026-09-25,OPP-0058,Prospecting,10,Pipeline,33448000.0,2027-04-21,Middle East
+2026-09-25,OPP-0061,Closed Lost,0,Omitted,14742000.0,2026-06-03,Europe
+2026-09-25,OPP-0062,Closed Lost,0,Omitted,10035000.0,2026-02-26,Australia
+2026-09-25,OPP-0063,Closed Won,100,Closed,14324000.0,2026-04-07,Europe
+2026-09-25,OPP-0064,Closed Lost,0,Omitted,39850000.0,2026-08-24,Middle East
+2026-09-25,OPP-0065,Closed Won,100,Closed,10640000.0,2026-08-08,Europe
+2026-09-25,OPP-0066,Closed Won,100,Closed,23894000.0,2026-06-25,Middle East
+2026-09-25,OPP-0067,Prospecting,10,Pipeline,11250000.0,2027-05-31,Middle East
+2026-09-25,OPP-0068,Closed Lost,0,Omitted,8673000.0,2026-08-10,India
+2026-09-25,OPP-0069,Closed Lost,0,Omitted,12180000.0,2025-12-20,India
+2026-09-25,OPP-0070,Closed Won,100,Closed,12896000.0,2026-07-21,India
+2026-09-25,OPP-0071,Closed Lost,0,Omitted,17118000.0,2026-01-02,Middle East
+2026-09-25,OPP-0072,Closed Lost,0,Omitted,14762000.0,2026-02-01,India
+2026-09-25,OPP-0073,Technical Review,40,Pipeline,19761000.0,2026-11-27,Latin America
+2026-09-25,OPP-0074,Closed Lost,0,Omitted,24794000.0,2026-01-12,Australia
+2026-09-25,OPP-0075,Prospecting,10,Pipeline,20962000.0,2027-06-07,India
+2026-09-25,OPP-0076,Closed Lost,0,Omitted,33156000.0,2026-08-17,Middle East
+2026-09-25,OPP-0077,Closed Won,100,Closed,18584000.0,2026-02-07,India
+2026-09-25,OPP-0078,Closed Won,100,Closed,34086000.0,2026-03-02,Middle East
+2026-09-25,OPP-0079,Closed Lost,0,Omitted,3420000.0,2026-07-16,Europe
+2026-09-25,OPP-0080,Closed Lost,0,Omitted,16031000.0,2026-02-01,India
+2026-09-25,OPP-0081,Prospecting,10,Pipeline,8800000.0,2027-04-29,Latin America
+2026-09-25,OPP-0082,Closed Won,100,Closed,9288000.0,2026-05-08,Europe
+2026-09-25,OPP-0083,Qualification,20,Pipeline,4684000.0,2027-02-21,Europe
+2026-09-25,OPP-0084,Closed Lost,0,Omitted,7512000.0,2025-12-16,Latin America
+2026-09-25,OPP-0085,Closed Lost,0,Omitted,17584000.0,2026-06-08,Australia
+2026-09-25,OPP-0086,Proposal/Quote,60,Best Case,17132000.0,2026-11-20,India
+2026-09-25,OPP-0088,Proposal/Quote,60,Best Case,29435000.0,2026-10-01,Latin America
+2026-09-25,OPP-0089,Qualification,20,Pipeline,15500000.0,2027-03-04,India
+2026-09-25,OPP-0090,Closed Lost,0,Omitted,6792000.0,2026-09-19,India
+2026-09-25,OPP-0091,Closed Won,100,Closed,21504000.0,2026-08-15,Latin America
+2026-09-25,OPP-0092,Technical Review,40,Pipeline,6215000.0,2026-10-11,Australia
+2026-09-25,OPP-0093,Closed Won,100,Closed,4433000.0,2026-03-06,India
+2026-09-25,OPP-0094,Closed Lost,0,Omitted,23648000.0,2026-04-24,Australia
+2026-09-25,OPP-0095,Closed Lost,0,Omitted,15462000.0,2026-08-05,India
+2026-09-25,OPP-0096,Closed Lost,0,Omitted,5574000.0,2026-07-21,Latin America
+2026-09-25,OPP-0097,Qualification,20,Pipeline,18194000.0,2026-09-29,India
+2026-09-25,OPP-0098,Proposal/Quote,60,Best Case,25599000.0,2026-11-08,Middle East
+2026-09-25,OPP-0099,Prospecting,10,Pipeline,16750000.0,2027-08-09,Middle East
+2026-09-25,OPP-0100,Closed Lost,0,Omitted,7462000.0,2026-06-26,Europe
+2026-09-25,OPP-0101,Closed Won,100,Closed,15204000.0,2026-03-29,Europe
+2026-09-25,OPP-0102,Technical Review,40,Pipeline,14035000.0,2026-12-27,India
+2026-09-25,OPP-0103,Negotiation,80,Commit,15827000.0,2026-10-14,Latin America
+2026-09-25,OPP-0104,Closed Won,100,Closed,24921000.0,2026-07-16,Middle East
+2026-09-25,OPP-0105,Closed Won,100,Closed,10892000.0,2026-06-12,India
+2026-09-25,OPP-0106,Closed Lost,0,Omitted,19200000.0,2026-09-19,Middle East
+2026-09-25,OPP-0107,Proposal/Quote,60,Best Case,10051000.0,2026-12-15,Australia
+2026-09-25,OPP-0108,Prospecting,10,Pipeline,23016000.0,2027-06-13,India
+2026-09-25,OPP-0109,Closed Lost,0,Omitted,13880000.0,2025-12-18,Europe
+2026-09-25,OPP-0110,Closed Lost,0,Omitted,22686000.0,2026-05-19,India
+2026-09-25,OPP-0111,Closed Lost,0,Omitted,14958000.0,2026-07-27,India
+2026-09-25,OPP-0113,Proposal/Quote,60,Best Case,12386000.0,2026-10-25,Europe
+2026-09-25,OPP-0114,Closed Won,100,Closed,13738000.0,2026-02-07,India
+2026-09-25,OPP-0115,Proposal/Quote,60,Best Case,7515000.0,2026-10-22,Europe
+2026-09-25,OPP-0117,Technical Review,40,Pipeline,25842000.0,2026-12-30,India
+2026-09-25,OPP-0120,Prospecting,10,Pipeline,11892000.0,2027-04-13,Latin America
+2026-09-25,OPP-0122,Closed Won,100,Closed,11904000.0,2026-01-24,India
+2026-09-25,OPP-0123,Negotiation,80,Commit,17205000.0,2026-11-12,Europe
+2026-09-25,OPP-0124,Closed Lost,0,Omitted,20825000.0,2026-08-20,India
+2026-09-25,OPP-0125,Prospecting,10,Pipeline,8954000.0,2027-02-06,India
+2026-09-25,OPP-0126,Prospecting,10,Pipeline,25560000.0,2027-05-21,India
+2026-09-25,OPP-0127,Closed Lost,0,Omitted,17652000.0,2026-09-21,India
+2026-09-25,OPP-0128,Closed Lost,0,Omitted,5902000.0,2026-07-03,Europe
+2026-09-25,OPP-0129,Prospecting,10,Pipeline,7989000.0,2027-05-06,India
+2026-09-25,OPP-0130,Closed Lost,0,Omitted,13788000.0,2026-04-10,Europe
+2026-09-25,OPP-0131,Technical Review,40,Pipeline,40194000.0,2026-12-06,Middle East
+2026-09-25,OPP-0132,Closed Won,100,Closed,21325000.0,2026-05-18,Middle East
+2026-09-25,OPP-0133,Closed Won,100,Closed,9108000.0,2026-08-27,India
+2026-09-25,OPP-0134,Closed Won,100,Closed,15808000.0,2026-04-07,India
+2026-09-25,OPP-0135,Closed Lost,0,Omitted,18920000.0,2026-06-21,Middle East
+2026-09-25,OPP-0136,Closed Lost,0,Omitted,12584000.0,2026-01-19,Latin America
+2026-09-25,OPP-0137,Proposal/Quote,60,Best Case,14556000.0,2026-11-29,Europe
+2026-09-25,OPP-0138,Prospecting,10,Pipeline,13588000.0,2027-04-25,Australia
+2026-09-25,OPP-0139,Qualification,20,Pipeline,5514000.0,2027-01-21,Latin America
+2026-09-25,OPP-0140,Closed Lost,0,Omitted,7632000.0,2026-04-02,India
+2026-09-25,OPP-0141,Closed Won,100,Closed,11596000.0,2026-04-24,India
+2026-09-25,OPP-0142,Closed Lost,0,Omitted,22032000.0,2026-05-04,India
+2026-09-25,OPP-0143,Closed Won,100,Closed,23925000.0,2026-05-19,India
+2026-09-25,OPP-0144,Closed Won,100,Closed,10846000.0,2026-06-17,India
+2026-09-25,OPP-0145,Proposal/Quote,60,Best Case,10030000.0,2026-11-30,Latin America
+2026-09-25,OPP-0146,Closed Lost,0,Omitted,13398000.0,2026-02-23,India
+2026-09-25,OPP-0147,Prospecting,10,Pipeline,23550000.0,2026-11-29,India
+2026-09-25,OPP-0148,Closed Lost,0,Omitted,16112000.0,2026-08-07,Australia
+2026-09-25,OPP-0149,Proposal/Quote,60,Best Case,12661000.0,2026-11-18,Europe
+2026-09-25,OPP-0150,Technical Review,40,Pipeline,17904000.0,2026-09-30,Australia
+2026-09-25,OPP-0151,Proposal/Quote,60,Best Case,8275000.0,2026-12-15,India
+2026-10-02,OPP-0001,Closed Won,100,Closed,19870000.0,2026-01-03,Australia
+2026-10-02,OPP-0002,Closed Lost,0,Omitted,9597000.0,2026-09-02,Latin America
+2026-10-02,OPP-0003,Qualification,20,Pipeline,6127000.0,2027-01-28,Australia
+2026-10-02,OPP-0004,Qualification,20,Pipeline,14231000.0,2027-02-24,India
+2026-10-02,OPP-0005,Closed Won,100,Closed,18168000.0,2026-01-08,India
+2026-10-02,OPP-0006,Qualification,20,Pipeline,14872000.0,2027-03-20,Europe
+2026-10-02,OPP-0007,Closed Lost,0,Omitted,12254000.0,2026-05-05,Europe
+2026-10-02,OPP-0008,Proposal/Quote,60,Best Case,8883000.0,2026-12-15,Latin America
+2026-10-02,OPP-0009,Closed Lost,0,Omitted,19393000.0,2026-06-26,Latin America
+2026-10-02,OPP-0010,Closed Won,100,Closed,9051000.0,2025-11-13,India
+2026-10-02,OPP-0011,Negotiation,80,Commit,15040000.0,2026-11-02,Latin America
+2026-10-02,OPP-0012,Technical Review,40,Pipeline,5320000.0,2027-01-03,India
+2026-10-02,OPP-0013,Proposal/Quote,60,Best Case,13646000.0,2026-12-19,India
+2026-10-02,OPP-0014,Closed Lost,0,Omitted,6831000.0,2026-06-05,India
+2026-10-02,OPP-0015,Closed Lost,0,Omitted,18040000.0,2025-11-16,India
+2026-10-02,OPP-0016,Technical Review,40,Pipeline,4585000.0,2026-12-23,Latin America
+2026-10-02,OPP-0017,Closed Lost,0,Omitted,30920000.0,2026-03-10,Middle East
+2026-10-02,OPP-0018,Closed Won,100,Closed,26519000.0,2026-06-09,Australia
+2026-10-02,OPP-0019,Qualification,20,Pipeline,13122000.0,2027-02-16,Europe
+2026-10-02,OPP-0020,Technical Review,40,Pipeline,19925000.0,2026-10-10,India
+2026-10-02,OPP-0021,Closed Won,100,Closed,9786000.0,2026-08-21,India
+2026-10-02,OPP-0022,Qualification,20,Pipeline,15408000.0,2027-05-04,Middle East
+2026-10-02,OPP-0023,Closed Won,100,Closed,17738000.0,2026-04-02,India
+2026-10-02,OPP-0024,Proposal/Quote,60,Best Case,33690000.0,2026-11-20,Middle East
+2026-10-02,OPP-0025,Proposal/Quote,60,Best Case,19176000.0,2026-11-20,India
+2026-10-02,OPP-0026,Qualification,20,Pipeline,15903000.0,2027-01-24,India
+2026-10-02,OPP-0027,Closed Won,100,Closed,5035000.0,2026-03-26,Europe
+2026-10-02,OPP-0028,Closed Lost,0,Omitted,5142000.0,2026-08-02,India
+2026-10-02,OPP-0030,Closed Lost,0,Omitted,25492000.0,2025-10-31,Latin America
+2026-10-02,OPP-0031,Closed Lost,0,Omitted,11339000.0,2026-05-18,Latin America
+2026-10-02,OPP-0032,Proposal/Quote,60,Best Case,17618000.0,2026-11-30,India
+2026-10-02,OPP-0033,Qualification,20,Pipeline,17650000.0,2027-03-25,India
+2026-10-02,OPP-0034,Technical Review,40,Pipeline,24786000.0,2027-01-03,Latin America
+2026-10-02,OPP-0035,Proposal/Quote,60,Best Case,28899000.0,2026-11-22,Latin America
+2026-10-02,OPP-0036,Closed Lost,0,Omitted,20304000.0,2026-03-20,India
+2026-10-02,OPP-0037,Proposal/Quote,60,Best Case,28928000.0,2026-12-05,Middle East
+2026-10-02,OPP-0038,Qualification,20,Pipeline,23406000.0,2027-01-14,Latin America
+2026-10-02,OPP-0039,Technical Review,40,Pipeline,22980000.0,2026-12-30,India
+2026-10-02,OPP-0040,Negotiation,80,Commit,20578000.0,2026-10-23,India
+2026-10-02,OPP-0041,Negotiation,80,Commit,13770000.0,2026-11-08,Australia
+2026-10-02,OPP-0042,Closed Won,100,Closed,12854000.0,2025-10-23,India
+2026-10-02,OPP-0043,Closed Lost,0,Omitted,12532000.0,2026-05-02,Middle East
+2026-10-02,OPP-0044,Prospecting,10,Pipeline,5067000.0,2027-06-16,Australia
+2026-10-02,OPP-0045,Closed Lost,0,Omitted,29714000.0,2026-05-31,Middle East
+2026-10-02,OPP-0046,Closed Won,100,Closed,22949000.0,2026-09-16,India
+2026-10-02,OPP-0047,Closed Lost,0,Omitted,15266000.0,2026-02-25,India
+2026-10-02,OPP-0048,Negotiation,80,Commit,15488000.0,2026-10-05,Middle East
+2026-10-02,OPP-0049,Qualification,20,Pipeline,14076000.0,2027-01-20,India
+2026-10-02,OPP-0050,Technical Review,40,Pipeline,26236000.0,2027-03-13,Latin America
+2026-10-02,OPP-0051,Qualification,20,Pipeline,22816000.0,2027-04-22,Latin America
+2026-10-02,OPP-0052,Proposal/Quote,60,Best Case,9027000.0,2026-12-04,Europe
+2026-10-02,OPP-0053,Closed Won,100,Closed,38052000.0,2026-08-20,Middle East
+2026-10-02,OPP-0054,Closed Won,100,Closed,6628000.0,2026-06-21,Europe
+2026-10-02,OPP-0055,Prospecting,10,Pipeline,23460000.0,2027-03-10,Middle East
+2026-10-02,OPP-0056,Qualification,20,Pipeline,9910000.0,2027-04-12,Latin America
+2026-10-02,OPP-0057,Closed Lost,0,Omitted,10088000.0,2026-08-02,India
+2026-10-02,OPP-0058,Prospecting,10,Pipeline,33448000.0,2027-04-21,Middle East
+2026-10-02,OPP-0059,Prospecting,10,Pipeline,16338000.0,2027-06-05,India
+2026-10-02,OPP-0060,Prospecting,10,Pipeline,25900000.0,2027-03-23,Australia
+2026-10-02,OPP-0061,Closed Lost,0,Omitted,14742000.0,2026-06-03,Europe
+2026-10-02,OPP-0062,Closed Lost,0,Omitted,10035000.0,2026-02-26,Australia
+2026-10-02,OPP-0063,Closed Won,100,Closed,14324000.0,2026-04-07,Europe
+2026-10-02,OPP-0064,Closed Lost,0,Omitted,39850000.0,2026-08-24,Middle East
+2026-10-02,OPP-0065,Closed Won,100,Closed,10640000.0,2026-08-08,Europe
+2026-10-02,OPP-0066,Closed Won,100,Closed,23894000.0,2026-06-25,Middle East
+2026-10-02,OPP-0067,Prospecting,10,Pipeline,11250000.0,2027-05-31,Middle East
+2026-10-02,OPP-0068,Closed Lost,0,Omitted,8673000.0,2026-08-10,India
+2026-10-02,OPP-0069,Closed Lost,0,Omitted,12180000.0,2025-12-20,India
+2026-10-02,OPP-0070,Closed Won,100,Closed,12896000.0,2026-07-21,India
+2026-10-02,OPP-0071,Closed Lost,0,Omitted,17118000.0,2026-01-02,Middle East
+2026-10-02,OPP-0072,Closed Lost,0,Omitted,14762000.0,2026-02-01,India
+2026-10-02,OPP-0073,Proposal/Quote,60,Best Case,19761000.0,2026-11-27,Latin America
+2026-10-02,OPP-0074,Closed Lost,0,Omitted,24794000.0,2026-01-12,Australia
+2026-10-02,OPP-0075,Prospecting,10,Pipeline,20962000.0,2027-06-07,India
+2026-10-02,OPP-0076,Closed Lost,0,Omitted,33156000.0,2026-08-17,Middle East
+2026-10-02,OPP-0077,Closed Won,100,Closed,18584000.0,2026-02-07,India
+2026-10-02,OPP-0078,Closed Won,100,Closed,34086000.0,2026-03-02,Middle East
+2026-10-02,OPP-0079,Closed Lost,0,Omitted,3420000.0,2026-07-16,Europe
+2026-10-02,OPP-0080,Closed Lost,0,Omitted,16031000.0,2026-02-01,India
+2026-10-02,OPP-0081,Prospecting,10,Pipeline,8800000.0,2027-04-29,Latin America
+2026-10-02,OPP-0082,Closed Won,100,Closed,9288000.0,2026-05-08,Europe
+2026-10-02,OPP-0083,Qualification,20,Pipeline,4684000.0,2027-02-21,Europe
+2026-10-02,OPP-0084,Closed Lost,0,Omitted,7512000.0,2025-12-16,Latin America
+2026-10-02,OPP-0085,Closed Lost,0,Omitted,17584000.0,2026-06-08,Australia
+2026-10-02,OPP-0086,Proposal/Quote,60,Best Case,17132000.0,2026-11-20,India
+2026-10-02,OPP-0087,Prospecting,10,Pipeline,11868000.0,2027-10-29,Europe
+2026-10-02,OPP-0088,Closed Lost,0,Omitted,29435000.0,2026-10-01,Latin America
+2026-10-02,OPP-0089,Qualification,20,Pipeline,15500000.0,2027-03-04,India
+2026-10-02,OPP-0090,Closed Lost,0,Omitted,6792000.0,2026-09-19,India
+2026-10-02,OPP-0091,Closed Won,100,Closed,21504000.0,2026-08-15,Latin America
+2026-10-02,OPP-0092,Technical Review,40,Pipeline,6215000.0,2026-10-11,Australia
+2026-10-02,OPP-0093,Closed Won,100,Closed,4433000.0,2026-03-06,India
+2026-10-02,OPP-0094,Closed Lost,0,Omitted,23648000.0,2026-04-24,Australia
+2026-10-02,OPP-0095,Closed Lost,0,Omitted,15462000.0,2026-08-05,India
+2026-10-02,OPP-0096,Closed Lost,0,Omitted,5574000.0,2026-07-21,Latin America
+2026-10-02,OPP-0097,Closed Lost,0,Omitted,18194000.0,2026-09-29,India
+2026-10-02,OPP-0098,Negotiation,80,Commit,25599000.0,2026-11-08,Middle East
+2026-10-02,OPP-0099,Prospecting,10,Pipeline,16750000.0,2027-08-09,Middle East
+2026-10-02,OPP-0100,Closed Lost,0,Omitted,7462000.0,2026-06-26,Europe
+2026-10-02,OPP-0101,Closed Won,100,Closed,15204000.0,2026-03-29,Europe
+2026-10-02,OPP-0102,Technical Review,40,Pipeline,14035000.0,2026-12-27,India
+2026-10-02,OPP-0103,Negotiation,80,Commit,15827000.0,2026-10-14,Latin America
+2026-10-02,OPP-0104,Closed Won,100,Closed,24921000.0,2026-07-16,Middle East
+2026-10-02,OPP-0105,Closed Won,100,Closed,10892000.0,2026-06-12,India
+2026-10-02,OPP-0106,Closed Lost,0,Omitted,19200000.0,2026-09-19,Middle East
+2026-10-02,OPP-0107,Proposal/Quote,60,Best Case,10051000.0,2026-12-15,Australia
+2026-10-02,OPP-0108,Prospecting,10,Pipeline,23016000.0,2027-06-13,India
+2026-10-02,OPP-0109,Closed Lost,0,Omitted,13880000.0,2025-12-18,Europe
+2026-10-02,OPP-0110,Closed Lost,0,Omitted,22686000.0,2026-05-19,India
+2026-10-02,OPP-0111,Closed Lost,0,Omitted,14958000.0,2026-07-27,India
+2026-10-02,OPP-0112,Prospecting,10,Pipeline,11214000.0,2027-05-23,Australia
+2026-10-02,OPP-0113,Proposal/Quote,60,Best Case,12386000.0,2026-10-25,Europe
+2026-10-02,OPP-0114,Closed Won,100,Closed,13738000.0,2026-02-07,India
+2026-10-02,OPP-0115,Negotiation,80,Commit,7515000.0,2026-10-22,Europe
+2026-10-02,OPP-0117,Technical Review,40,Pipeline,25842000.0,2026-12-30,India
+2026-10-02,OPP-0118,Prospecting,10,Pipeline,20475000.0,2027-05-15,India
+2026-10-02,OPP-0120,Prospecting,10,Pipeline,11892000.0,2027-04-13,Latin America
+2026-10-02,OPP-0122,Closed Won,100,Closed,11904000.0,2026-01-24,India
+2026-10-02,OPP-0123,Negotiation,80,Commit,17205000.0,2026-11-12,Europe
+2026-10-02,OPP-0124,Closed Lost,0,Omitted,20825000.0,2026-08-20,India
+2026-10-02,OPP-0125,Qualification,20,Pipeline,8954000.0,2027-02-06,India
+2026-10-02,OPP-0126,Prospecting,10,Pipeline,25560000.0,2027-05-21,India
+2026-10-02,OPP-0127,Closed Lost,0,Omitted,17652000.0,2026-09-21,India
+2026-10-02,OPP-0128,Closed Lost,0,Omitted,5902000.0,2026-07-03,Europe
+2026-10-02,OPP-0129,Prospecting,10,Pipeline,7989000.0,2027-05-06,India
+2026-10-02,OPP-0130,Closed Lost,0,Omitted,13788000.0,2026-04-10,Europe
+2026-10-02,OPP-0131,Technical Review,40,Pipeline,40194000.0,2026-12-06,Middle East
+2026-10-02,OPP-0132,Closed Won,100,Closed,21325000.0,2026-05-18,Middle East
+2026-10-02,OPP-0133,Closed Won,100,Closed,9108000.0,2026-08-27,India
+2026-10-02,OPP-0134,Closed Won,100,Closed,15808000.0,2026-04-07,India
+2026-10-02,OPP-0135,Closed Lost,0,Omitted,18920000.0,2026-06-21,Middle East
+2026-10-02,OPP-0136,Closed Lost,0,Omitted,12584000.0,2026-01-19,Latin America
+2026-10-02,OPP-0137,Negotiation,80,Commit,14556000.0,2026-11-29,Europe
+2026-10-02,OPP-0138,Prospecting,10,Pipeline,13588000.0,2027-04-25,Australia
+2026-10-02,OPP-0139,Qualification,20,Pipeline,5514000.0,2027-01-21,Latin America
+2026-10-02,OPP-0140,Closed Lost,0,Omitted,7632000.0,2026-04-02,India
+2026-10-02,OPP-0141,Closed Won,100,Closed,11596000.0,2026-04-24,India
+2026-10-02,OPP-0142,Closed Lost,0,Omitted,22032000.0,2026-05-04,India
+2026-10-02,OPP-0143,Closed Won,100,Closed,23925000.0,2026-05-19,India
+2026-10-02,OPP-0144,Closed Won,100,Closed,10846000.0,2026-06-17,India
+2026-10-02,OPP-0145,Proposal/Quote,60,Best Case,10030000.0,2026-11-30,Latin America
+2026-10-02,OPP-0146,Closed Lost,0,Omitted,13398000.0,2026-02-23,India
+2026-10-02,OPP-0147,Qualification,20,Pipeline,23550000.0,2026-11-29,India
+2026-10-02,OPP-0148,Closed Lost,0,Omitted,16112000.0,2026-08-07,Australia
+2026-10-02,OPP-0149,Proposal/Quote,60,Best Case,12661000.0,2026-11-18,Europe
+2026-10-02,OPP-0150,Closed Lost,0,Omitted,17904000.0,2026-09-30,Australia
+2026-10-02,OPP-0151,Proposal/Quote,60,Best Case,8275000.0,2026-12-15,India
+2026-10-09,OPP-0001,Closed Won,100,Closed,19870000.0,2026-01-03,Australia
+2026-10-09,OPP-0002,Closed Lost,0,Omitted,9597000.0,2026-09-02,Latin America
+2026-10-09,OPP-0003,Qualification,20,Pipeline,6127000.0,2027-01-28,Australia
+2026-10-09,OPP-0004,Qualification,20,Pipeline,14231000.0,2027-02-24,India
+2026-10-09,OPP-0005,Closed Won,100,Closed,18168000.0,2026-01-08,India
+2026-10-09,OPP-0006,Qualification,20,Pipeline,14872000.0,2027-03-20,Europe
+2026-10-09,OPP-0007,Closed Lost,0,Omitted,12254000.0,2026-05-05,Europe
+2026-10-09,OPP-0008,Proposal/Quote,60,Best Case,8883000.0,2026-12-15,Latin America
+2026-10-09,OPP-0009,Closed Lost,0,Omitted,19393000.0,2026-06-26,Latin America
+2026-10-09,OPP-0010,Closed Won,100,Closed,9051000.0,2025-11-13,India
+2026-10-09,OPP-0011,Negotiation,80,Commit,15040000.0,2026-11-02,Latin America
+2026-10-09,OPP-0012,Proposal/Quote,60,Best Case,5320000.0,2027-01-03,India
+2026-10-09,OPP-0013,Proposal/Quote,60,Best Case,13646000.0,2026-12-19,India
+2026-10-09,OPP-0014,Closed Lost,0,Omitted,6831000.0,2026-06-05,India
+2026-10-09,OPP-0015,Closed Lost,0,Omitted,18040000.0,2025-11-16,India
+2026-10-09,OPP-0016,Proposal/Quote,60,Best Case,4585000.0,2026-12-23,Latin America
+2026-10-09,OPP-0017,Closed Lost,0,Omitted,30920000.0,2026-03-10,Middle East
+2026-10-09,OPP-0018,Closed Won,100,Closed,26519000.0,2026-06-09,Australia
+2026-10-09,OPP-0019,Technical Review,40,Pipeline,13122000.0,2027-02-16,Europe
+2026-10-09,OPP-0020,Technical Review,40,Pipeline,19925000.0,2026-10-10,India
+2026-10-09,OPP-0021,Closed Won,100,Closed,9786000.0,2026-08-21,India
+2026-10-09,OPP-0022,Qualification,20,Pipeline,15408000.0,2027-05-04,Middle East
+2026-10-09,OPP-0023,Closed Won,100,Closed,17738000.0,2026-04-02,India
+2026-10-09,OPP-0024,Proposal/Quote,60,Best Case,33690000.0,2026-11-20,Middle East
+2026-10-09,OPP-0025,Proposal/Quote,60,Best Case,19176000.0,2026-11-20,India
+2026-10-09,OPP-0026,Qualification,20,Pipeline,15903000.0,2027-01-24,India
+2026-10-09,OPP-0027,Closed Won,100,Closed,5035000.0,2026-03-26,Europe
+2026-10-09,OPP-0028,Closed Lost,0,Omitted,5142000.0,2026-08-02,India
+2026-10-09,OPP-0029,Prospecting,10,Pipeline,23519000.0,2027-02-17,India
+2026-10-09,OPP-0030,Closed Lost,0,Omitted,25492000.0,2025-10-31,Latin America
+2026-10-09,OPP-0031,Closed Lost,0,Omitted,11339000.0,2026-05-18,Latin America
+2026-10-09,OPP-0032,Proposal/Quote,60,Best Case,17618000.0,2026-11-30,India
+2026-10-09,OPP-0033,Qualification,20,Pipeline,17650000.0,2027-03-25,India
+2026-10-09,OPP-0034,Technical Review,40,Pipeline,24786000.0,2027-01-03,Latin America
+2026-10-09,OPP-0035,Proposal/Quote,60,Best Case,28899000.0,2026-11-22,Latin America
+2026-10-09,OPP-0036,Closed Lost,0,Omitted,20304000.0,2026-03-20,India
+2026-10-09,OPP-0037,Proposal/Quote,60,Best Case,28928000.0,2026-12-05,Middle East
+2026-10-09,OPP-0038,Technical Review,40,Pipeline,23406000.0,2027-01-14,Latin America
+2026-10-09,OPP-0039,Technical Review,40,Pipeline,22980000.0,2026-12-30,India
+2026-10-09,OPP-0040,Negotiation,80,Commit,20578000.0,2026-10-23,India
+2026-10-09,OPP-0041,Negotiation,80,Commit,13770000.0,2026-11-08,Australia
+2026-10-09,OPP-0042,Closed Won,100,Closed,12854000.0,2025-10-23,India
+2026-10-09,OPP-0043,Closed Lost,0,Omitted,12532000.0,2026-05-02,Middle East
+2026-10-09,OPP-0044,Prospecting,10,Pipeline,5067000.0,2027-06-16,Australia
+2026-10-09,OPP-0045,Closed Lost,0,Omitted,29714000.0,2026-05-31,Middle East
+2026-10-09,OPP-0046,Closed Won,100,Closed,22949000.0,2026-09-16,India
+2026-10-09,OPP-0047,Closed Lost,0,Omitted,15266000.0,2026-02-25,India
+2026-10-09,OPP-0048,Closed Won,100,Closed,15488000.0,2026-10-05,Middle East
+2026-10-09,OPP-0049,Technical Review,40,Pipeline,14076000.0,2027-01-20,India
+2026-10-09,OPP-0050,Technical Review,40,Pipeline,26236000.0,2027-03-13,Latin America
+2026-10-09,OPP-0051,Qualification,20,Pipeline,22816000.0,2027-04-22,Latin America
+2026-10-09,OPP-0052,Proposal/Quote,60,Best Case,9027000.0,2026-12-04,Europe
+2026-10-09,OPP-0053,Closed Won,100,Closed,38052000.0,2026-08-20,Middle East
+2026-10-09,OPP-0054,Closed Won,100,Closed,6628000.0,2026-06-21,Europe
+2026-10-09,OPP-0055,Qualification,20,Pipeline,23460000.0,2027-03-10,Middle East
+2026-10-09,OPP-0056,Qualification,20,Pipeline,9910000.0,2027-04-12,Latin America
+2026-10-09,OPP-0057,Closed Lost,0,Omitted,10088000.0,2026-08-02,India
+2026-10-09,OPP-0058,Prospecting,10,Pipeline,33448000.0,2027-04-21,Middle East
+2026-10-09,OPP-0059,Prospecting,10,Pipeline,16338000.0,2027-06-05,India
+2026-10-09,OPP-0060,Prospecting,10,Pipeline,25900000.0,2027-03-23,Australia
+2026-10-09,OPP-0061,Closed Lost,0,Omitted,14742000.0,2026-06-03,Europe
+2026-10-09,OPP-0062,Closed Lost,0,Omitted,10035000.0,2026-02-26,Australia
+2026-10-09,OPP-0063,Closed Won,100,Closed,14324000.0,2026-04-07,Europe
+2026-10-09,OPP-0064,Closed Lost,0,Omitted,39850000.0,2026-08-24,Middle East
+2026-10-09,OPP-0065,Closed Won,100,Closed,10640000.0,2026-08-08,Europe
+2026-10-09,OPP-0066,Closed Won,100,Closed,23894000.0,2026-06-25,Middle East
+2026-10-09,OPP-0067,Prospecting,10,Pipeline,11250000.0,2027-05-31,Middle East
+2026-10-09,OPP-0068,Closed Lost,0,Omitted,8673000.0,2026-08-10,India
+2026-10-09,OPP-0069,Closed Lost,0,Omitted,12180000.0,2025-12-20,India
+2026-10-09,OPP-0070,Closed Won,100,Closed,12896000.0,2026-07-21,India
+2026-10-09,OPP-0071,Closed Lost,0,Omitted,17118000.0,2026-01-02,Middle East
+2026-10-09,OPP-0072,Closed Lost,0,Omitted,14762000.0,2026-02-01,India
+2026-10-09,OPP-0073,Proposal/Quote,60,Best Case,19761000.0,2026-11-27,Latin America
+2026-10-09,OPP-0074,Closed Lost,0,Omitted,24794000.0,2026-01-12,Australia
+2026-10-09,OPP-0075,Prospecting,10,Pipeline,20962000.0,2027-06-07,India
+2026-10-09,OPP-0076,Closed Lost,0,Omitted,33156000.0,2026-08-17,Middle East
+2026-10-09,OPP-0077,Closed Won,100,Closed,18584000.0,2026-02-07,India
+2026-10-09,OPP-0078,Closed Won,100,Closed,34086000.0,2026-03-02,Middle East
+2026-10-09,OPP-0079,Closed Lost,0,Omitted,3420000.0,2026-07-16,Europe
+2026-10-09,OPP-0080,Closed Lost,0,Omitted,16031000.0,2026-02-01,India
+2026-10-09,OPP-0081,Prospecting,10,Pipeline,8800000.0,2027-04-29,Latin America
+2026-10-09,OPP-0082,Closed Won,100,Closed,9288000.0,2026-05-08,Europe
+2026-10-09,OPP-0083,Qualification,20,Pipeline,4684000.0,2027-02-21,Europe
+2026-10-09,OPP-0084,Closed Lost,0,Omitted,7512000.0,2025-12-16,Latin America
+2026-10-09,OPP-0085,Closed Lost,0,Omitted,17584000.0,2026-06-08,Australia
+2026-10-09,OPP-0086,Negotiation,80,Commit,17132000.0,2026-11-20,India
+2026-10-09,OPP-0087,Prospecting,10,Pipeline,11868000.0,2027-10-29,Europe
+2026-10-09,OPP-0088,Closed Lost,0,Omitted,29435000.0,2026-10-01,Latin America
+2026-10-09,OPP-0089,Qualification,20,Pipeline,15500000.0,2027-03-04,India
+2026-10-09,OPP-0090,Closed Lost,0,Omitted,6792000.0,2026-09-19,India
+2026-10-09,OPP-0091,Closed Won,100,Closed,21504000.0,2026-08-15,Latin America
+2026-10-09,OPP-0092,Technical Review,40,Pipeline,6215000.0,2026-10-11,Australia
+2026-10-09,OPP-0093,Closed Won,100,Closed,4433000.0,2026-03-06,India
+2026-10-09,OPP-0094,Closed Lost,0,Omitted,23648000.0,2026-04-24,Australia
+2026-10-09,OPP-0095,Closed Lost,0,Omitted,15462000.0,2026-08-05,India
+2026-10-09,OPP-0096,Closed Lost,0,Omitted,5574000.0,2026-07-21,Latin America
+2026-10-09,OPP-0097,Closed Lost,0,Omitted,18194000.0,2026-09-29,India
+2026-10-09,OPP-0098,Negotiation,80,Commit,25599000.0,2026-11-08,Middle East
+2026-10-09,OPP-0099,Prospecting,10,Pipeline,16750000.0,2027-08-09,Middle East
+2026-10-09,OPP-0100,Closed Lost,0,Omitted,7462000.0,2026-06-26,Europe
+2026-10-09,OPP-0101,Closed Won,100,Closed,15204000.0,2026-03-29,Europe
+2026-10-09,OPP-0102,Technical Review,40,Pipeline,14035000.0,2026-12-27,India
+2026-10-09,OPP-0103,Negotiation,80,Commit,15827000.0,2026-10-14,Latin America
+2026-10-09,OPP-0104,Closed Won,100,Closed,24921000.0,2026-07-16,Middle East
+2026-10-09,OPP-0105,Closed Won,100,Closed,10892000.0,2026-06-12,India
+2026-10-09,OPP-0106,Closed Lost,0,Omitted,19200000.0,2026-09-19,Middle East
+2026-10-09,OPP-0107,Proposal/Quote,60,Best Case,10051000.0,2026-12-15,Australia
+2026-10-09,OPP-0108,Prospecting,10,Pipeline,23016000.0,2027-06-13,India
+2026-10-09,OPP-0109,Closed Lost,0,Omitted,13880000.0,2025-12-18,Europe
+2026-10-09,OPP-0110,Closed Lost,0,Omitted,22686000.0,2026-05-19,India
+2026-10-09,OPP-0111,Closed Lost,0,Omitted,14958000.0,2026-07-27,India
+2026-10-09,OPP-0112,Prospecting,10,Pipeline,11214000.0,2027-05-23,Australia
+2026-10-09,OPP-0113,Negotiation,80,Commit,12386000.0,2026-10-25,Europe
+2026-10-09,OPP-0114,Closed Won,100,Closed,13738000.0,2026-02-07,India
+2026-10-09,OPP-0115,Negotiation,80,Commit,7515000.0,2026-10-22,Europe
+2026-10-09,OPP-0117,Technical Review,40,Pipeline,25842000.0,2026-12-30,India
+2026-10-09,OPP-0118,Prospecting,10,Pipeline,20475000.0,2027-05-15,India
+2026-10-09,OPP-0120,Prospecting,10,Pipeline,11892000.0,2027-04-13,Latin America
+2026-10-09,OPP-0122,Closed Won,100,Closed,11904000.0,2026-01-24,India
+2026-10-09,OPP-0123,Negotiation,80,Commit,17205000.0,2026-11-12,Europe
+2026-10-09,OPP-0124,Closed Lost,0,Omitted,20825000.0,2026-08-20,India
+2026-10-09,OPP-0125,Qualification,20,Pipeline,8954000.0,2027-02-06,India
+2026-10-09,OPP-0126,Prospecting,10,Pipeline,25560000.0,2027-05-21,India
+2026-10-09,OPP-0127,Closed Lost,0,Omitted,17652000.0,2026-09-21,India
+2026-10-09,OPP-0128,Closed Lost,0,Omitted,5902000.0,2026-07-03,Europe
+2026-10-09,OPP-0129,Prospecting,10,Pipeline,7989000.0,2027-05-06,India
+2026-10-09,OPP-0130,Closed Lost,0,Omitted,13788000.0,2026-04-10,Europe
+2026-10-09,OPP-0131,Technical Review,40,Pipeline,40194000.0,2026-12-06,Middle East
+2026-10-09,OPP-0132,Closed Won,100,Closed,21325000.0,2026-05-18,Middle East
+2026-10-09,OPP-0133,Closed Won,100,Closed,9108000.0,2026-08-27,India
+2026-10-09,OPP-0134,Closed Won,100,Closed,15808000.0,2026-04-07,India
+2026-10-09,OPP-0135,Closed Lost,0,Omitted,18920000.0,2026-06-21,Middle East
+2026-10-09,OPP-0136,Closed Lost,0,Omitted,12584000.0,2026-01-19,Latin America
+2026-10-09,OPP-0137,Negotiation,80,Commit,14556000.0,2026-11-29,Europe
+2026-10-09,OPP-0138,Prospecting,10,Pipeline,13588000.0,2027-04-25,Australia
+2026-10-09,OPP-0139,Qualification,20,Pipeline,5514000.0,2027-01-21,Latin America
+2026-10-09,OPP-0140,Closed Lost,0,Omitted,7632000.0,2026-04-02,India
+2026-10-09,OPP-0141,Closed Won,100,Closed,11596000.0,2026-04-24,India
+2026-10-09,OPP-0142,Closed Lost,0,Omitted,22032000.0,2026-05-04,India
+2026-10-09,OPP-0143,Closed Won,100,Closed,23925000.0,2026-05-19,India
+2026-10-09,OPP-0144,Closed Won,100,Closed,10846000.0,2026-06-17,India
+2026-10-09,OPP-0145,Proposal/Quote,60,Best Case,10030000.0,2026-11-30,Latin America
+2026-10-09,OPP-0146,Closed Lost,0,Omitted,13398000.0,2026-02-23,India
+2026-10-09,OPP-0147,Qualification,20,Pipeline,23550000.0,2026-11-29,India
+2026-10-09,OPP-0148,Closed Lost,0,Omitted,16112000.0,2026-08-07,Australia
+2026-10-09,OPP-0149,Negotiation,80,Commit,12661000.0,2026-11-18,Europe
+2026-10-09,OPP-0150,Closed Lost,0,Omitted,17904000.0,2026-09-30,Australia
+2026-10-09,OPP-0151,Proposal/Quote,60,Best Case,8275000.0,2026-12-15,India
+2026-10-16,OPP-0001,Closed Won,100,Closed,19870000.0,2026-01-03,Australia
+2026-10-16,OPP-0002,Closed Lost,0,Omitted,9597000.0,2026-09-02,Latin America
+2026-10-16,OPP-0003,Qualification,20,Pipeline,6127000.0,2027-01-28,Australia
+2026-10-16,OPP-0004,Qualification,20,Pipeline,14231000.0,2027-02-24,India
+2026-10-16,OPP-0005,Closed Won,100,Closed,18168000.0,2026-01-08,India
+2026-10-16,OPP-0006,Qualification,20,Pipeline,14872000.0,2027-03-20,Europe
+2026-10-16,OPP-0007,Closed Lost,0,Omitted,12254000.0,2026-05-05,Europe
+2026-10-16,OPP-0008,Proposal/Quote,60,Best Case,8883000.0,2026-12-15,Latin America
+2026-10-16,OPP-0009,Closed Lost,0,Omitted,19393000.0,2026-06-26,Latin America
+2026-10-16,OPP-0010,Closed Won,100,Closed,9051000.0,2025-11-13,India
+2026-10-16,OPP-0011,Negotiation,80,Commit,15040000.0,2026-11-02,Latin America
+2026-10-16,OPP-0012,Proposal/Quote,60,Best Case,5320000.0,2027-01-03,India
+2026-10-16,OPP-0013,Proposal/Quote,60,Best Case,13646000.0,2026-12-19,India
+2026-10-16,OPP-0014,Closed Lost,0,Omitted,6831000.0,2026-06-05,India
+2026-10-16,OPP-0015,Closed Lost,0,Omitted,18040000.0,2025-11-16,India
+2026-10-16,OPP-0016,Proposal/Quote,60,Best Case,4585000.0,2026-12-23,Latin America
+2026-10-16,OPP-0017,Closed Lost,0,Omitted,30920000.0,2026-03-10,Middle East
+2026-10-16,OPP-0018,Closed Won,100,Closed,26519000.0,2026-06-09,Australia
+2026-10-16,OPP-0019,Technical Review,40,Pipeline,13122000.0,2027-02-16,Europe
+2026-10-16,OPP-0020,Closed Lost,0,Omitted,19925000.0,2026-10-10,India
+2026-10-16,OPP-0021,Closed Won,100,Closed,9786000.0,2026-08-21,India
+2026-10-16,OPP-0022,Qualification,20,Pipeline,15408000.0,2027-05-04,Middle East
+2026-10-16,OPP-0023,Closed Won,100,Closed,17738000.0,2026-04-02,India
+2026-10-16,OPP-0024,Negotiation,80,Commit,33690000.0,2026-11-20,Middle East
+2026-10-16,OPP-0025,Proposal/Quote,60,Best Case,19176000.0,2026-11-20,India
+2026-10-16,OPP-0026,Qualification,20,Pipeline,15903000.0,2027-01-24,India
+2026-10-16,OPP-0027,Closed Won,100,Closed,5035000.0,2026-03-26,Europe
+2026-10-16,OPP-0028,Closed Lost,0,Omitted,5142000.0,2026-08-02,India
+2026-10-16,OPP-0029,Prospecting,10,Pipeline,23519000.0,2027-02-17,India
+2026-10-16,OPP-0030,Closed Lost,0,Omitted,25492000.0,2025-10-31,Latin America
+2026-10-16,OPP-0031,Closed Lost,0,Omitted,11339000.0,2026-05-18,Latin America
+2026-10-16,OPP-0032,Proposal/Quote,60,Best Case,17618000.0,2026-11-30,India
+2026-10-16,OPP-0033,Qualification,20,Pipeline,17650000.0,2027-03-25,India
+2026-10-16,OPP-0034,Technical Review,40,Pipeline,24786000.0,2027-01-03,Latin America
+2026-10-16,OPP-0035,Negotiation,80,Commit,28899000.0,2026-11-22,Latin America
+2026-10-16,OPP-0036,Closed Lost,0,Omitted,20304000.0,2026-03-20,India
+2026-10-16,OPP-0037,Proposal/Quote,60,Best Case,28928000.0,2026-12-05,Middle East
+2026-10-16,OPP-0038,Technical Review,40,Pipeline,23406000.0,2027-01-14,Latin America
+2026-10-16,OPP-0039,Technical Review,40,Pipeline,22980000.0,2026-12-30,India
+2026-10-16,OPP-0040,Negotiation,80,Commit,20578000.0,2026-10-23,India
+2026-10-16,OPP-0041,Negotiation,80,Commit,13770000.0,2026-11-08,Australia
+2026-10-16,OPP-0042,Closed Won,100,Closed,12854000.0,2025-10-23,India
+2026-10-16,OPP-0043,Closed Lost,0,Omitted,12532000.0,2026-05-02,Middle East
+2026-10-16,OPP-0044,Prospecting,10,Pipeline,5067000.0,2027-06-16,Australia
+2026-10-16,OPP-0045,Closed Lost,0,Omitted,29714000.0,2026-05-31,Middle East
+2026-10-16,OPP-0046,Closed Won,100,Closed,22949000.0,2026-09-16,India
+2026-10-16,OPP-0047,Closed Lost,0,Omitted,15266000.0,2026-02-25,India
+2026-10-16,OPP-0048,Closed Won,100,Closed,15488000.0,2026-10-05,Middle East
+2026-10-16,OPP-0049,Technical Review,40,Pipeline,14076000.0,2027-01-20,India
+2026-10-16,OPP-0050,Technical Review,40,Pipeline,26236000.0,2027-03-13,Latin America
+2026-10-16,OPP-0051,Qualification,20,Pipeline,22816000.0,2027-04-22,Latin America
+2026-10-16,OPP-0052,Proposal/Quote,60,Best Case,9027000.0,2026-12-04,Europe
+2026-10-16,OPP-0053,Closed Won,100,Closed,38052000.0,2026-08-20,Middle East
+2026-10-16,OPP-0054,Closed Won,100,Closed,6628000.0,2026-06-21,Europe
+2026-10-16,OPP-0055,Qualification,20,Pipeline,23460000.0,2027-03-10,Middle East
+2026-10-16,OPP-0056,Qualification,20,Pipeline,9910000.0,2027-04-12,Latin America
+2026-10-16,OPP-0057,Closed Lost,0,Omitted,10088000.0,2026-08-02,India
+2026-10-16,OPP-0058,Prospecting,10,Pipeline,33448000.0,2027-04-21,Middle East
+2026-10-16,OPP-0059,Prospecting,10,Pipeline,16338000.0,2027-06-05,India
+2026-10-16,OPP-0060,Prospecting,10,Pipeline,25900000.0,2027-03-23,Australia
+2026-10-16,OPP-0061,Closed Lost,0,Omitted,14742000.0,2026-06-03,Europe
+2026-10-16,OPP-0062,Closed Lost,0,Omitted,10035000.0,2026-02-26,Australia
+2026-10-16,OPP-0063,Closed Won,100,Closed,14324000.0,2026-04-07,Europe
+2026-10-16,OPP-0064,Closed Lost,0,Omitted,39850000.0,2026-08-24,Middle East
+2026-10-16,OPP-0065,Closed Won,100,Closed,10640000.0,2026-08-08,Europe
+2026-10-16,OPP-0066,Closed Won,100,Closed,23894000.0,2026-06-25,Middle East
+2026-10-16,OPP-0067,Prospecting,10,Pipeline,11250000.0,2027-05-31,Middle East
+2026-10-16,OPP-0068,Closed Lost,0,Omitted,8673000.0,2026-08-10,India
+2026-10-16,OPP-0069,Closed Lost,0,Omitted,12180000.0,2025-12-20,India
+2026-10-16,OPP-0070,Closed Won,100,Closed,12896000.0,2026-07-21,India
+2026-10-16,OPP-0071,Closed Lost,0,Omitted,17118000.0,2026-01-02,Middle East
+2026-10-16,OPP-0072,Closed Lost,0,Omitted,14762000.0,2026-02-01,India
+2026-10-16,OPP-0073,Proposal/Quote,60,Best Case,19761000.0,2026-11-27,Latin America
+2026-10-16,OPP-0074,Closed Lost,0,Omitted,24794000.0,2026-01-12,Australia
+2026-10-16,OPP-0075,Qualification,20,Pipeline,20962000.0,2027-06-07,India
+2026-10-16,OPP-0076,Closed Lost,0,Omitted,33156000.0,2026-08-17,Middle East
+2026-10-16,OPP-0077,Closed Won,100,Closed,18584000.0,2026-02-07,India
+2026-10-16,OPP-0078,Closed Won,100,Closed,34086000.0,2026-03-02,Middle East
+2026-10-16,OPP-0079,Closed Lost,0,Omitted,3420000.0,2026-07-16,Europe
+2026-10-16,OPP-0080,Closed Lost,0,Omitted,16031000.0,2026-02-01,India
+2026-10-16,OPP-0081,Prospecting,10,Pipeline,8800000.0,2027-04-29,Latin America
+2026-10-16,OPP-0082,Closed Won,100,Closed,9288000.0,2026-05-08,Europe
+2026-10-16,OPP-0083,Qualification,20,Pipeline,4684000.0,2027-02-21,Europe
+2026-10-16,OPP-0084,Closed Lost,0,Omitted,7512000.0,2025-12-16,Latin America
+2026-10-16,OPP-0085,Closed Lost,0,Omitted,17584000.0,2026-06-08,Australia
+2026-10-16,OPP-0086,Negotiation,80,Commit,17132000.0,2026-11-20,India
+2026-10-16,OPP-0087,Prospecting,10,Pipeline,11868000.0,2027-10-29,Europe
+2026-10-16,OPP-0088,Closed Lost,0,Omitted,29435000.0,2026-10-01,Latin America
+2026-10-16,OPP-0089,Technical Review,40,Pipeline,15500000.0,2027-03-04,India
+2026-10-16,OPP-0090,Closed Lost,0,Omitted,6792000.0,2026-09-19,India
+2026-10-16,OPP-0091,Closed Won,100,Closed,21504000.0,2026-08-15,Latin America
+2026-10-16,OPP-0092,Closed Lost,0,Omitted,6215000.0,2026-10-11,Australia
+2026-10-16,OPP-0093,Closed Won,100,Closed,4433000.0,2026-03-06,India
+2026-10-16,OPP-0094,Closed Lost,0,Omitted,23648000.0,2026-04-24,Australia
+2026-10-16,OPP-0095,Closed Lost,0,Omitted,15462000.0,2026-08-05,India
+2026-10-16,OPP-0096,Closed Lost,0,Omitted,5574000.0,2026-07-21,Latin America
+2026-10-16,OPP-0097,Closed Lost,0,Omitted,18194000.0,2026-09-29,India
+2026-10-16,OPP-0098,Negotiation,80,Commit,25599000.0,2026-11-08,Middle East
+2026-10-16,OPP-0099,Prospecting,10,Pipeline,16750000.0,2027-08-09,Middle East
+2026-10-16,OPP-0100,Closed Lost,0,Omitted,7462000.0,2026-06-26,Europe
+2026-10-16,OPP-0101,Closed Won,100,Closed,15204000.0,2026-03-29,Europe
+2026-10-16,OPP-0102,Proposal/Quote,60,Best Case,14035000.0,2026-12-27,India
+2026-10-16,OPP-0103,Closed Lost,0,Omitted,15827000.0,2026-10-14,Latin America
+2026-10-16,OPP-0104,Closed Won,100,Closed,24921000.0,2026-07-16,Middle East
+2026-10-16,OPP-0105,Closed Won,100,Closed,10892000.0,2026-06-12,India
+2026-10-16,OPP-0106,Closed Lost,0,Omitted,19200000.0,2026-09-19,Middle East
+2026-10-16,OPP-0107,Proposal/Quote,60,Best Case,10051000.0,2026-12-15,Australia
+2026-10-16,OPP-0108,Prospecting,10,Pipeline,23016000.0,2027-06-13,India
+2026-10-16,OPP-0109,Closed Lost,0,Omitted,13880000.0,2025-12-18,Europe
+2026-10-16,OPP-0110,Closed Lost,0,Omitted,22686000.0,2026-05-19,India
+2026-10-16,OPP-0111,Closed Lost,0,Omitted,14958000.0,2026-07-27,India
+2026-10-16,OPP-0112,Prospecting,10,Pipeline,11214000.0,2027-05-23,Australia
+2026-10-16,OPP-0113,Negotiation,80,Commit,12386000.0,2026-10-25,Europe
+2026-10-16,OPP-0114,Closed Won,100,Closed,13738000.0,2026-02-07,India
+2026-10-16,OPP-0115,Negotiation,80,Commit,7515000.0,2026-10-22,Europe
+2026-10-16,OPP-0116,Prospecting,10,Pipeline,24219000.0,2027-06-21,Middle East
+2026-10-16,OPP-0117,Technical Review,40,Pipeline,25842000.0,2026-12-30,India
+2026-10-16,OPP-0118,Prospecting,10,Pipeline,20475000.0,2027-05-15,India
+2026-10-16,OPP-0119,Prospecting,10,Pipeline,19512000.0,2027-05-09,India
+2026-10-16,OPP-0120,Prospecting,10,Pipeline,11892000.0,2027-04-13,Latin America
+2026-10-16,OPP-0121,Prospecting,10,Pipeline,17530000.0,2027-01-28,Middle East
+2026-10-16,OPP-0122,Closed Won,100,Closed,11904000.0,2026-01-24,India
+2026-10-16,OPP-0123,Negotiation,80,Commit,17205000.0,2026-11-12,Europe
+2026-10-16,OPP-0124,Closed Lost,0,Omitted,20825000.0,2026-08-20,India
+2026-10-16,OPP-0125,Qualification,20,Pipeline,8954000.0,2027-02-06,India
+2026-10-16,OPP-0126,Prospecting,10,Pipeline,25560000.0,2027-05-21,India
+2026-10-16,OPP-0127,Closed Lost,0,Omitted,17652000.0,2026-09-21,India
+2026-10-16,OPP-0128,Closed Lost,0,Omitted,5902000.0,2026-07-03,Europe
+2026-10-16,OPP-0129,Prospecting,10,Pipeline,7989000.0,2027-05-06,India
+2026-10-16,OPP-0130,Closed Lost,0,Omitted,13788000.0,2026-04-10,Europe
+2026-10-16,OPP-0131,Technical Review,40,Pipeline,40194000.0,2026-12-06,Middle East
+2026-10-16,OPP-0132,Closed Won,100,Closed,21325000.0,2026-05-18,Middle East
+2026-10-16,OPP-0133,Closed Won,100,Closed,9108000.0,2026-08-27,India
+2026-10-16,OPP-0134,Closed Won,100,Closed,15808000.0,2026-04-07,India
+2026-10-16,OPP-0135,Closed Lost,0,Omitted,18920000.0,2026-06-21,Middle East
+2026-10-16,OPP-0136,Closed Lost,0,Omitted,12584000.0,2026-01-19,Latin America
+2026-10-16,OPP-0137,Negotiation,80,Commit,14556000.0,2026-11-29,Europe
+2026-10-16,OPP-0138,Prospecting,10,Pipeline,13588000.0,2027-04-25,Australia
+2026-10-16,OPP-0139,Technical Review,40,Pipeline,5514000.0,2027-01-21,Latin America
+2026-10-16,OPP-0140,Closed Lost,0,Omitted,7632000.0,2026-04-02,India
+2026-10-16,OPP-0141,Closed Won,100,Closed,11596000.0,2026-04-24,India
+2026-10-16,OPP-0142,Closed Lost,0,Omitted,22032000.0,2026-05-04,India
+2026-10-16,OPP-0143,Closed Won,100,Closed,23925000.0,2026-05-19,India
+2026-10-16,OPP-0144,Closed Won,100,Closed,10846000.0,2026-06-17,India
+2026-10-16,OPP-0145,Proposal/Quote,60,Best Case,10030000.0,2026-11-30,Latin America
+2026-10-16,OPP-0146,Closed Lost,0,Omitted,13398000.0,2026-02-23,India
+2026-10-16,OPP-0147,Qualification,20,Pipeline,23550000.0,2026-11-29,India
+2026-10-16,OPP-0148,Closed Lost,0,Omitted,16112000.0,2026-08-07,Australia
+2026-10-16,OPP-0149,Negotiation,80,Commit,12661000.0,2026-11-18,Europe
+2026-10-16,OPP-0150,Closed Lost,0,Omitted,17904000.0,2026-09-30,Australia
+2026-10-16,OPP-0151,Proposal/Quote,60,Best Case,8275000.0,2026-12-15,India
+2026-10-23,OPP-0001,Closed Won,100,Closed,19870000.0,2026-01-03,Australia
+2026-10-23,OPP-0002,Closed Lost,0,Omitted,9597000.0,2026-09-02,Latin America
+2026-10-23,OPP-0003,Qualification,20,Pipeline,6127000.0,2027-01-28,Australia
+2026-10-23,OPP-0004,Technical Review,40,Pipeline,14231000.0,2027-02-24,India
+2026-10-23,OPP-0005,Closed Won,100,Closed,18168000.0,2026-01-08,India
+2026-10-23,OPP-0006,Qualification,20,Pipeline,14872000.0,2027-03-20,Europe
+2026-10-23,OPP-0007,Closed Lost,0,Omitted,12254000.0,2026-05-05,Europe
+2026-10-23,OPP-0008,Proposal/Quote,60,Best Case,8883000.0,2026-12-15,Latin America
+2026-10-23,OPP-0009,Closed Lost,0,Omitted,19393000.0,2026-06-26,Latin America
+2026-10-23,OPP-0010,Closed Won,100,Closed,9051000.0,2025-11-13,India
+2026-10-23,OPP-0011,Negotiation,80,Commit,15040000.0,2026-11-02,Latin America
+2026-10-23,OPP-0012,Proposal/Quote,60,Best Case,5320000.0,2027-01-03,India
+2026-10-23,OPP-0013,Proposal/Quote,60,Best Case,13646000.0,2026-12-19,India
+2026-10-23,OPP-0014,Closed Lost,0,Omitted,6831000.0,2026-06-05,India
+2026-10-23,OPP-0015,Closed Lost,0,Omitted,18040000.0,2025-11-16,India
+2026-10-23,OPP-0016,Proposal/Quote,60,Best Case,4585000.0,2026-12-23,Latin America
+2026-10-23,OPP-0017,Closed Lost,0,Omitted,30920000.0,2026-03-10,Middle East
+2026-10-23,OPP-0018,Closed Won,100,Closed,26519000.0,2026-06-09,Australia
+2026-10-23,OPP-0019,Technical Review,40,Pipeline,13122000.0,2027-02-16,Europe
+2026-10-23,OPP-0020,Closed Lost,0,Omitted,19925000.0,2026-10-10,India
+2026-10-23,OPP-0021,Closed Won,100,Closed,9786000.0,2026-08-21,India
+2026-10-23,OPP-0022,Technical Review,40,Pipeline,15408000.0,2027-05-04,Middle East
+2026-10-23,OPP-0023,Closed Won,100,Closed,17738000.0,2026-04-02,India
+2026-10-23,OPP-0024,Negotiation,80,Commit,33690000.0,2026-11-20,Middle East
+2026-10-23,OPP-0025,Negotiation,80,Commit,19176000.0,2026-11-20,India
+2026-10-23,OPP-0026,Technical Review,40,Pipeline,15903000.0,2027-01-24,India
+2026-10-23,OPP-0027,Closed Won,100,Closed,5035000.0,2026-03-26,Europe
+2026-10-23,OPP-0028,Closed Lost,0,Omitted,5142000.0,2026-08-02,India
+2026-10-23,OPP-0029,Prospecting,10,Pipeline,23519000.0,2027-02-17,India
+2026-10-23,OPP-0030,Closed Lost,0,Omitted,25492000.0,2025-10-31,Latin America
+2026-10-23,OPP-0031,Closed Lost,0,Omitted,11339000.0,2026-05-18,Latin America
+2026-10-23,OPP-0032,Negotiation,80,Commit,17618000.0,2026-11-30,India
+2026-10-23,OPP-0033,Qualification,20,Pipeline,17650000.0,2027-03-25,India
+2026-10-23,OPP-0034,Technical Review,40,Pipeline,24786000.0,2027-01-03,Latin America
+2026-10-23,OPP-0035,Negotiation,80,Commit,28899000.0,2026-11-22,Latin America
+2026-10-23,OPP-0036,Closed Lost,0,Omitted,20304000.0,2026-03-20,India
+2026-10-23,OPP-0037,Proposal/Quote,60,Best Case,28928000.0,2026-12-05,Middle East
+2026-10-23,OPP-0038,Technical Review,40,Pipeline,23406000.0,2027-01-14,Latin America
+2026-10-23,OPP-0039,Technical Review,40,Pipeline,22980000.0,2026-12-30,India
+2026-10-23,OPP-0040,Closed Won,100,Closed,20578000.0,2026-10-23,India
+2026-10-23,OPP-0041,Negotiation,80,Commit,13770000.0,2026-11-08,Australia
+2026-10-23,OPP-0042,Closed Won,100,Closed,12854000.0,2025-10-23,India
+2026-10-23,OPP-0043,Closed Lost,0,Omitted,12532000.0,2026-05-02,Middle East
+2026-10-23,OPP-0044,Prospecting,10,Pipeline,5067000.0,2027-06-16,Australia
+2026-10-23,OPP-0045,Closed Lost,0,Omitted,29714000.0,2026-05-31,Middle East
+2026-10-23,OPP-0046,Closed Won,100,Closed,22949000.0,2026-09-16,India
+2026-10-23,OPP-0047,Closed Lost,0,Omitted,15266000.0,2026-02-25,India
+2026-10-23,OPP-0048,Closed Won,100,Closed,15488000.0,2026-10-05,Middle East
+2026-10-23,OPP-0049,Technical Review,40,Pipeline,14076000.0,2027-01-20,India
+2026-10-23,OPP-0050,Technical Review,40,Pipeline,26236000.0,2027-03-13,Latin America
+2026-10-23,OPP-0051,Qualification,20,Pipeline,22816000.0,2027-04-22,Latin America
+2026-10-23,OPP-0052,Proposal/Quote,60,Best Case,9027000.0,2026-12-04,Europe
+2026-10-23,OPP-0053,Closed Won,100,Closed,38052000.0,2026-08-20,Middle East
+2026-10-23,OPP-0054,Closed Won,100,Closed,6628000.0,2026-06-21,Europe
+2026-10-23,OPP-0055,Qualification,20,Pipeline,23460000.0,2027-03-10,Middle East
+2026-10-23,OPP-0056,Qualification,20,Pipeline,9910000.0,2027-04-12,Latin America
+2026-10-23,OPP-0057,Closed Lost,0,Omitted,10088000.0,2026-08-02,India
+2026-10-23,OPP-0058,Qualification,20,Pipeline,33448000.0,2027-04-21,Middle East
+2026-10-23,OPP-0059,Prospecting,10,Pipeline,16338000.0,2027-06-05,India
+2026-10-23,OPP-0060,Prospecting,10,Pipeline,25900000.0,2027-03-23,Australia
+2026-10-23,OPP-0061,Closed Lost,0,Omitted,14742000.0,2026-06-03,Europe
+2026-10-23,OPP-0062,Closed Lost,0,Omitted,10035000.0,2026-02-26,Australia
+2026-10-23,OPP-0063,Closed Won,100,Closed,14324000.0,2026-04-07,Europe
+2026-10-23,OPP-0064,Closed Lost,0,Omitted,39850000.0,2026-08-24,Middle East
+2026-10-23,OPP-0065,Closed Won,100,Closed,10640000.0,2026-08-08,Europe
+2026-10-23,OPP-0066,Closed Won,100,Closed,23894000.0,2026-06-25,Middle East
+2026-10-23,OPP-0067,Prospecting,10,Pipeline,11250000.0,2027-05-31,Middle East
+2026-10-23,OPP-0068,Closed Lost,0,Omitted,8673000.0,2026-08-10,India
+2026-10-23,OPP-0069,Closed Lost,0,Omitted,12180000.0,2025-12-20,India
+2026-10-23,OPP-0070,Closed Won,100,Closed,12896000.0,2026-07-21,India
+2026-10-23,OPP-0071,Closed Lost,0,Omitted,17118000.0,2026-01-02,Middle East
+2026-10-23,OPP-0072,Closed Lost,0,Omitted,14762000.0,2026-02-01,India
+2026-10-23,OPP-0073,Proposal/Quote,60,Best Case,19761000.0,2026-11-27,Latin America
+2026-10-23,OPP-0074,Closed Lost,0,Omitted,24794000.0,2026-01-12,Australia
+2026-10-23,OPP-0075,Qualification,20,Pipeline,20962000.0,2027-06-07,India
+2026-10-23,OPP-0076,Closed Lost,0,Omitted,33156000.0,2026-08-17,Middle East
+2026-10-23,OPP-0077,Closed Won,100,Closed,18584000.0,2026-02-07,India
+2026-10-23,OPP-0078,Closed Won,100,Closed,34086000.0,2026-03-02,Middle East
+2026-10-23,OPP-0079,Closed Lost,0,Omitted,3420000.0,2026-07-16,Europe
+2026-10-23,OPP-0080,Closed Lost,0,Omitted,16031000.0,2026-02-01,India
+2026-10-23,OPP-0081,Prospecting,10,Pipeline,8800000.0,2027-04-29,Latin America
+2026-10-23,OPP-0082,Closed Won,100,Closed,9288000.0,2026-05-08,Europe
+2026-10-23,OPP-0083,Technical Review,40,Pipeline,4684000.0,2027-02-21,Europe
+2026-10-23,OPP-0084,Closed Lost,0,Omitted,7512000.0,2025-12-16,Latin America
+2026-10-23,OPP-0085,Closed Lost,0,Omitted,17584000.0,2026-06-08,Australia
+2026-10-23,OPP-0086,Negotiation,80,Commit,17132000.0,2026-11-20,India
+2026-10-23,OPP-0087,Prospecting,10,Pipeline,11868000.0,2027-10-29,Europe
+2026-10-23,OPP-0088,Closed Lost,0,Omitted,29435000.0,2026-10-01,Latin America
+2026-10-23,OPP-0089,Technical Review,40,Pipeline,15500000.0,2027-03-04,India
+2026-10-23,OPP-0090,Closed Lost,0,Omitted,6792000.0,2026-09-19,India
+2026-10-23,OPP-0091,Closed Won,100,Closed,21504000.0,2026-08-15,Latin America
+2026-10-23,OPP-0092,Closed Lost,0,Omitted,6215000.0,2026-10-11,Australia
+2026-10-23,OPP-0093,Closed Won,100,Closed,4433000.0,2026-03-06,India
+2026-10-23,OPP-0094,Closed Lost,0,Omitted,23648000.0,2026-04-24,Australia
+2026-10-23,OPP-0095,Closed Lost,0,Omitted,15462000.0,2026-08-05,India
+2026-10-23,OPP-0096,Closed Lost,0,Omitted,5574000.0,2026-07-21,Latin America
+2026-10-23,OPP-0097,Closed Lost,0,Omitted,18194000.0,2026-09-29,India
+2026-10-23,OPP-0098,Negotiation,80,Commit,25599000.0,2026-11-08,Middle East
+2026-10-23,OPP-0099,Prospecting,10,Pipeline,16750000.0,2027-08-09,Middle East
+2026-10-23,OPP-0100,Closed Lost,0,Omitted,7462000.0,2026-06-26,Europe
+2026-10-23,OPP-0101,Closed Won,100,Closed,15204000.0,2026-03-29,Europe
+2026-10-23,OPP-0102,Proposal/Quote,60,Best Case,14035000.0,2026-12-27,India
+2026-10-23,OPP-0103,Closed Lost,0,Omitted,15827000.0,2026-10-14,Latin America
+2026-10-23,OPP-0104,Closed Won,100,Closed,24921000.0,2026-07-16,Middle East
+2026-10-23,OPP-0105,Closed Won,100,Closed,10892000.0,2026-06-12,India
+2026-10-23,OPP-0106,Closed Lost,0,Omitted,19200000.0,2026-09-19,Middle East
+2026-10-23,OPP-0107,Proposal/Quote,60,Best Case,10051000.0,2026-12-15,Australia
+2026-10-23,OPP-0108,Prospecting,10,Pipeline,23016000.0,2027-06-13,India
+2026-10-23,OPP-0109,Closed Lost,0,Omitted,13880000.0,2025-12-18,Europe
+2026-10-23,OPP-0110,Closed Lost,0,Omitted,22686000.0,2026-05-19,India
+2026-10-23,OPP-0111,Closed Lost,0,Omitted,14958000.0,2026-07-27,India
+2026-10-23,OPP-0112,Prospecting,10,Pipeline,11214000.0,2027-05-23,Australia
+2026-10-23,OPP-0113,Negotiation,80,Commit,12386000.0,2026-10-25,Europe
+2026-10-23,OPP-0114,Closed Won,100,Closed,13738000.0,2026-02-07,India
+2026-10-23,OPP-0115,Closed Lost,0,Omitted,7515000.0,2026-10-22,Europe
+2026-10-23,OPP-0116,Prospecting,10,Pipeline,24219000.0,2027-06-21,Middle East
+2026-10-23,OPP-0117,Proposal/Quote,60,Best Case,25842000.0,2026-12-30,India
+2026-10-23,OPP-0118,Prospecting,10,Pipeline,20475000.0,2027-05-15,India
+2026-10-23,OPP-0119,Prospecting,10,Pipeline,19512000.0,2027-05-09,India
+2026-10-23,OPP-0120,Prospecting,10,Pipeline,11892000.0,2027-04-13,Latin America
+2026-10-23,OPP-0121,Prospecting,10,Pipeline,17530000.0,2027-01-28,Middle East
+2026-10-23,OPP-0122,Closed Won,100,Closed,11904000.0,2026-01-24,India
+2026-10-23,OPP-0123,Negotiation,80,Commit,17205000.0,2026-11-12,Europe
+2026-10-23,OPP-0124,Closed Lost,0,Omitted,20825000.0,2026-08-20,India
+2026-10-23,OPP-0125,Qualification,20,Pipeline,8954000.0,2027-02-06,India
+2026-10-23,OPP-0126,Prospecting,10,Pipeline,25560000.0,2027-05-21,India
+2026-10-23,OPP-0127,Closed Lost,0,Omitted,17652000.0,2026-09-21,India
+2026-10-23,OPP-0128,Closed Lost,0,Omitted,5902000.0,2026-07-03,Europe
+2026-10-23,OPP-0129,Prospecting,10,Pipeline,7989000.0,2027-05-06,India
+2026-10-23,OPP-0130,Closed Lost,0,Omitted,13788000.0,2026-04-10,Europe
+2026-10-23,OPP-0131,Proposal/Quote,60,Best Case,40194000.0,2026-12-06,Middle East
+2026-10-23,OPP-0132,Closed Won,100,Closed,21325000.0,2026-05-18,Middle East
+2026-10-23,OPP-0133,Closed Won,100,Closed,9108000.0,2026-08-27,India
+2026-10-23,OPP-0134,Closed Won,100,Closed,15808000.0,2026-04-07,India
+2026-10-23,OPP-0135,Closed Lost,0,Omitted,18920000.0,2026-06-21,Middle East
+2026-10-23,OPP-0136,Closed Lost,0,Omitted,12584000.0,2026-01-19,Latin America
+2026-10-23,OPP-0137,Negotiation,80,Commit,14556000.0,2026-11-29,Europe
+2026-10-23,OPP-0138,Prospecting,10,Pipeline,13588000.0,2027-04-25,Australia
+2026-10-23,OPP-0139,Technical Review,40,Pipeline,5514000.0,2027-01-21,Latin America
+2026-10-23,OPP-0140,Closed Lost,0,Omitted,7632000.0,2026-04-02,India
+2026-10-23,OPP-0141,Closed Won,100,Closed,11596000.0,2026-04-24,India
+2026-10-23,OPP-0142,Closed Lost,0,Omitted,22032000.0,2026-05-04,India
+2026-10-23,OPP-0143,Closed Won,100,Closed,23925000.0,2026-05-19,India
+2026-10-23,OPP-0144,Closed Won,100,Closed,10846000.0,2026-06-17,India
+2026-10-23,OPP-0145,Proposal/Quote,60,Best Case,10030000.0,2026-11-30,Latin America
+2026-10-23,OPP-0146,Closed Lost,0,Omitted,13398000.0,2026-02-23,India
+2026-10-23,OPP-0147,Technical Review,40,Pipeline,23550000.0,2026-11-29,India
+2026-10-23,OPP-0148,Closed Lost,0,Omitted,16112000.0,2026-08-07,Australia
+2026-10-23,OPP-0149,Negotiation,80,Commit,12661000.0,2026-11-18,Europe
+2026-10-23,OPP-0150,Closed Lost,0,Omitted,17904000.0,2026-09-30,Australia
+2026-10-23,OPP-0151,Proposal/Quote,60,Best Case,8275000.0,2026-12-15,India
