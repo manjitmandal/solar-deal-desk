@@ -3,7 +3,7 @@
 **Time:** about 4–6 hours. **Cost:** free.
 **Result:** a Salesforce Developer Edition org that holds the 151 synthetic opportunities, uses a solar-tracker sales process, and has a forecast dashboard you can screenshot for your portfolio.
 
-> You have to do these steps yourself in your own org. That's the point: in an interview you can say "I configured this." Take screenshots as you go (marked 📸).
+> Every step below is done by hand in your own Developer Edition org. Take screenshots as you go (marked 📸).
 
 ---
 
@@ -97,7 +97,7 @@ Create these reports (type: *Opportunities*) and add each to a dashboard named *
 
 📸 Screenshot the full dashboard. This is the main image for your portfolio and LinkedIn post.
 
-**Cross-check:** reports #1, #4 and #6 should match the `Pipeline_Analytics.xlsx` sheets **Q4_Forecast** and **Win_Loss**. If they don't match, find out why before the interview. Reconciling numbers is part of the job.
+**Cross-check:** reports #1, #4 and #6 should match the `Pipeline_Analytics.xlsx` sheets **Q4_Forecast** and **Win_Loss**. If they don't match, find out why before relying on either. Reconciling numbers is part of the job.
 
 ## 6. Weekly forecast history (optional)
 
@@ -106,7 +106,7 @@ Salesforce can't backfill history, so you have two choices:
 - **Option A (real, going forward):** create a custom object *Pipeline Snapshot*, then use **Setup → Reporting Snapshots** to schedule a weekly copy of report #1 every Friday.
 - **Option B (portfolio history):** import `weekly_pipeline_snapshots.csv` into that custom object with the Data Import Wizard, which does support custom objects. Then build a line chart of weighted forecast by Snapshot Date.
 
-Either way, say clearly in the interview that the history is synthetic.
+Either way, label the history clearly as synthetic.
 
 ## 7. Weekly routine to demonstrate
 
