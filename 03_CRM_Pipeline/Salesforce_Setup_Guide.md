@@ -1,7 +1,7 @@
 # Salesforce setup guide: Solar Deal Desk pipeline
 
 **Time:** about 4–6 hours. **Cost:** free.
-**Result:** a Salesforce Developer Edition org that holds the 151 synthetic opportunities, uses a solar-tracker sales process, and has a forecast dashboard you can screenshot for your portfolio.
+**Result:** a Salesforce Developer Edition org that holds the 151 synthetic opportunities, uses a solar-tracker sales process, and has a weekly forecast dashboard.
 
 > Every step below is done by hand in your own Developer Edition org. Take screenshots as you go (marked 📸).
 
@@ -10,7 +10,7 @@
 ## 0. Before you start (about 1 hour)
 
 1. Sign up for a free **Developer Edition** org at developer.salesforce.com/signup. Use a username shaped like an email, e.g. `yourname@solardealdesk.dev`. It doesn't need to be a real inbox.
-2. Complete these Trailhead modules and add the badges to LinkedIn:
+2. Recommended Trailhead modules before starting:
    - *Salesforce Platform Basics*
    - *Data Management* (Data Import Wizard and Data Loader)
    - *Reports & Dashboards for Lightning Experience*
@@ -59,14 +59,14 @@ In **Object Manager → Opportunity → Fields & Relationships → New**, create
 
 Also add these values to the standard **Lead Source** picklist: Existing customer, EPC referral, Consultant / IE, Tender portal, Trade show, Inbound web.
 
-**Data-quality rule (optional but good to show).** Add a validation rule so a Closed Lost deal can't be saved without a loss reason:
+**Data-quality rule (optional).** Add a validation rule so a Closed Lost deal can't be saved without a loss reason:
 
 ```
 AND( ISPICKVAL(StageName, "Closed Lost"), ISBLANK(TEXT(Loss_Reason__c)) )
 ```
 
 Error message: *"Loss Reason is required for Closed Lost opportunities."* 📸
-This ties directly to your Capgemini experience, where you enforced complete, audit-ready records before tickets could close.
+This keeps loss data complete, so the win/loss analysis isn't skewed by blank reasons.
 
 ## 3. Import the accounts
 
@@ -95,20 +95,20 @@ Create these reports (type: *Opportunities*) and add each to a dashboard named *
 | 6 | Loss reasons | Stage = Closed Lost; group by Loss Reason | Donut |
 | 7 | Deal-desk exceptions | Open deals where `Contribution_Margin__c` < 12% | Table |
 
-📸 Screenshot the full dashboard. This is the main image for your portfolio and LinkedIn post.
+📸 Screenshot the full dashboard.
 
-**Cross-check:** reports #1, #4 and #6 should match the `Pipeline_Analytics.xlsx` sheets **Q4_Forecast** and **Win_Loss**. If they don't match, find out why before relying on either. Reconciling numbers is part of the job.
+**Cross-check:** reports #1, #4 and #6 should match the `Pipeline_Analytics.xlsx` sheets **Q4_Forecast** and **Win_Loss**. If they don't match, find out why before relying on either.
 
 ## 6. Weekly forecast history (optional)
 
 Salesforce can't backfill history, so you have two choices:
 
 - **Option A (real, going forward):** create a custom object *Pipeline Snapshot*, then use **Setup → Reporting Snapshots** to schedule a weekly copy of report #1 every Friday.
-- **Option B (portfolio history):** import `weekly_pipeline_snapshots.csv` into that custom object with the Data Import Wizard, which does support custom objects. Then build a line chart of weighted forecast by Snapshot Date.
+- **Option B (synthetic history):** import `weekly_pipeline_snapshots.csv` into that custom object with the Data Import Wizard, which does support custom objects. Then build a line chart of weighted forecast by Snapshot Date.
 
 Either way, label the history clearly as synthetic.
 
-## 7. Weekly routine to demonstrate
+## 7. Weekly forecasting routine
 
 Every Friday the analyst should:
 
