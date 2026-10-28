@@ -109,7 +109,6 @@ Every number below lives once, on the **Assumptions** sheet. The quotation, appr
 
 ## 6. Limitations
 
-- **Energy:** PVGIS is a general-purpose model. Its single-axis option assumes ideal rotation with no backtracking, row-to-row shading, stow or availability losses, hence the 70% realisation haircut. A bankable study would use PVsyst or SAM with the real layout, GCR, bifacial modules and P50/P90.
 - **Costs:** costs, prices and O&M are synthetic and have not been checked against any real supplier.
 - **Finance:** the project finance sheet is pre-tax and simplified (no depreciation, tax, DSRA or working capital).
 - **Sample size:** 9–35 closed deals per group, so the results are directional only.
